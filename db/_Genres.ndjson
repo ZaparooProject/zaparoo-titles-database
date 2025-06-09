@@ -1,0 +1,187 @@
+{"id":1,"name":"Action","description":""}
+{"id":2,"name":"Adult","description":""}
+{"id":3,"name":"Adventure","description":""}
+{"id":4,"name":"Adventure: Graphic","description":""}
+{"id":5,"name":"Adventure: RPG","description":""}
+{"id":6,"name":"Adventure: Text","description":""}
+{"id":7,"name":"Arcade: Action","description":""}
+{"id":8,"name":"Arcade: Adventure","description":""}
+{"id":9,"name":"Arcade: Gang beat-em-up","description":""}
+{"id":10,"name":"Arcade: Maze","description":""}
+{"id":11,"name":"Arcade: Pinball","description":""}
+{"id":12,"name":"Arcade: Platform","description":""}
+{"id":13,"name":"Arcade: Race 'n' Chase","description":""}
+{"id":14,"name":"Arcade: Shoot-em-up","description":""}
+{"id":15,"name":"Arcade: Solo beat-em-up","description":""}
+{"id":16,"name":"Arcade: Vehicle Combat","description":""}
+{"id":17,"name":"Asiatic board game","description":""}
+{"id":18,"name":"Aventura.","description":""}
+{"id":19,"name":"Ball & Paddle","description":""}
+{"id":20,"name":"Basketball","description":""}
+{"id":21,"name":"Beat'em Up","description":""}
+{"id":22,"name":"Beat'em Up / Fighting.","description":""}
+{"id":23,"name":"Beat'em Up.","description":""}
+{"id":24,"name":"Beat'em up","description":""}
+{"id":25,"name":"Billiard","description":""}
+{"id":26,"name":"Board","description":""}
+{"id":27,"name":"Board / Backgammon","description":""}
+{"id":28,"name":"Board / Cards / Mahjong / Party.","description":""}
+{"id":29,"name":"Board / Cards / Mahjong.","description":""}
+{"id":30,"name":"Board / Cards.","description":""}
+{"id":31,"name":"Board / Chess","description":""}
+{"id":32,"name":"Board / Chess.","description":""}
+{"id":33,"name":"Board / Gambling.","description":""}
+{"id":34,"name":"Board / Hanafuda.","description":""}
+{"id":35,"name":"Board / Igo.","description":""}
+{"id":36,"name":"Board / Mahjong.","description":""}
+{"id":37,"name":"Board / Mini Games.","description":""}
+{"id":38,"name":"Board / Shogi.","description":""}
+{"id":39,"name":"Board Game","description":""}
+{"id":40,"name":"Board game","description":""}
+{"id":41,"name":"Board.","description":""}
+{"id":42,"name":"Bowling","description":""}
+{"id":43,"name":"Boxing","description":""}
+{"id":44,"name":"Boxing.","description":""}
+{"id":45,"name":"Break Out","description":""}
+{"id":46,"name":"Breakout","description":""}
+{"id":47,"name":"Breakout / Mini Games","description":""}
+{"id":48,"name":"Bullet Hell","description":""}
+{"id":49,"name":"Card Battle","description":""}
+{"id":50,"name":"Card Battle.","description":""}
+{"id":51,"name":"Card Game","description":""}
+{"id":52,"name":"Cards","description":""}
+{"id":53,"name":"Cards.","description":""}
+{"id":54,"name":"Casino","description":""}
+{"id":55,"name":"Casual Game","description":""}
+{"id":56,"name":"Chess","description":""}
+{"id":57,"name":"Chess.","description":""}
+{"id":58,"name":"Compilation","description":""}
+{"id":59,"name":"Cricket","description":""}
+{"id":60,"name":"Dancing","description":""}
+{"id":61,"name":"Dancing / Mini games.","description":""}
+{"id":62,"name":"Dancing / Music","description":""}
+{"id":63,"name":"Dancing.","description":""}
+{"id":64,"name":"Data / Pictures / Jigsaw Puzzle.","description":""}
+{"id":65,"name":"Data / Pictures / Mini Games / Music.","description":""}
+{"id":66,"name":"Data / Pictures / Mini Games.","description":""}
+{"id":67,"name":"Data / Pictures / Music.","description":""}
+{"id":68,"name":"Data / Pictures / Puzzle.","description":""}
+{"id":69,"name":"Data / Pictures.","description":""}
+{"id":70,"name":"Demo","description":""}
+{"id":71,"name":"Domestic","description":""}
+{"id":72,"name":"Driving","description":""}
+{"id":73,"name":"Educational","description":""}
+{"id":74,"name":"Educational / Interactive Movie.","description":""}
+{"id":75,"name":"Educational / Jigsaw puzzle","description":""}
+{"id":76,"name":"Educational / Mini Games","description":""}
+{"id":77,"name":"Educational / Mini Games.","description":""}
+{"id":78,"name":"Educational / Mini games","description":""}
+{"id":79,"name":"FPS","description":""}
+{"id":80,"name":"Fight","description":""}
+{"id":81,"name":"Fighter","description":""}
+{"id":82,"name":"Fighting","description":""}
+{"id":83,"name":"Fighting / Beat'em Up","description":""}
+{"id":84,"name":"Fighting / Beat'em up","description":""}
+{"id":85,"name":"Fighting / Mini Games","description":""}
+{"id":86,"name":"Fighting.","description":""}
+{"id":87,"name":"Fishing","description":""}
+{"id":88,"name":"Fishing.","description":""}
+{"id":89,"name":"Flight Simulator.","description":""}
+{"id":90,"name":"Football","description":""}
+{"id":91,"name":"Football.","description":""}
+{"id":92,"name":"Gambling","description":""}
+{"id":93,"name":"Gambling / Casino","description":""}
+{"id":94,"name":"Gambling / Poker","description":""}
+{"id":95,"name":"Gambling Games","description":""}
+{"id":96,"name":"Gambling.","description":""}
+{"id":97,"name":"Gun","description":""}
+{"id":98,"name":"Gun.","description":""}
+{"id":99,"name":"Horse Ride","description":""}
+{"id":100,"name":"Horse riding","description":""}
+{"id":101,"name":"Hunting and Fishing","description":""}
+{"id":102,"name":"Hunting.","description":""}
+{"id":103,"name":"Interactive Movie / Educational.","description":""}
+{"id":104,"name":"Interactive Movie / Puzzle.","description":""}
+{"id":105,"name":"Jigsaw Puzzle","description":""}
+{"id":106,"name":"Jigsaw Puzzle / Colouring Book","description":""}
+{"id":107,"name":"Jigsaw Puzzle.","description":""}
+{"id":108,"name":"Jigsaw puzzle","description":""}
+{"id":109,"name":"Lightgun Shooter","description":""}
+{"id":110,"name":"Mahjong / Puzzle.","description":""}
+{"id":111,"name":"Mahjong.","description":""}
+{"id":112,"name":"Mini Games","description":""}
+{"id":113,"name":"Mini Games / Party","description":""}
+{"id":114,"name":"Mini Games / Quiz.","description":""}
+{"id":115,"name":"Mini Games.","description":""}
+{"id":116,"name":"Miscellaneous","description":""}
+{"id":117,"name":"Motocross","description":""}
+{"id":118,"name":"MultiGame","description":""}
+{"id":119,"name":"Music","description":""}
+{"id":120,"name":"Music and Dance","description":""}
+{"id":121,"name":"Music.","description":""}
+{"id":122,"name":"N/A","description":""}
+{"id":123,"name":"Party / Mini games","description":""}
+{"id":124,"name":"Pinball","description":""}
+{"id":125,"name":"Pinball.","description":""}
+{"id":126,"name":"Plataformer","description":""}
+{"id":127,"name":"Platform","description":""}
+{"id":128,"name":"Platformer","description":""}
+{"id":129,"name":"Playing cards","description":""}
+{"id":130,"name":"Pool","description":""}
+{"id":131,"name":"Puzzle","description":""}
+{"id":132,"name":"Puzzle / Colouring Book","description":""}
+{"id":133,"name":"Puzzle / Colouring Game","description":""}
+{"id":134,"name":"Puzzle / Educational","description":""}
+{"id":135,"name":"Puzzle / Jigsaw","description":""}
+{"id":136,"name":"Puzzle-Game","description":""}
+{"id":137,"name":"Puzzle.","description":""}
+{"id":138,"name":"Quiz","description":""}
+{"id":139,"name":"Quiz / Mini Games","description":""}
+{"id":140,"name":"Quiz / Party","description":""}
+{"id":141,"name":"Quiz / Party Game","description":""}
+{"id":142,"name":"Quiz.","description":""}
+{"id":143,"name":"RPG","description":""}
+{"id":144,"name":"Race, Driving","description":""}
+{"id":145,"name":"Racing","description":""}
+{"id":146,"name":"Racing / Driving","description":""}
+{"id":147,"name":"Rhythm / Music.","description":""}
+{"id":148,"name":"Rhythm / Sing.","description":""}
+{"id":149,"name":"Rhythm.","description":""}
+{"id":150,"name":"Role playing games","description":""}
+{"id":151,"name":"Rugby","description":""}
+{"id":152,"name":"Rugby.","description":""}
+{"id":153,"name":"SLG","description":""}
+{"id":154,"name":"Shoot'em Up","description":""}
+{"id":155,"name":"Shooter","description":""}
+{"id":156,"name":"Simulation","description":""}
+{"id":157,"name":"Sing.","description":""}
+{"id":158,"name":"Skateboard","description":""}
+{"id":159,"name":"Skateboarding","description":""}
+{"id":160,"name":"Skateboarding.","description":""}
+{"id":161,"name":"Skiing","description":""}
+{"id":162,"name":"Snowboard","description":""}
+{"id":163,"name":"Snowboarding","description":""}
+{"id":164,"name":"Snowboarding.","description":""}
+{"id":165,"name":"Sport: Action","description":""}
+{"id":166,"name":"Sport: Management","description":""}
+{"id":167,"name":"Sports","description":""}
+{"id":168,"name":"Sports with Animals","description":""}
+{"id":169,"name":"Strategy","description":""}
+{"id":170,"name":"Strategy: Management","description":""}
+{"id":171,"name":"Strategy: War","description":""}
+{"id":172,"name":"Survival Horror","description":""}
+{"id":173,"name":"Survival Horror / Gun","description":""}
+{"id":174,"name":"Survival Horror.","description":""}
+{"id":175,"name":"Survival horror.","description":""}
+{"id":176,"name":"Tactical Combat","description":""}
+{"id":177,"name":"Tennis","description":""}
+{"id":178,"name":"Tennis.","description":""}
+{"id":179,"name":"Thinking","description":""}
+{"id":180,"name":"Trainer","description":""}
+{"id":181,"name":"Utility","description":""}
+{"id":182,"name":"Utility: Copy/Backup","description":""}
+{"id":183,"name":"Various","description":""}
+{"id":184,"name":"Visual Novel.","description":""}
+{"id":185,"name":"Windsurfing","description":""}
+{"id":186,"name":"Wrestling","description":""}
+{"id":187,"name":"Wrestling.","description":""}

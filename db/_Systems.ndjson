@@ -1,0 +1,134 @@
+{"id":1,"name":"Amstrad - CPC.rdb","zaparoo_id":"","description":""}
+{"id":2,"name":"Amstrad - GX4000.rdb","zaparoo_id":"","description":""}
+{"id":3,"name":"Arduboy Inc - Arduboy.rdb","zaparoo_id":"","description":""}
+{"id":4,"name":"Atari - 2600.rdb","zaparoo_id":"","description":""}
+{"id":5,"name":"Atari - 5200.rdb","zaparoo_id":"","description":""}
+{"id":6,"name":"Atari - 7800.rdb","zaparoo_id":"","description":""}
+{"id":7,"name":"Atari - 8-bit.rdb","zaparoo_id":"","description":""}
+{"id":8,"name":"Atari - Jaguar.rdb","zaparoo_id":"","description":""}
+{"id":9,"name":"Atari - Lynx.rdb","zaparoo_id":"","description":""}
+{"id":10,"name":"Atari - ST.rdb","zaparoo_id":"","description":""}
+{"id":11,"name":"Atomiswave.rdb","zaparoo_id":"","description":""}
+{"id":12,"name":"Bandai - WonderSwan Color.rdb","zaparoo_id":"","description":""}
+{"id":13,"name":"Bandai - WonderSwan.rdb","zaparoo_id":"","description":""}
+{"id":14,"name":"CHIP-8.rdb","zaparoo_id":"","description":""}
+{"id":15,"name":"Cannonball.rdb","zaparoo_id":"","description":""}
+{"id":16,"name":"Casio - Loopy.rdb","zaparoo_id":"","description":""}
+{"id":17,"name":"Casio - PV-1000.rdb","zaparoo_id":"","description":""}
+{"id":18,"name":"Cave Story.rdb","zaparoo_id":"","description":""}
+{"id":19,"name":"ChaiLove.rdb","zaparoo_id":"","description":""}
+{"id":20,"name":"Coleco - ColecoVision.rdb","zaparoo_id":"","description":""}
+{"id":21,"name":"Commodore - 64.rdb","zaparoo_id":"","description":""}
+{"id":22,"name":"Commodore - Amiga.rdb","zaparoo_id":"","description":""}
+{"id":23,"name":"Commodore - CD32.rdb","zaparoo_id":"","description":""}
+{"id":24,"name":"Commodore - CDTV.rdb","zaparoo_id":"","description":""}
+{"id":25,"name":"Commodore - PET.rdb","zaparoo_id":"","description":""}
+{"id":26,"name":"Commodore - Plus-4.rdb","zaparoo_id":"","description":""}
+{"id":27,"name":"Commodore - VIC-20.rdb","zaparoo_id":"","description":""}
+{"id":28,"name":"DICE.rdb","zaparoo_id":"","description":""}
+{"id":29,"name":"DOOM.rdb","zaparoo_id":"","description":""}
+{"id":30,"name":"DOS.rdb","zaparoo_id":"","description":""}
+{"id":31,"name":"Dinothawr.rdb","zaparoo_id":"","description":""}
+{"id":32,"name":"Emerson - Arcadia 2001.rdb","zaparoo_id":"","description":""}
+{"id":33,"name":"Enterprise - 128.rdb","zaparoo_id":"","description":""}
+{"id":34,"name":"Entex - Adventure Vision.rdb","zaparoo_id":"","description":""}
+{"id":35,"name":"Epoch - Super Cassette Vision.rdb","zaparoo_id":"","description":""}
+{"id":36,"name":"FBNeo - Arcade Games.rdb","zaparoo_id":"","description":""}
+{"id":37,"name":"Fairchild - Channel F.rdb","zaparoo_id":"","description":""}
+{"id":38,"name":"Flashback.rdb","zaparoo_id":"","description":""}
+{"id":39,"name":"Funtech - Super Acan.rdb","zaparoo_id":"","description":""}
+{"id":40,"name":"GCE - Vectrex.rdb","zaparoo_id":"","description":""}
+{"id":41,"name":"GamePark - GP32.rdb","zaparoo_id":"","description":""}
+{"id":42,"name":"HBMAME.rdb","zaparoo_id":"","description":""}
+{"id":43,"name":"Handheld Electronic Game.rdb","zaparoo_id":"","description":""}
+{"id":44,"name":"Hartung - Game Master.rdb","zaparoo_id":"","description":""}
+{"id":45,"name":"Infocom - Z-Machine.rdb","zaparoo_id":"","description":""}
+{"id":46,"name":"Jump 'n Bump.rdb","zaparoo_id":"","description":""}
+{"id":47,"name":"LeapFrog - Leapster Learning Game System.rdb","zaparoo_id":"","description":""}
+{"id":48,"name":"LowRes NX.rdb","zaparoo_id":"","description":""}
+{"id":49,"name":"Lutro.rdb","zaparoo_id":"","description":""}
+{"id":50,"name":"MAME.rdb","zaparoo_id":"","description":""}
+{"id":51,"name":"Magnavox - Odyssey2.rdb","zaparoo_id":"","description":""}
+{"id":52,"name":"Mattel - Intellivision.rdb","zaparoo_id":"","description":""}
+{"id":53,"name":"MicroW8.rdb","zaparoo_id":"","description":""}
+{"id":54,"name":"Microsoft - MSX.rdb","zaparoo_id":"","description":""}
+{"id":55,"name":"Microsoft - MSX2.rdb","zaparoo_id":"","description":""}
+{"id":56,"name":"Microsoft - Xbox.rdb","zaparoo_id":"","description":""}
+{"id":57,"name":"Mobile - J2ME.rdb","zaparoo_id":"","description":""}
+{"id":58,"name":"MrBoom.rdb","zaparoo_id":"","description":""}
+{"id":59,"name":"NEC - PC Engine - TurboGrafx 16.rdb","zaparoo_id":"","description":""}
+{"id":60,"name":"NEC - PC Engine CD - TurboGrafx-CD.rdb","zaparoo_id":"","description":""}
+{"id":61,"name":"NEC - PC Engine SuperGrafx.rdb","zaparoo_id":"","description":""}
+{"id":62,"name":"NEC - PC-8001 - PC-8801.rdb","zaparoo_id":"","description":""}
+{"id":63,"name":"NEC - PC-98.rdb","zaparoo_id":"","description":""}
+{"id":64,"name":"NEC - PC-FX.rdb","zaparoo_id":"","description":""}
+{"id":65,"name":"Nintendo - Family Computer Disk System.rdb","zaparoo_id":"","description":""}
+{"id":66,"name":"Nintendo - Game Boy Advance.rdb","zaparoo_id":"","description":""}
+{"id":67,"name":"Nintendo - Game Boy Color.rdb","zaparoo_id":"","description":""}
+{"id":68,"name":"Nintendo - Game Boy.rdb","zaparoo_id":"","description":""}
+{"id":69,"name":"Nintendo - GameCube.rdb","zaparoo_id":"","description":""}
+{"id":70,"name":"Nintendo - Nintendo 3DS.rdb","zaparoo_id":"","description":""}
+{"id":71,"name":"Nintendo - Nintendo 64.rdb","zaparoo_id":"","description":""}
+{"id":72,"name":"Nintendo - Nintendo 64DD.rdb","zaparoo_id":"","description":""}
+{"id":73,"name":"Nintendo - Nintendo DS.rdb","zaparoo_id":"","description":""}
+{"id":74,"name":"Nintendo - Nintendo DSi.rdb","zaparoo_id":"","description":""}
+{"id":75,"name":"Nintendo - Nintendo Entertainment System.rdb","zaparoo_id":"","description":""}
+{"id":76,"name":"Nintendo - Pokemon Mini.rdb","zaparoo_id":"","description":""}
+{"id":77,"name":"Nintendo - Satellaview.rdb","zaparoo_id":"","description":""}
+{"id":78,"name":"Nintendo - Sufami Turbo.rdb","zaparoo_id":"","description":""}
+{"id":79,"name":"Nintendo - Super Nintendo Entertainment System.rdb","zaparoo_id":"","description":""}
+{"id":80,"name":"Nintendo - Virtual Boy.rdb","zaparoo_id":"","description":""}
+{"id":81,"name":"Nintendo - Wii (Digital).rdb","zaparoo_id":"","description":""}
+{"id":82,"name":"Nintendo - Wii.rdb","zaparoo_id":"","description":""}
+{"id":83,"name":"Nintendo - e-Reader.rdb","zaparoo_id":"","description":""}
+{"id":84,"name":"PICO-8.rdb","zaparoo_id":"","description":""}
+{"id":85,"name":"Philips - CD-i.rdb","zaparoo_id":"","description":""}
+{"id":86,"name":"Philips - Videopac+.rdb","zaparoo_id":"","description":""}
+{"id":87,"name":"PuzzleScript.rdb","zaparoo_id":"","description":""}
+{"id":88,"name":"Quake II.rdb","zaparoo_id":"","description":""}
+{"id":89,"name":"Quake III.rdb","zaparoo_id":"","description":""}
+{"id":90,"name":"Quake.rdb","zaparoo_id":"","description":""}
+{"id":91,"name":"RCA - Studio II.rdb","zaparoo_id":"","description":""}
+{"id":92,"name":"RPG Maker.rdb","zaparoo_id":"","description":""}
+{"id":93,"name":"Rick Dangerous.rdb","zaparoo_id":"","description":""}
+{"id":94,"name":"SNK - Neo Geo CD.rdb","zaparoo_id":"","description":""}
+{"id":95,"name":"SNK - Neo Geo Pocket Color.rdb","zaparoo_id":"","description":""}
+{"id":96,"name":"SNK - Neo Geo Pocket.rdb","zaparoo_id":"","description":""}
+{"id":97,"name":"SNK - Neo Geo.rdb","zaparoo_id":"","description":""}
+{"id":98,"name":"ScummVM.rdb","zaparoo_id":"","description":""}
+{"id":99,"name":"Sega - 32X.rdb","zaparoo_id":"","description":""}
+{"id":100,"name":"Sega - Dreamcast.rdb","zaparoo_id":"","description":""}
+{"id":101,"name":"Sega - Game Gear.rdb","zaparoo_id":"","description":""}
+{"id":102,"name":"Sega - Master System - Mark III.rdb","zaparoo_id":"","description":""}
+{"id":103,"name":"Sega - Mega Drive - Genesis.rdb","zaparoo_id":"","description":""}
+{"id":104,"name":"Sega - Mega-CD - Sega CD.rdb","zaparoo_id":"","description":""}
+{"id":105,"name":"Sega - Naomi 2.rdb","zaparoo_id":"","description":""}
+{"id":106,"name":"Sega - Naomi.rdb","zaparoo_id":"","description":""}
+{"id":107,"name":"Sega - PICO.rdb","zaparoo_id":"","description":""}
+{"id":108,"name":"Sega - SG-1000.rdb","zaparoo_id":"","description":""}
+{"id":109,"name":"Sega - Saturn.rdb","zaparoo_id":"","description":""}
+{"id":110,"name":"Sharp - X1.rdb","zaparoo_id":"","description":""}
+{"id":111,"name":"Sharp - X68000.rdb","zaparoo_id":"","description":""}
+{"id":112,"name":"Sinclair - ZX 81.rdb","zaparoo_id":"","description":""}
+{"id":113,"name":"Sinclair - ZX Spectrum +3.rdb","zaparoo_id":"","description":""}
+{"id":114,"name":"Sinclair - ZX Spectrum.rdb","zaparoo_id":"","description":""}
+{"id":115,"name":"Sony - PlayStation 2.rdb","zaparoo_id":"","description":""}
+{"id":116,"name":"Sony - PlayStation 3 (PSN).rdb","zaparoo_id":"","description":""}
+{"id":117,"name":"Sony - PlayStation 3.rdb","zaparoo_id":"","description":""}
+{"id":118,"name":"Sony - PlayStation Portable (PSN).rdb","zaparoo_id":"","description":""}
+{"id":119,"name":"Sony - PlayStation Portable.rdb","zaparoo_id":"","description":""}
+{"id":120,"name":"Sony - PlayStation Vita.rdb","zaparoo_id":"","description":""}
+{"id":121,"name":"Sony - PlayStation.rdb","zaparoo_id":"","description":""}
+{"id":122,"name":"Spectravideo - SVI-318 - SVI-328.rdb","zaparoo_id":"","description":""}
+{"id":123,"name":"TIC-80.rdb","zaparoo_id":"","description":""}
+{"id":124,"name":"The 3DO Company - 3DO.rdb","zaparoo_id":"","description":""}
+{"id":125,"name":"Thomson - MOTO.rdb","zaparoo_id":"","description":""}
+{"id":126,"name":"Tiger - Game.com.rdb","zaparoo_id":"","description":""}
+{"id":127,"name":"Tomb Raider.rdb","zaparoo_id":"","description":""}
+{"id":128,"name":"Uzebox.rdb","zaparoo_id":"","description":""}
+{"id":129,"name":"VTech - CreatiVision.rdb","zaparoo_id":"","description":""}
+{"id":130,"name":"VTech - V.Smile.rdb","zaparoo_id":"","description":""}
+{"id":131,"name":"Vircon32.rdb","zaparoo_id":"","description":""}
+{"id":132,"name":"WASM-4.rdb","zaparoo_id":"","description":""}
+{"id":133,"name":"Watara - Supervision.rdb","zaparoo_id":"","description":""}
+{"id":134,"name":"Wolfenstein 3D.rdb","zaparoo_id":"","description":""}

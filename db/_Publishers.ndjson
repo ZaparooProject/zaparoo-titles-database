@@ -1,0 +1,3416 @@
+{"id":1,"name":" 2K Games, Ltd.","description":""}
+{"id":2,"name":" Bento Emanuel","description":""}
+{"id":3,"name":" D4 Enterprise, Inc.","description":""}
+{"id":4,"name":" O~3 Entertainment / SEGA","description":""}
+{"id":5,"name":" Telltale Games","description":""}
+{"id":6,"name":" Trion Worlds","description":""}
+{"id":7,"name":"007325","description":""}
+{"id":8,"name":"10tacle Studios","description":""}
+{"id":9,"name":"1985 Alternativo","description":""}
+{"id":10,"name":"1C Company","description":""}
+{"id":11,"name":"20th Century Fox","description":""}
+{"id":12,"name":"21st Century Entertainment","description":""}
+{"id":13,"name":"2D Boy","description":""}
+{"id":14,"name":"2K","description":""}
+{"id":15,"name":"2K Games","description":""}
+{"id":16,"name":"2K Games, Inc.  ","description":""}
+{"id":17,"name":"2K Games, Ltd.","description":""}
+{"id":18,"name":"2K Play","description":""}
+{"id":19,"name":"2K Play ","description":""}
+{"id":20,"name":"2K Sports","description":""}
+{"id":21,"name":"39 Steps","description":""}
+{"id":22,"name":"3D Realms","description":""}
+{"id":23,"name":"3DO","description":""}
+{"id":24,"name":"4HIT LTD","description":""}
+{"id":25,"name":"4Play/ScatoLogic","description":""}
+{"id":26,"name":"505 Game Street","description":""}
+{"id":27,"name":"505 GameStreet","description":""}
+{"id":28,"name":"505 Games","description":""}
+{"id":29,"name":"505 Games / Halifax","description":""}
+{"id":30,"name":"505 Gamestreet","description":""}
+{"id":31,"name":"5gk","description":""}
+{"id":32,"name":"5pb","description":""}
+{"id":33,"name":"5pb / Cyberfront","description":""}
+{"id":34,"name":"5pb / Princess Soft","description":""}
+{"id":35,"name":"5pb.","description":""}
+{"id":36,"name":"8ing / Raizing / Capcom","description":""}
+{"id":37,"name":"989 Sports","description":""}
+{"id":38,"name":"989 Studios","description":""}
+{"id":39,"name":": HUDSON SOFT","description":""}
+{"id":40,"name":"????","description":""}
+{"id":41,"name":"A & F Software","description":""}
+{"id":42,"name":"A Studio","description":""}
+{"id":43,"name":"A Wave Inc","description":""}
+{"id":44,"name":"A.C.E.","description":""}
+{"id":45,"name":"A.I (Atlus license)","description":""}
+{"id":46,"name":"ABM","description":""}
+{"id":47,"name":"ABM & Gecas","description":""}
+{"id":48,"name":"ACE International","description":""}
+{"id":49,"name":"ACE International / Afega","description":""}
+{"id":50,"name":"ACE Software","description":""}
+{"id":51,"name":"ADK","description":""}
+{"id":52,"name":"ADK / SNK","description":""}
+{"id":53,"name":"AIA","description":""}
+{"id":54,"name":"AKI Corporation","description":""}
+{"id":55,"name":"ALTER interservice, Greed","description":""}
+{"id":56,"name":"ANX","description":""}
+{"id":57,"name":"AQ Interactive","description":""}
+{"id":58,"name":"ARC SYSTEM WORKS","description":""}
+{"id":59,"name":"ASC Games","description":""}
+{"id":60,"name":"ASCII","description":""}
+{"id":61,"name":"ASCII Corporation","description":""}
+{"id":62,"name":"ASCII Entertaiment","description":""}
+{"id":63,"name":"ASCII Entertainment","description":""}
+{"id":64,"name":"ASCII Entertainment Software, Inc","description":""}
+{"id":65,"name":"ASK","description":""}
+{"id":66,"name":"ASK Kodansha","description":""}
+{"id":67,"name":"ATW","description":""}
+{"id":68,"name":"ATW USA, Inc.","description":""}
+{"id":69,"name":"AUI","description":""}
+{"id":70,"name":"Aackosoft","description":""}
+{"id":71,"name":"Aaronix","description":""}
+{"id":72,"name":"Abel Software","description":""}
+{"id":73,"name":"Able Corp, Ltd.","description":""}
+{"id":74,"name":"AboodXD","description":""}
+{"id":75,"name":"Absolute Entertainment","description":""}
+{"id":76,"name":"Abstraction Games","description":""}
+{"id":77,"name":"Abu","description":""}
+{"id":78,"name":"Abylight","description":""}
+{"id":79,"name":"Access Games","description":""}
+{"id":80,"name":"Acclaim","description":""}
+{"id":81,"name":"Acclaim Entertaiment","description":""}
+{"id":82,"name":"Acclaim Entertainment","description":""}
+{"id":83,"name":"Acclaim Entertainment Inc","description":""}
+{"id":84,"name":"Acclaim Entertainment, Inc","description":""}
+{"id":85,"name":"Acclaim Japan ","description":""}
+{"id":86,"name":"Acclaim Sports","description":""}
+{"id":87,"name":"Accolade","description":""}
+{"id":88,"name":"Accolade / Warner Interactive","description":""}
+{"id":89,"name":"Accolade, Inc","description":""}
+{"id":90,"name":"Accolade, Inc. / Warner Interactive Entertainment Ltd","description":""}
+{"id":91,"name":"Ace Enterprise","description":""}
+{"id":92,"name":"Ace International Licence","description":""}
+{"id":93,"name":"Acid Software","description":""}
+{"id":94,"name":"Acom","description":""}
+{"id":95,"name":"Acquire","description":""}
+{"id":96,"name":"Active Enterprises","description":""}
+{"id":97,"name":"Activision","description":""}
+{"id":98,"name":"Activision / ASK Corporation","description":""}
+{"id":99,"name":"Activision / Crystal Dynamics","description":""}
+{"id":100,"name":"Activision / Infogrames","description":""}
+{"id":101,"name":"Activision / Proein","description":""}
+{"id":102,"name":"Activision / Proein Soft","description":""}
+{"id":103,"name":"Activision Blizzard","description":""}
+{"id":104,"name":"Activision Japan","description":""}
+{"id":105,"name":"Activision Publishing, Inc.","description":""}
+{"id":106,"name":"Activision UK, Ltd.","description":""}
+{"id":107,"name":"Activision Value Publishing Inc","description":""}
+{"id":108,"name":"Activision, Inc","description":""}
+{"id":109,"name":"AdamCrossing","description":""}
+{"id":110,"name":"Addictive Games","description":""}
+{"id":111,"name":"Adrenalin","description":""}
+{"id":112,"name":"Adrenalin Interactive","description":""}
+{"id":113,"name":"Advanced Microcomputer Systems","description":""}
+{"id":114,"name":"Advanced Productions","description":""}
+{"id":115,"name":"Adventure International","description":""}
+{"id":116,"name":"Adventure Soft","description":""}
+{"id":117,"name":"Afega","description":""}
+{"id":118,"name":"Afega (Apples Industries license)","description":""}
+{"id":119,"name":"Afega (Excellent Co. license)","description":""}
+{"id":120,"name":"Afega (Hae Dong Corp license)","description":""}
+{"id":121,"name":"Afega (New Vision Ent. license)","description":""}
+{"id":122,"name":"Afega (Pandora license)","description":""}
+{"id":123,"name":"Afega (Tuning license)","description":""}
+{"id":124,"name":"Afega Co.","description":""}
+{"id":125,"name":"Affect","description":""}
+{"id":126,"name":"Again Again","description":""}
+{"id":127,"name":"Agathe","description":""}
+{"id":128,"name":"Agenda","description":""}
+{"id":129,"name":"Agetec","description":""}
+{"id":130,"name":"Agetec / Sega","description":""}
+{"id":131,"name":"Agetec Inc","description":""}
+{"id":132,"name":"Agetec Inc.","description":""}
+{"id":133,"name":"Agetec, Inc","description":""}
+{"id":134,"name":"Aicom","description":""}
+{"id":135,"name":"Aiky / Taito","description":""}
+{"id":136,"name":"Airwalk Studios","description":""}
+{"id":137,"name":"Ajinomoto","description":""}
+{"id":138,"name":"Akaoni Studio","description":""}
+{"id":139,"name":"Akinai Games/YUKE’S Company","description":""}
+{"id":140,"name":"Akom","description":""}
+{"id":141,"name":"Akson Software","description":""}
+{"id":142,"name":"Aksys Games","description":""}
+{"id":143,"name":"Al Alamiah","description":""}
+{"id":144,"name":"Alchemist","description":""}
+{"id":145,"name":"Allied Kingdoms Inc.","description":""}
+{"id":146,"name":"Alligata Software","description":""}
+{"id":147,"name":"Allumer","description":""}
+{"id":148,"name":"Allumer (Taito license)","description":""}
+{"id":149,"name":"Allumer + Tecmo","description":""}
+{"id":150,"name":"Allumer / Taito America Corporation","description":""}
+{"id":151,"name":"Almathera","description":""}
+{"id":152,"name":"Alpha Co.","description":""}
+{"id":153,"name":"Alpha Denshi Co.","description":""}
+{"id":154,"name":"Alpha Denshi Co. (SNK license)","description":""}
+{"id":155,"name":"Alpha Denshi Co. (SNK of America license)","description":""}
+{"id":156,"name":"Alpha Denshi Co. (SNK of America/Romstar license)","description":""}
+{"id":157,"name":"Alpha Denshi Co. (SNK/Romstar license)","description":""}
+{"id":158,"name":"Alpha Denshi Co. (World Games Inc. license)","description":""}
+{"id":159,"name":"Alpha Denshi Co. / Craul Denshi","description":""}
+{"id":160,"name":"Alpha Denshi Co. / Kural (Williams license)","description":""}
+{"id":161,"name":"Alpha Denshi Co. / Kural Electric, Ltd.","description":""}
+{"id":162,"name":"Alpha Denshi Co. / Kural Esco Electric, Ltd.","description":""}
+{"id":163,"name":"Alpha Denshi Co. / Kural Samno Electric, Ltd.","description":""}
+{"id":164,"name":"Alpha Denshi Co. / Kural TWT","description":""}
+{"id":165,"name":"Alpha Unit","description":""}
+{"id":166,"name":"Alphabatim","description":""}
+{"id":167,"name":"Alphastar","description":""}
+{"id":168,"name":"Alternative","description":""}
+{"id":169,"name":"Alternative Software","description":""}
+{"id":170,"name":"Alternative Software, Bigg Wolf","description":""}
+{"id":171,"name":"Altron","description":""}
+{"id":172,"name":"Altus","description":""}
+{"id":173,"name":"Amenip (Palcom Queen River)","description":""}
+{"id":174,"name":"Amenip (US Billiards Inc. license)","description":""}
+{"id":175,"name":"Amenip Nova Games Ltd.","description":""}
+{"id":176,"name":"American Game Cartridges","description":""}
+{"id":177,"name":"American Game Factory","description":""}
+{"id":178,"name":"American Sammy","description":""}
+{"id":179,"name":"American Softworks","description":""}
+{"id":180,"name":"American Technos","description":""}
+{"id":181,"name":"American Video Entertainment","description":""}
+{"id":182,"name":"American Videogame","description":""}
+{"id":183,"name":"Americana Software","description":""}
+{"id":184,"name":"Amiga","description":""}
+{"id":185,"name":"Amiga Owl","description":""}
+{"id":186,"name":"AmigaJay","description":""}
+{"id":187,"name":"Ample Software","description":""}
+{"id":188,"name":"Amsoft","description":""}
+{"id":189,"name":"Amstar","description":""}
+{"id":190,"name":"Amstar (Centuri license)","description":""}
+{"id":191,"name":"Amstar (Taito Japan license)","description":""}
+{"id":192,"name":"Amstar (Taito license)","description":""}
+{"id":193,"name":"Amtex","description":""}
+{"id":194,"name":"Amusement Korea","description":""}
+{"id":195,"name":"Amutech","description":""}
+{"id":196,"name":"Ancient","description":""}
+{"id":197,"name":"Anco","description":""}
+{"id":198,"name":"Andamiro Entertainment Co. Ltd.","description":""}
+{"id":199,"name":"Angel","description":""}
+{"id":200,"name":"Anirog","description":""}
+{"id":201,"name":"Another world team","description":""}
+{"id":202,"name":"Answer Software","description":""}
+{"id":203,"name":"Anthony Tokar","description":""}
+{"id":204,"name":"Antnee","description":""}
+{"id":205,"name":"Aorn / Electronic Arts","description":""}
+{"id":206,"name":"Apache","description":""}
+{"id":207,"name":"Apogee Software","description":""}
+{"id":208,"name":"Apollo","description":""}
+{"id":209,"name":"Apollo Soft","description":""}
+{"id":210,"name":"Apollo, Inc.","description":""}
+{"id":211,"name":"Apollo, Inc.","description":""}
+{"id":212,"name":"Aqua Pacific","description":""}
+{"id":213,"name":"Aqua Plus","description":""}
+{"id":214,"name":"Aqua Systems","description":""}
+{"id":215,"name":"Aradi, Zoltan","description":""}
+{"id":216,"name":"Arc System Works","description":""}
+{"id":217,"name":"Arcadia Corporation","description":""}
+{"id":218,"name":"Arcadia Systems","description":""}
+{"id":219,"name":"Ardink corporation","description":""}
+{"id":220,"name":"Arena Entertainment","description":""}
+{"id":221,"name":"Argus Press Software","description":""}
+{"id":222,"name":"Aria","description":""}
+{"id":223,"name":"Arika","description":""}
+{"id":224,"name":"Ariolasoft UK","description":""}
+{"id":225,"name":"Arko","description":""}
+{"id":226,"name":"Armenia","description":""}
+{"id":227,"name":"Armenia / Food and Fun","description":""}
+{"id":228,"name":"Armenip","description":""}
+{"id":229,"name":"Art & Magic","description":""}
+{"id":230,"name":"Art & Magic (Banpresto license)","description":""}
+{"id":231,"name":"Art System Work","description":""}
+{"id":232,"name":"Art'cade","description":""}
+{"id":233,"name":"Artan Soft","description":""}
+{"id":234,"name":"Artdink","description":""}
+{"id":235,"name":"Artech Studios","description":""}
+{"id":236,"name":"Arthurtilly","description":""}
+{"id":237,"name":"Artic","description":""}
+{"id":238,"name":"Artic Computing","description":""}
+{"id":239,"name":"Artificial Intelligence","description":""}
+{"id":240,"name":"Arush Entertainment","description":""}
+{"id":241,"name":"Aruze Corp","description":""}
+{"id":242,"name":"Aruze Corp.","description":""}
+{"id":243,"name":"Ascii Media Works","description":""}
+{"id":244,"name":"Asder","description":""}
+{"id":245,"name":"Ashby Computers and Graphics LTD. (Jaleco license)","description":""}
+{"id":246,"name":"Asmik","description":""}
+{"id":247,"name":"Asmik Ace Entertainment","description":""}
+{"id":248,"name":"Asmik Ace Entertainment Inc./ Wired Productions / Le Cortex","description":""}
+{"id":249,"name":"Asmik Ace Entertainment, Inc","description":""}
+{"id":250,"name":"Aspyr","description":""}
+{"id":251,"name":"Asuka Technologies, Inc.","description":""}
+{"id":252,"name":"Atari","description":""}
+{"id":253,"name":"Atari (Hasbro Interactive)","description":""}
+{"id":254,"name":"Atari (Infogrames)","description":""}
+{"id":255,"name":"Atari (J.Estevez license)","description":""}
+{"id":256,"name":"Atari / Bandai","description":""}
+{"id":257,"name":"Atari / Bandai Namco Games","description":""}
+{"id":258,"name":"Atari / Bigben Interactive","description":""}
+{"id":259,"name":"Atari / General Computer Corporation","description":""}
+{"id":260,"name":"Atari / Hasbro Interactive","description":""}
+{"id":261,"name":"Atari Games","description":""}
+{"id":262,"name":"Atari SA","description":""}
+{"id":263,"name":"Atari, Inc","description":""}
+{"id":264,"name":"Atari2600.com","description":""}
+{"id":265,"name":"AtariAge","description":""}
+{"id":266,"name":"Ateam Inc.","description":""}
+{"id":267,"name":"Athena","description":""}
+{"id":268,"name":"Athena (Visco license)","description":""}
+{"id":269,"name":"Athena / Able","description":""}
+{"id":270,"name":"Athena / Seta","description":""}
+{"id":271,"name":"Athena / Tecmo","description":""}
+{"id":272,"name":"Atlantis Software","description":""}
+{"id":273,"name":"Atlus","description":""}
+{"id":274,"name":"Atlus / Bandai Namco Games","description":""}
+{"id":275,"name":"Atlus / Cave","description":""}
+{"id":276,"name":"Atlus / KM International","description":""}
+{"id":277,"name":"Atlus / Takara Tomy","description":""}
+{"id":278,"name":"Atlus Co.","description":""}
+{"id":279,"name":"Atlus Co., Ltd","description":""}
+{"id":280,"name":"Atlus Software","description":""}
+{"id":281,"name":"Atlus U.S.A","description":""}
+{"id":282,"name":"Atlus U.S.A., Inc","description":""}
+{"id":283,"name":"Atlus USA","description":""}
+{"id":284,"name":"Atlus, Inc","description":""}
+{"id":285,"name":"Atlus, Inc. / Square Enix","description":""}
+{"id":286,"name":"Atmark","description":""}
+{"id":287,"name":"Audiogenic","description":""}
+{"id":288,"name":"Audiogenic Software","description":""}
+{"id":289,"name":"Aurum","description":""}
+{"id":290,"name":"Avalon Hill","description":""}
+{"id":291,"name":"Avanquest Software","description":""}
+{"id":292,"name":"Avex Trax","description":""}
+{"id":293,"name":"Axela","description":""}
+{"id":294,"name":"B&C Computervision","description":""}
+{"id":295,"name":"B&C Computervisions","description":""}
+{"id":296,"name":"B-AI","description":""}
+{"id":297,"name":"BAM! Entertainment","description":""}
+{"id":298,"name":"BAM! Entertainment, Inc","description":""}
+{"id":299,"name":"BANDAI NAMCO Entertainment America Inc.","description":""}
+{"id":300,"name":"BANDAI NAMCO Games","description":""}
+{"id":301,"name":"BBC Games","description":""}
+{"id":302,"name":"BBC Multimedia","description":""}
+{"id":303,"name":"BBC Worldwide","description":""}
+{"id":304,"name":"BEC","description":""}
+{"id":305,"name":"BEES.G","description":""}
+{"id":306,"name":"BGV Ltd","description":""}
+{"id":307,"name":"BIC","description":""}
+{"id":308,"name":"BLACKLABEL","description":""}
+{"id":309,"name":"BMG Interactive","description":""}
+{"id":310,"name":"BMG Interactive Entertainment","description":""}
+{"id":311,"name":"BPS","description":""}
+{"id":312,"name":"Babsoft","description":""}
+{"id":313,"name":"BadLand Games","description":""}
+{"id":314,"name":"Ballistic","description":""}
+{"id":315,"name":"Bally Midway","description":""}
+{"id":316,"name":"Bally Midway (Playtronic license)","description":""}
+{"id":317,"name":"Bam Entertainment","description":""}
+{"id":318,"name":"Bamsoft","description":""}
+{"id":319,"name":"Bamsoft - Novosoft","description":""}
+{"id":320,"name":"BanPresto / Gazelle","description":""}
+{"id":321,"name":"Banalex","description":""}
+{"id":322,"name":"Bandai","description":""}
+{"id":323,"name":"Bandai / Atari","description":""}
+{"id":324,"name":"Bandai / Marvellous","description":""}
+{"id":325,"name":"Bandai Entertainment","description":""}
+{"id":326,"name":"Bandai Games","description":""}
+{"id":327,"name":"Bandai Korea","description":""}
+{"id":328,"name":"Bandai Namco","description":""}
+{"id":329,"name":"Bandai Namco Entertainment","description":""}
+{"id":330,"name":"Bandai Namco Games","description":""}
+{"id":331,"name":"Bandai Visual","description":""}
+{"id":332,"name":"Bandi","description":""}
+{"id":333,"name":"Banpresto","description":""}
+{"id":334,"name":"Banpresto (Limenko license?)","description":""}
+{"id":335,"name":"Banpresto / Bandai","description":""}
+{"id":336,"name":"Banpresto / Bandai Namco Games","description":""}
+{"id":337,"name":"Banpresto / Dynamic Pl. Toei Animation","description":""}
+{"id":338,"name":"Banpresto / Kunihiko Tashiro+Goodhouse","description":""}
+{"id":339,"name":"Banpresto / Pandorabox","description":""}
+{"id":340,"name":"Banpresto / Sotsu Agency. Sunrise","description":""}
+{"id":341,"name":"Banpresto / Toei","description":""}
+{"id":342,"name":"Banpresto / Tsuburaya Productions","description":""}
+{"id":343,"name":"Barath, Endre","description":""}
+{"id":344,"name":"Barf/BarfHappy","description":""}
+{"id":345,"name":"Barking Lizards","description":""}
+{"id":346,"name":"Barko","description":""}
+{"id":347,"name":"Barko Corp","description":""}
+{"id":348,"name":"Barnstorm Games / Nomisian Limited","description":""}
+{"id":349,"name":"Beam Software","description":""}
+{"id":350,"name":"Bee-Oh","description":""}
+{"id":351,"name":"Bejo, Gabor","description":""}
+{"id":352,"name":"Best","description":""}
+{"id":353,"name":"Bethesda Game Studios","description":""}
+{"id":354,"name":"Bethesda Networks","description":""}
+{"id":355,"name":"Bethesda Softworks","description":""}
+{"id":356,"name":"Bethesda Softworks / ZeniMax Asia K.K","description":""}
+{"id":357,"name":"Bethesda Softworks LLC","description":""}
+{"id":358,"name":"Beyond Software","description":""}
+{"id":359,"name":"BiasedYoshi","description":""}
+{"id":360,"name":"Big Ben Interactive","description":""}
+{"id":361,"name":"Big Blue Bubble Inc.","description":""}
+{"id":362,"name":"Big Club","description":""}
+{"id":363,"name":"Big Evil Corporation","description":""}
+{"id":364,"name":"Big Five Software","description":""}
+{"id":365,"name":"Big John Games","description":""}
+{"id":366,"name":"Big Toe Software","description":""}
+{"id":367,"name":"Big-Eared Soft","description":""}
+{"id":368,"name":"BigBen Interactive","description":""}
+{"id":369,"name":"Bigben","description":""}
+{"id":370,"name":"Bigben Interactive","description":""}
+{"id":371,"name":"Bigben Interactive Taito","description":""}
+{"id":372,"name":"Binary Systems","description":""}
+{"id":373,"name":"Bit Corp.","description":""}
+{"id":374,"name":"Bite The Chili","description":""}
+{"id":375,"name":"Bitmap Bureau","description":""}
+{"id":376,"name":"Bits Studios","description":""}
+{"id":377,"name":"Bit²","description":""}
+{"id":378,"name":"Bizarre Creations","description":""}
+{"id":379,"name":"Blaby Computer Games","description":""}
+{"id":380,"name":"Black Bean","description":""}
+{"id":381,"name":"Black Bean / Leader S.p.A","description":""}
+{"id":382,"name":"Black Bean Games","description":""}
+{"id":383,"name":"Black Label Games","description":""}
+{"id":384,"name":"Black Pearl Software","description":""}
+{"id":385,"name":"Blade Interactive Studios","description":""}
+{"id":386,"name":"Blade Interactive Studios Limited","description":""}
+{"id":387,"name":"Blast!","description":""}
+{"id":388,"name":"Blast! Entertainment","description":""}
+{"id":389,"name":"Blast! Entertainment Ltd","description":""}
+{"id":390,"name":"Blastar","description":""}
+{"id":391,"name":"Blastsoft Studios","description":""}
+{"id":392,"name":"Blindmouse","description":""}
+{"id":393,"name":"Blizzard Classic Arcade","description":""}
+{"id":394,"name":"Blizzard Entertainment","description":""}
+{"id":395,"name":"BlueSky Software","description":""}
+{"id":396,"name":"Bodnar, Tamas","description":""}
+{"id":397,"name":"Bold Games","description":""}
+{"id":398,"name":"Bomb","description":""}
+{"id":399,"name":"Bon Treasure","description":""}
+{"id":400,"name":"Bonsai Ent. Corp","description":""}
+{"id":401,"name":"Bootleg","description":""}
+{"id":402,"name":"Bootleg (Fabremar)","description":""}
+{"id":403,"name":"Boss Communications","description":""}
+{"id":404,"name":"Bothtec","description":""}
+{"id":405,"name":"Bottom Up","description":""}
+{"id":406,"name":"Bottom Up Interactive","description":""}
+{"id":407,"name":"Bottom Up Interactive","description":""}
+{"id":408,"name":"Bourne Educational","description":""}
+{"id":409,"name":"Bowes, Robin","description":""}
+{"id":410,"name":"BoxSoft","description":""}
+{"id":411,"name":"Boxsoft","description":""}
+{"id":412,"name":"Bplus","description":""}
+{"id":413,"name":"BrainGame Publishing","description":""}
+{"id":414,"name":"Brash Entertainment","description":""}
+{"id":415,"name":"Brash Entertainment, LLC","description":""}
+{"id":416,"name":"Brawl- Zeus Team","description":""}
+{"id":417,"name":"Bridgestone Multimedia Group","description":""}
+{"id":418,"name":"Broccoli","description":""}
+{"id":419,"name":"Broderbund","description":""}
+{"id":420,"name":"Broderbund Software","description":""}
+{"id":421,"name":"Broke Studio","description":""}
+{"id":422,"name":"Brother Industries","description":""}
+{"id":423,"name":"Brøderbund Software","description":""}
+{"id":424,"name":"Bubble Bus","description":""}
+{"id":425,"name":"BubbleZap Games","description":""}
+{"id":426,"name":"Bubblebus Software","description":""}
+{"id":427,"name":"Budavari, Laszlo","description":""}
+{"id":428,"name":"Buena Vista Games","description":""}
+{"id":429,"name":"Buena Vista Games Inc","description":""}
+{"id":430,"name":"Buena Vista Games Inc.","description":""}
+{"id":431,"name":"Buena Vista Interactive","description":""}
+{"id":432,"name":"Bug-Byte Software","description":""}
+{"id":433,"name":"Bugabread","description":""}
+{"id":434,"name":"Bulldog","description":""}
+{"id":435,"name":"Bullet Proof Software","description":""}
+{"id":436,"name":"Bullfrog","description":""}
+{"id":437,"name":"Bunch Games","description":""}
+{"id":438,"name":"Buzz","description":""}
+{"id":439,"name":"Byte Back","description":""}
+{"id":440,"name":"C&E","description":""}
+{"id":441,"name":"C.M. Software","description":""}
+{"id":442,"name":"CALARIS","description":""}
+{"id":443,"name":"CAPCOM","description":""}
+{"id":444,"name":"CAVE / AMI","description":""}
+{"id":445,"name":"CBS Software","description":""}
+{"id":446,"name":"CBS Sony Group","description":""}
+{"id":447,"name":"CCE","description":""}
+{"id":448,"name":"CCS","description":""}
+{"id":449,"name":"CDS Microsystems","description":""}
+{"id":450,"name":"CDS Software","description":""}
+{"id":451,"name":"CGE Services Corporation","description":""}
+{"id":452,"name":"CI Games","description":""}
+{"id":453,"name":"CMC Games","description":""}
+{"id":454,"name":"CRI","description":""}
+{"id":455,"name":"CRL Group","description":""}
+{"id":456,"name":"CSK Research Institute Corp.","description":""}
+{"id":457,"name":"CTO SpA / LucasArts Entertainment Company","description":""}
+{"id":458,"name":"CYBIRD Co., Ltd.","description":""}
+{"id":459,"name":"CYBIRD Co.,Ltd.","description":""}
+{"id":460,"name":"Cacom","description":""}
+{"id":461,"name":"Caesar No Yabou 2","description":""}
+{"id":462,"name":"Calabrel","description":""}
+{"id":463,"name":"Calaris","description":""}
+{"id":464,"name":"Caltron Industries, Inc.","description":""}
+{"id":465,"name":"Camerica","description":""}
+{"id":466,"name":"Campbell Systems","description":""}
+{"id":467,"name":"Canal+ Multimedia","description":""}
+{"id":468,"name":"Capcom","description":""}
+{"id":469,"name":"Capcom (Data East USA license)","description":""}
+{"id":470,"name":"Capcom (Memetron license)","description":""}
+{"id":471,"name":"Capcom (Romstar License)","description":""}
+{"id":472,"name":"Capcom (Romstar license)","description":""}
+{"id":473,"name":"Capcom (Taito America License)","description":""}
+{"id":474,"name":"Capcom (Tecfri license)","description":""}
+{"id":475,"name":"Capcom (Williams Electronics license)","description":""}
+{"id":476,"name":"Capcom / Cave","description":""}
+{"id":477,"name":"Capcom / Incredible Technologies","description":""}
+{"id":478,"name":"Capcom / Sony","description":""}
+{"id":479,"name":"Capcom USA, Inc.","description":""}
+{"id":480,"name":"Capstone Software","description":""}
+{"id":481,"name":"Carapace","description":""}
+{"id":482,"name":"Carrozzeria","description":""}
+{"id":483,"name":"Carry Lab","description":""}
+{"id":484,"name":"Caruso, Fabrizio","description":""}
+{"id":485,"name":"Cascade Games","description":""}
+{"id":486,"name":"Cases Computer Simulations","description":""}
+{"id":487,"name":"Casio","description":""}
+{"id":488,"name":"Cat's","description":""}
+{"id":489,"name":"Catapult Entertainment","description":""}
+{"id":490,"name":"Cave (AMI license)","description":""}
+{"id":491,"name":"Cave / Jaleco","description":""}
+{"id":492,"name":"Cave / Nihon System inc.","description":""}
+{"id":493,"name":"Cdv Software","description":""}
+{"id":494,"name":"CeL","description":""}
+{"id":495,"name":"Centuri","description":""}
+{"id":496,"name":"Century Electronics","description":""}
+{"id":497,"name":"Century Electronics / Seatongrove Ltd","description":""}
+{"id":498,"name":"Century II","description":""}
+{"id":499,"name":"Chalksoft","description":""}
+{"id":500,"name":"Challenge Software","description":""}
+{"id":501,"name":"Champion Soft","description":""}
+{"id":502,"name":"Chaos","description":""}
+{"id":503,"name":"Character Soft","description":""}
+{"id":504,"name":"Charles DOTY/RasterSoft (USA)","description":""}
+{"id":505,"name":"CheckerTheJester","description":""}
+{"id":506,"name":"Chikingo","description":""}
+{"id":507,"name":"Chillingo","description":""}
+{"id":508,"name":"Chipsonsteroids","description":""}
+{"id":509,"name":"Chise","description":""}
+{"id":510,"name":"Chise (Kaga Tech)","description":""}
+{"id":511,"name":"Chris","description":""}
+{"id":512,"name":"Chuanpu","description":""}
+{"id":513,"name":"Chun Soft","description":""}
+{"id":514,"name":"ChunSoft","description":""}
+{"id":515,"name":"Chunsoft","description":""}
+{"id":516,"name":"Chuo Co. Ltd","description":""}
+{"id":517,"name":"Cinematronics","description":""}
+{"id":518,"name":"Cinematronics / Advanced Microcomputer Systems","description":""}
+{"id":519,"name":"City Interactive","description":""}
+{"id":520,"name":"City Man Technology","description":""}
+{"id":521,"name":"Clarue (Komax license)","description":""}
+{"id":522,"name":"Clarue (Sega / Alpha Denshi Co. license)","description":""}
+{"id":523,"name":"Classic Consoles Center","description":""}
+{"id":524,"name":"Classified Games","description":""}
+{"id":525,"name":"Clay Cowgill","description":""}
+{"id":526,"name":"Clear Paper, NeoCverA, JustinG","description":""}
+{"id":527,"name":"Clover","description":""}
+{"id":528,"name":"Clover Soft","description":""}
+{"id":529,"name":"Club Acclaim","description":""}
+{"id":530,"name":"Cobra Team","description":""}
+{"id":531,"name":"CocaineBiceps","description":""}
+{"id":532,"name":"Coconuts Japan","description":""}
+{"id":533,"name":"Coconuts Japan / G.X.Media","description":""}
+{"id":534,"name":"Code Masters","description":""}
+{"id":535,"name":"Codemasters","description":""}
+{"id":536,"name":"Codemasters Plus","description":""}
+{"id":537,"name":"Codemasters Racing","description":""}
+{"id":538,"name":"Coin Music","description":""}
+{"id":539,"name":"CokeM Interactive","description":""}
+{"id":540,"name":"Coktel Vision","description":""}
+{"id":541,"name":"Coleco Industries, Inc.","description":""}
+{"id":542,"name":"CollectorVision Games","description":""}
+{"id":543,"name":"Color Dreams","description":""}
+{"id":544,"name":"Colpax","description":""}
+{"id":545,"name":"Columbus Circle","description":""}
+{"id":546,"name":"Comad","description":""}
+{"id":547,"name":"Comad & New Japan System","description":""}
+{"id":548,"name":"Comad (American Sammy license)","description":""}
+{"id":549,"name":"Comad / New Japan System","description":""}
+{"id":550,"name":"Comad Industry Co Ltd","description":""}
+{"id":551,"name":"Combat","description":""}
+{"id":552,"name":"Comfort","description":""}
+{"id":553,"name":"CommaVid, Inc.","description":""}
+{"id":554,"name":"Commodore","description":""}
+{"id":555,"name":"Commodore Gaming","description":""}
+{"id":556,"name":"Compile","description":""}
+{"id":557,"name":"Compile (Capcom license)","description":""}
+{"id":558,"name":"Compile (Sega license)","description":""}
+{"id":559,"name":"Compile / Sega","description":""}
+{"id":560,"name":"Compile Heart","description":""}
+{"id":561,"name":"Comptiq","description":""}
+{"id":562,"name":"Computer & Entertainment","description":""}
+{"id":563,"name":"Computer Magic","description":""}
+{"id":564,"name":"Comsoft","description":""}
+{"id":565,"name":"Conosis","description":""}
+{"id":566,"name":"Conspiracy","description":""}
+{"id":567,"name":"Conspiracy Entertaiment","description":""}
+{"id":568,"name":"Conspiracy Entertainment","description":""}
+{"id":569,"name":"Conspiracy Entertainment / Takara","description":""}
+{"id":570,"name":"Conspiracy Entertainment Corporation","description":""}
+{"id":571,"name":"Core","description":""}
+{"id":572,"name":"Core Design","description":""}
+{"id":573,"name":"Core Design Ltd","description":""}
+{"id":574,"name":"Corecell Technology","description":""}
+{"id":575,"name":"Coreland","description":""}
+{"id":576,"name":"Coreland / Sega","description":""}
+{"id":577,"name":"Cosmo Electronics Corporation","description":""}
+{"id":578,"name":"Cosmos Computer","description":""}
+{"id":579,"name":"Crash","description":""}
+{"id":580,"name":"Crave","description":""}
+{"id":581,"name":"Crave Entertaiment","description":""}
+{"id":582,"name":"Crave Entertainment","description":""}
+{"id":583,"name":"Crave Entertainment / Vivendi Games","description":""}
+{"id":584,"name":"Crave Entertainment, Inc","description":""}
+{"id":585,"name":"Crawfish Entertainment","description":""}
+{"id":586,"name":"Crea-tech","description":""}
+{"id":587,"name":"Cream","description":""}
+{"id":588,"name":"Cream Co., Ltd.","description":""}
+{"id":589,"name":"Creamymami[EGCG]","description":""}
+{"id":590,"name":"Creative Sparks","description":""}
+{"id":591,"name":"Creaton Softech","description":""}
+{"id":592,"name":"Creatures Inc.","description":""}
+{"id":593,"name":"Crim/Stephen","description":""}
+{"id":594,"name":"Cristiano Bei/www.iocerom.com","description":""}
+{"id":595,"name":"Cross Media Soft","description":""}
+{"id":596,"name":"Cross Talk","description":""}
+{"id":597,"name":"Crux","description":""}
+{"id":598,"name":"Crux (Taito Corporation license)","description":""}
+{"id":599,"name":"Crux / Kyugo","description":""}
+{"id":600,"name":"Crux / Kyugo?","description":""}
+{"id":601,"name":"Crux / Proma","description":""}
+{"id":602,"name":"Crux / Sega","description":""}
+{"id":603,"name":"Cryo","description":""}
+{"id":604,"name":"Cryo / Infogrames","description":""}
+{"id":605,"name":"Cryo Interactive","description":""}
+{"id":606,"name":"Cryo Interactive / Canal + Multimedia","description":""}
+{"id":607,"name":"Cryo Interactive Entertainment","description":""}
+{"id":608,"name":"Cryo Interactive Entertainment / Canal + Multimedia","description":""}
+{"id":609,"name":"Crystal Dynamics","description":""}
+{"id":610,"name":"Crystal Dynamics, Inc","description":""}
+{"id":611,"name":"Crysys","description":""}
+{"id":612,"name":"Culture Brain","description":""}
+{"id":613,"name":"Culturebrain","description":""}
+{"id":614,"name":"Current Technologies","description":""}
+{"id":615,"name":"Curve Digital","description":""}
+{"id":616,"name":"Curve Studios","description":""}
+{"id":617,"name":"Cyber Front","description":""}
+{"id":618,"name":"CyberFront","description":""}
+{"id":619,"name":"CyberFront / GeneX","description":""}
+{"id":620,"name":"CyberFront Corporation","description":""}
+{"id":621,"name":"CyberFront Genex","description":""}
+{"id":622,"name":"Cyberdreams","description":""}
+{"id":623,"name":"Cyberfront","description":""}
+{"id":624,"name":"Cyberfront (Genex) / Empire Interactive","description":""}
+{"id":625,"name":"Cyberfront / Genex","description":""}
+{"id":626,"name":"Cyberfront Corporation","description":""}
+{"id":627,"name":"Cyberfront Korea","description":""}
+{"id":628,"name":"Cyberfront Korea Corporation","description":""}
+{"id":629,"name":"D&H Games","description":""}
+{"id":630,"name":"D. R. Korea","description":""}
+{"id":631,"name":"D.G.R.M.","description":""}
+{"id":632,"name":"D.R. Korea","description":""}
+{"id":633,"name":"D2C Games","description":""}
+{"id":634,"name":"D2C Games, Inc.","description":""}
+{"id":635,"name":"D3 Publisher","description":""}
+{"id":636,"name":"D3 Publisher ","description":""}
+{"id":637,"name":"D3 Publisher Inc","description":""}
+{"id":638,"name":"D3Publisher","description":""}
+{"id":639,"name":"D3Publisher / Namco Bandai","description":""}
+{"id":640,"name":"D3Publisher of America","description":""}
+{"id":641,"name":"D4 Enterprise","description":""}
+{"id":642,"name":"D4 Enterprise, Inc.","description":""}
+{"id":643,"name":"D4Enterprise","description":""}
+{"id":644,"name":"D4Enterprise Co., Ltd","description":""}
+{"id":645,"name":"D4Enterprise Co., Ltd.","description":""}
+{"id":646,"name":"DB Soft","description":""}
+{"id":647,"name":"DC Studios","description":""}
+{"id":648,"name":"DHG games","description":""}
+{"id":649,"name":"DJ Skual","description":""}
+{"id":650,"name":"DK'Tronics","description":""}
+{"id":651,"name":"DL6.","description":""}
+{"id":652,"name":"DSI Games","description":""}
+{"id":653,"name":"DTMC","description":""}
+{"id":654,"name":"DTP Entertainment","description":""}
+{"id":655,"name":"DTP Entertainment AG","description":""}
+{"id":656,"name":"DTP Young Entertainment","description":""}
+{"id":657,"name":"DVS Electronic","description":""}
+{"id":658,"name":"Daewoo","description":""}
+{"id":659,"name":"DahJee","description":""}
+{"id":660,"name":"Daigom","description":""}
+{"id":661,"name":"Daikoku","description":""}
+{"id":662,"name":"Daipro / Capcom","description":""}
+{"id":663,"name":"Daito","description":""}
+{"id":664,"name":"Daiwon C&A","description":""}
+{"id":665,"name":"Danbi / F2 System","description":""}
+{"id":666,"name":"Daou Infosys","description":""}
+{"id":667,"name":"Dark Energy Digital","description":""}
+{"id":668,"name":"Dark Star","description":""}
+{"id":669,"name":"DarkUmbra","description":""}
+{"id":670,"name":"Darkly77","description":""}
+{"id":671,"name":"Darkumbra","description":""}
+{"id":672,"name":"Darkumbra Custom Haven","description":""}
+{"id":673,"name":"Data Age","description":""}
+{"id":674,"name":"Data Amusement","description":""}
+{"id":675,"name":"Data Design","description":""}
+{"id":676,"name":"Data Design Interactive","description":""}
+{"id":677,"name":"Data Design Interactive ","description":""}
+{"id":678,"name":"Data East","description":""}
+{"id":679,"name":"Data East (Bally Midway license)","description":""}
+{"id":680,"name":"Data East Corporation","description":""}
+{"id":681,"name":"Data East Corporation (I-Vics license)","description":""}
+{"id":682,"name":"Data East Corporation (Nihon System license)","description":""}
+{"id":683,"name":"Data East Corporation (licensed from First Star)","description":""}
+{"id":684,"name":"Data East Corpotation","description":""}
+{"id":685,"name":"Data East Pinball","description":""}
+{"id":686,"name":"Data East USA","description":""}
+{"id":687,"name":"Data East USA Inc.","description":""}
+{"id":688,"name":"Databyte","description":""}
+{"id":689,"name":"Datam Polystar","description":""}
+{"id":690,"name":"Datatech","description":""}
+{"id":691,"name":"Datel","description":""}
+{"id":692,"name":"Datel SAS","description":""}
+{"id":693,"name":"David Inc. (bootleg)","description":""}
+{"id":694,"name":"David Widel","description":""}
+{"id":695,"name":"Davilex","description":""}
+{"id":696,"name":"Dazz","description":""}
+{"id":697,"name":"Deep Fried Entertainment","description":""}
+{"id":698,"name":"Deep Silver","description":""}
+{"id":699,"name":"Deep Silver / KOCH Media","description":""}
+{"id":700,"name":"Delphine Software International","description":""}
+{"id":701,"name":"Delta Software","description":""}
+{"id":702,"name":"DemonSlayer69","description":""}
+{"id":703,"name":"Dempa Shimbunsha","description":""}
+{"id":704,"name":"Den'Z","description":""}
+{"id":705,"name":"Deniam","description":""}
+{"id":706,"name":"Denki Onkyo","description":""}
+{"id":707,"name":"Dennou Eizou","description":""}
+{"id":708,"name":"Denyusya Square","description":""}
+{"id":709,"name":"Design Labs / Thomas Automatics","description":""}
+{"id":710,"name":"Destination Software","description":""}
+{"id":711,"name":"Destination Software / Zoo Games / KSS","description":""}
+{"id":712,"name":"Destineer Studios","description":""}
+{"id":713,"name":"Detn8 Games","description":""}
+{"id":714,"name":"Detn8 Games Ltd","description":""}
+{"id":715,"name":"Devilsoft - Jovi","description":""}
+{"id":716,"name":"Devolver Digital","description":""}
+{"id":717,"name":"Diatec","description":""}
+{"id":718,"name":"DigiCube","description":""}
+{"id":719,"name":"Digital Bros","description":""}
+{"id":720,"name":"Digital Dream Studios","description":""}
+{"id":721,"name":"Digital Eclipse","description":""}
+{"id":722,"name":"Digital Illusions","description":""}
+{"id":723,"name":"Digital Integration","description":""}
+{"id":724,"name":"Digital Kids","description":""}
+{"id":725,"name":"Digital Leisure Inc.","description":""}
+{"id":726,"name":"Digital Plan","description":""}
+{"id":727,"name":"Digital Tainment Pool","description":""}
+{"id":728,"name":"Digital Tainment Pool ","description":""}
+{"id":729,"name":"Digitrex Techstar (Rock-ola license)","description":""}
+{"id":730,"name":"Dimax","description":""}
+{"id":731,"name":"Dimple Entertainment","description":""}
+{"id":732,"name":"Dinamic Software","description":""}
+{"id":733,"name":"Disk Original Group (DOG)","description":""}
+{"id":734,"name":"Disney Interactive","description":""}
+{"id":735,"name":"Disney Interactive / Eidos Interactive","description":""}
+{"id":736,"name":"Disney Interactive / Take 2","description":""}
+{"id":737,"name":"Disney Interactive Studios","description":""}
+{"id":738,"name":"Dodoman_HD","description":""}
+{"id":739,"name":"Dodowang[EGCG]","description":""}
+{"id":740,"name":"DogP","description":""}
+{"id":741,"name":"Domark","description":""}
+{"id":742,"name":"Dong Bang Electron","description":""}
+{"id":743,"name":"Dong Gue La Mi Ltd.","description":""}
+{"id":744,"name":"Dong Sung","description":""}
+{"id":745,"name":"Dongsung","description":""}
+{"id":746,"name":"Dooyong","description":""}
+{"id":747,"name":"Dooyong (Media Shoji license)","description":""}
+{"id":748,"name":"Dooyong (Mitchell license)","description":""}
+{"id":749,"name":"Dooyong (NTC license)","description":""}
+{"id":750,"name":"Dorart","description":""}
+{"id":751,"name":"Dorasu","description":""}
+{"id":752,"name":"Dorneer","description":""}
+{"id":753,"name":"Double jungle","description":""}
+{"id":754,"name":"Dragon Co.","description":""}
+{"id":755,"name":"DragonD101","description":""}
+{"id":756,"name":"Drakon","description":""}
+{"id":757,"name":"Dream Software","description":""}
+{"id":758,"name":"DreamBox Games","description":""}
+{"id":759,"name":"DreamCatcher","description":""}
+{"id":760,"name":"DreamCatcher Games","description":""}
+{"id":761,"name":"DreamCatcher Interactive","description":""}
+{"id":762,"name":"DreamCatcher Interactive, Inc.","description":""}
+{"id":763,"name":"DreamTech","description":""}
+{"id":764,"name":"DreamWorks","description":""}
+{"id":765,"name":"Dreamcatcher","description":""}
+{"id":766,"name":"Dro Soft","description":""}
+{"id":767,"name":"Du Tech","description":""}
+{"id":768,"name":"Duintronic","description":""}
+{"id":769,"name":"Duncan Brown","description":""}
+{"id":770,"name":"Durell Software","description":""}
+{"id":771,"name":"Dusenberry Martin Racing","description":""}
+{"id":772,"name":"Dyna","description":""}
+{"id":773,"name":"Dyna / BreezaSoft","description":""}
+{"id":774,"name":"Dyna / BrezzaSoft","description":""}
+{"id":775,"name":"Dyna Corp.","description":""}
+{"id":776,"name":"Dynacom","description":""}
+{"id":777,"name":"Dynamic","description":""}
+{"id":778,"name":"Dynamix","description":""}
+{"id":779,"name":"Dynasoft Inc.","description":""}
+{"id":780,"name":"E-Software","description":""}
+{"id":781,"name":"E.G. Felaco (Domino license)","description":""}
+{"id":782,"name":"EA","description":""}
+{"id":783,"name":"EA Games","description":""}
+{"id":784,"name":"EA Sports","description":""}
+{"id":785,"name":"EA Sports (Electronic Arts)","description":""}
+{"id":786,"name":"EA Sports BIG","description":""}
+{"id":787,"name":"EA Sports Big","description":""}
+{"id":788,"name":"EA Tiburon","description":""}
+{"id":789,"name":"EDC","description":""}
+{"id":790,"name":"EGHT","description":""}
+{"id":791,"name":"EIM","description":""}
+{"id":792,"name":"EJ Corporation","description":""}
+{"id":793,"name":"EON / Event / Game Network","description":""}
+{"id":794,"name":"EON Digital Entertainment","description":""}
+{"id":795,"name":"EP-Forever-Forum","description":""}
+{"id":796,"name":"EPOS Corporation","description":""}
+{"id":797,"name":"ESD","description":""}
+{"id":798,"name":"ESD / Fuuki","description":""}
+{"id":799,"name":"ESP - Entertainment Software Publishing Inc","description":""}
+{"id":800,"name":"ESP Software","description":""}
+{"id":801,"name":"Eaglesoft","description":""}
+{"id":802,"name":"East Cube","description":""}
+{"id":803,"name":"East Entertainment Media","description":""}
+{"id":804,"name":"East Technology","description":""}
+{"id":805,"name":"Eastern Micro Electronics, Inc.","description":""}
+{"id":806,"name":"Easy Interactive","description":""}
+{"id":807,"name":"Easy Interactive Console ","description":""}
+{"id":808,"name":"Ecole","description":""}
+{"id":809,"name":"Ed Co., Ltd. (Wood Place Co., Ltd. license)","description":""}
+{"id":810,"name":"Eddids","description":""}
+{"id":811,"name":"Edge Interact","description":""}
+{"id":812,"name":"Edge, The","description":""}
+{"id":813,"name":"EduBank Corporation","description":""}
+{"id":814,"name":"Effigy Software","description":""}
+{"id":815,"name":"Eidos","description":""}
+{"id":816,"name":"Eidos Interactive","description":""}
+{"id":817,"name":"Eidos Interactive / Accolade","description":""}
+{"id":818,"name":"Eidos Interactive / Buena Vista Interactive","description":""}
+{"id":819,"name":"Eidos Interactive / Disney Interactive","description":""}
+{"id":820,"name":"Eidos Interactive / MGM Home Entertainment Inc","description":""}
+{"id":821,"name":"Eidos Interactive, Inc","description":""}
+{"id":822,"name":"Eidos, Inc","description":""}
+{"id":823,"name":"Eighting","description":""}
+{"id":824,"name":"Eighting / Hudson","description":""}
+{"id":825,"name":"Eighting / Raizing (Capcom license)","description":""}
+{"id":826,"name":"Eko Software","description":""}
+{"id":827,"name":"ElFranex","description":""}
+{"id":828,"name":"Elastic/Scholastic Interactive","description":""}
+{"id":829,"name":"Electra Concepts","description":""}
+{"id":830,"name":"Electric Dreams Software","description":""}
+{"id":831,"name":"Electric Software","description":""}
+{"id":832,"name":"Electro Brain Corp.","description":""}
+{"id":833,"name":"Electro Design","description":""}
+{"id":834,"name":"Electronic Art","description":""}
+{"id":835,"name":"Electronic Arts","description":""}
+{"id":836,"name":"Electronic Arts / Accolade","description":""}
+{"id":837,"name":"Electronic Arts / Blizzard Entertaiment","description":""}
+{"id":838,"name":"Electronic Arts / Fox Interactive","description":""}
+{"id":839,"name":"Electronic Arts / MTV Games","description":""}
+{"id":840,"name":"Electronic Arts / Sony","description":""}
+{"id":841,"name":"Electronic Arts / Squaresoft","description":""}
+{"id":842,"name":"Electronic Arts Inc","description":""}
+{"id":843,"name":"Electronic Arts Inc ","description":""}
+{"id":844,"name":"Electronic Arts Inc.","description":""}
+{"id":845,"name":"Electronic Arts Japan","description":""}
+{"id":846,"name":"Electronic Arts Sports","description":""}
+{"id":847,"name":"Electronic Devices Italy","description":""}
+{"id":848,"name":"Electronic Devices Italy / 3D Games England","description":""}
+{"id":849,"name":"Electronic Devices Italy / Ecogames S.L. Spain","description":""}
+{"id":850,"name":"Electronic Devices S.R.L.","description":""}
+{"id":851,"name":"Electronic Zoo","description":""}
+{"id":852,"name":"Electronic's Art","description":""}
+{"id":853,"name":"Electronic's Arts","description":""}
+{"id":854,"name":"Electronics Arts","description":""}
+{"id":855,"name":"Electronics Arts / LEGO Software","description":""}
+{"id":856,"name":"Elettronica Video-Games S.R.L.","description":""}
+{"id":857,"name":"Elettronolo","description":""}
+{"id":858,"name":"Eleven / Gavaking","description":""}
+{"id":859,"name":"Elf Corporation","description":""}
+{"id":860,"name":"Elfin Software","description":""}
+{"id":861,"name":"Elite","description":""}
+{"id":862,"name":"Elite Systems","description":""}
+{"id":863,"name":"Emag Soft","description":""}
+{"id":864,"name":"Emerson Radio Corp","description":""}
+{"id":865,"name":"Emiiru","description":""}
+{"id":866,"name":"Emme","description":""}
+{"id":867,"name":"Empire Interactive","description":""}
+{"id":868,"name":"Empire Interactive (Xplosive)","description":""}
+{"id":869,"name":"Empire Interactive / Global Star Software","description":""}
+{"id":870,"name":"Empire Interactive / Interplay","description":""}
+{"id":871,"name":"Empire Interactive Entertainment","description":""}
+{"id":872,"name":"Empire Interactive Entertainment (Xplosive)","description":""}
+{"id":873,"name":"Empire Interactive, Inc","description":""}
+{"id":874,"name":"Empire Software","description":""}
+{"id":875,"name":"Emu_kidid, Sepp256 y TehPola","description":""}
+{"id":876,"name":"Encore","description":""}
+{"id":877,"name":"Enerdyne Technologies Inc.","description":""}
+{"id":878,"name":"Enix","description":""}
+{"id":879,"name":"Enix America Inc","description":""}
+{"id":880,"name":"Enix Corporation","description":""}
+{"id":881,"name":"Enjoy Gaming","description":""}
+{"id":882,"name":"Enjoy Gaming ltd.","description":""}
+{"id":883,"name":"EnjoyUp Games","description":""}
+{"id":884,"name":"Enterbrain","description":""}
+{"id":885,"name":"Enterbrain!","description":""}
+{"id":886,"name":"Enterprise Computers","description":""}
+{"id":887,"name":"Entersoft","description":""}
+{"id":888,"name":"Entertainment Software Publishing","description":""}
+{"id":889,"name":"Entertainment USA","description":""}
+{"id":890,"name":"Entex Industries, Inc","description":""}
+{"id":891,"name":"Eolith","description":""}
+{"id":892,"name":"Eolith (Excellent Competence Ltd. license)","description":""}
+{"id":893,"name":"Eolith / Playmore","description":""}
+{"id":894,"name":"Eolith / SNK","description":""}
+{"id":895,"name":"Eon Digital","description":""}
+{"id":896,"name":"Epic - Sony Records","description":""}
+{"id":897,"name":"Epic Games","description":""}
+{"id":898,"name":"Epoch","description":""}
+{"id":899,"name":"Epos Corporation","description":""}
+{"id":900,"name":"Epos Corporation (Photar Industries License)","description":""}
+{"id":901,"name":"Epyx","description":""}
+{"id":902,"name":"Erbe Software","description":""}
+{"id":903,"name":"Erbe Software / Lucasarts","description":""}
+{"id":904,"name":"Erik Software","description":""}
+{"id":905,"name":"Ertain","description":""}
+{"id":906,"name":"EspalWii","description":""}
+{"id":907,"name":"Essential Games","description":""}
+{"id":908,"name":"Eurocom","description":""}
+{"id":909,"name":"Europress","description":""}
+{"id":910,"name":"Eurosoft","description":""}
+{"id":911,"name":"Event / Game Network","description":""}
+{"id":912,"name":"Evoga / Playmore","description":""}
+{"id":913,"name":"Evolution Entertainment srl.","description":""}
+{"id":914,"name":"Evolved Games","description":""}
+{"id":915,"name":"Evolved Games / SouthPeak Games","description":""}
+{"id":916,"name":"Eware","description":""}
+{"id":917,"name":"Excellent System","description":""}
+{"id":918,"name":"Excellent System (New Ways Trading Co. license)","description":""}
+{"id":919,"name":"Excite","description":""}
+{"id":920,"name":"Exosworm","description":""}
+{"id":921,"name":"Exosworm Digital Coperation","description":""}
+{"id":922,"name":"Extreme Entertainment","description":""}
+{"id":923,"name":"Extreme Gear Labs","description":""}
+{"id":924,"name":"Exus Corporation","description":""}
+{"id":925,"name":"Exxos","description":""}
+{"id":926,"name":"F&F Publishing","description":""}
+{"id":927,"name":"F+F Distribution GmbH","description":""}
+{"id":928,"name":"F2 System","description":""}
+{"id":929,"name":"FA Soft","description":""}
+{"id":930,"name":"FACE","description":""}
+{"id":931,"name":"FACE Corporation / N.C.I - Le Cortex","description":""}
+{"id":932,"name":"FBT","description":""}
+{"id":933,"name":"FCI","description":""}
+{"id":934,"name":"FIX94","description":""}
+{"id":935,"name":"FJRoyet","description":""}
+{"id":936,"name":"FM Work","description":""}
+{"id":937,"name":"FSZ Studio","description":""}
+{"id":938,"name":"FSz Studio","description":""}
+{"id":939,"name":"FT Studio","description":""}
+{"id":940,"name":"FTL Games","description":""}
+{"id":941,"name":"FULLSET","description":""}
+{"id":942,"name":"Face","description":""}
+{"id":943,"name":"Factor 5","description":""}
+{"id":944,"name":"Fairlight","description":""}
+{"id":945,"name":"Falcom","description":""}
+{"id":946,"name":"Falcon","description":""}
+{"id":947,"name":"Fantastic.TV","description":""}
+{"id":948,"name":"Fantasy Software","description":""}
+{"id":949,"name":"Faraphel","description":""}
+{"id":950,"name":"Farkas, Erik","description":""}
+{"id":951,"name":"Faster Than Light","description":""}
+{"id":952,"name":"Faux Game","description":""}
+{"id":953,"name":"Ferraris, Paolo","description":""}
+{"id":954,"name":"Firebird","description":""}
+{"id":955,"name":"Firebird Software","description":""}
+{"id":956,"name":"First Amusement","description":""}
+{"id":957,"name":"First Star Software","description":""}
+{"id":958,"name":"Fischer, Peter","description":""}
+{"id":959,"name":"Fisher-Price","description":""}
+{"id":960,"name":"Fishing Cactus","description":""}
+{"id":961,"name":"Flair Software","description":""}
+{"id":962,"name":"Flight-Plan","description":""}
+{"id":963,"name":"Flying Edge","description":""}
+{"id":964,"name":"Flying Edge, Inc.","description":""}
+{"id":965,"name":"Flynn","description":""}
+{"id":966,"name":"Focus","description":""}
+{"id":967,"name":"Focus Home Interactive","description":""}
+{"id":968,"name":"Fog","description":""}
+{"id":969,"name":"Forbes?","description":""}
+{"id":970,"name":"FormGen","description":""}
+{"id":971,"name":"Forum","description":""}
+{"id":972,"name":"Fox Interactive","description":""}
+{"id":973,"name":"Fox Interactive / Electronic Arts","description":""}
+{"id":974,"name":"Fox Sports Interactive, Inc","description":""}
+{"id":975,"name":"Fox Video Games","description":""}
+{"id":976,"name":"Foxysofts","description":""}
+{"id":977,"name":"Free Enterprise Games","description":""}
+{"id":978,"name":"Freedom Factory Studios","description":""}
+{"id":979,"name":"Fresh Games","description":""}
+{"id":980,"name":"Fresh Games / Eidos Interactive","description":""}
+{"id":981,"name":"Froggo Games Corporation","description":""}
+{"id":982,"name":"From Software","description":""}
+{"id":983,"name":"From Software, Inc","description":""}
+{"id":984,"name":"FromSoftware","description":""}
+{"id":985,"name":"Front Runner","description":""}
+{"id":986,"name":"Front Street Publishing","description":""}
+{"id":987,"name":"Fuji Television","description":""}
+{"id":988,"name":"Fuji Television Network","description":""}
+{"id":989,"name":"Fujicom","description":""}
+{"id":990,"name":"Fun Box","description":""}
+{"id":991,"name":"Funbox Media","description":""}
+{"id":992,"name":"Funcom","description":""}
+{"id":993,"name":"Funsoft","description":""}
+{"id":994,"name":"Funvision","description":""}
+{"id":995,"name":"Future Publishing","description":""}
+{"id":996,"name":"Fuuki","description":""}
+{"id":997,"name":"Fuxsoft","description":""}
+{"id":998,"name":"Fynn93","description":""}
+{"id":999,"name":"G-mode","description":""}
+{"id":1000,"name":"G.G.I","description":""}
+{"id":1001,"name":"G.LL. Software","description":""}
+{"id":1002,"name":"G.O.1","description":""}
+{"id":1003,"name":"G.Rev","description":""}
+{"id":1004,"name":"G.T Enterprise Inc","description":""}
+{"id":1005,"name":"GAFZ","description":""}
+{"id":1006,"name":"GCE","description":""}
+{"id":1007,"name":"GL (US Billiards License)","description":""}
+{"id":1008,"name":"GM Shoji","description":""}
+{"id":1009,"name":"GN Software","description":""}
+{"id":1010,"name":"GSC2007","description":""}
+{"id":1011,"name":"GT Interactive","description":""}
+{"id":1012,"name":"GT Interactive / Midway","description":""}
+{"id":1013,"name":"GT Interactive / Williams Entertainment","description":""}
+{"id":1014,"name":"GT Interactive Software","description":""}
+{"id":1015,"name":"GT Interactive Software Corp","description":""}
+{"id":1016,"name":"GT Interactive Software Corp.","description":""}
+{"id":1017,"name":"GT Interactive Software Europe Ltd","description":""}
+{"id":1018,"name":"GTE Entertainment","description":""}
+{"id":1019,"name":"GTL Games","description":""}
+{"id":1020,"name":"Gabubu","description":""}
+{"id":1021,"name":"Gaburieru-Kun","description":""}
+{"id":1022,"name":"Gaelco","description":""}
+{"id":1023,"name":"Gaelco (Atari license)","description":""}
+{"id":1024,"name":"Gaelco (Covielsa license)","description":""}
+{"id":1025,"name":"Gaelco (Ichi-Funtel license)","description":""}
+{"id":1026,"name":"Gaelco / Zeus","description":""}
+{"id":1027,"name":"Gaga","description":""}
+{"id":1028,"name":"Gainax / CyberFront / GeneX","description":""}
+{"id":1029,"name":"Gakken","description":""}
+{"id":1030,"name":"Game Arts","description":""}
+{"id":1031,"name":"Game Busters","description":""}
+{"id":1032,"name":"Game Factory","description":""}
+{"id":1033,"name":"Game Freak","description":""}
+{"id":1034,"name":"Game Mill Entertainment","description":""}
+{"id":1035,"name":"Game Moonhwa","description":""}
+{"id":1036,"name":"Game Room","description":""}
+{"id":1037,"name":"Game Studios","description":""}
+{"id":1038,"name":"Game Village","description":""}
+{"id":1039,"name":"GameMill Entertainment","description":""}
+{"id":1040,"name":"GameOn","description":""}
+{"id":1041,"name":"GameTek","description":""}
+{"id":1042,"name":"GameVillage","description":""}
+{"id":1043,"name":"GameVilliage","description":""}
+{"id":1044,"name":"Gameace","description":""}
+{"id":1045,"name":"Gamebridge","description":""}
+{"id":1046,"name":"Gamecock Media Group","description":""}
+{"id":1047,"name":"Gameline","description":""}
+{"id":1048,"name":"Gameloft","description":""}
+{"id":1049,"name":"Gameloft - Ubi Soft","description":""}
+{"id":1050,"name":"Gameloft / Ubi Soft","description":""}
+{"id":1051,"name":"Gamepark","description":""}
+{"id":1052,"name":"Gamers Digital","description":""}
+{"id":1053,"name":"Games Express","description":""}
+{"id":1054,"name":"Gameshastra Inc.","description":""}
+{"id":1055,"name":"Gametek","description":""}
+{"id":1056,"name":"Gametek, Imagitec Design","description":""}
+{"id":1057,"name":"Gametek, Konami","description":""}
+{"id":1058,"name":"Gametek, Take 2","description":""}
+{"id":1059,"name":"Gammation","description":""}
+{"id":1060,"name":"Gammick Entertainment","description":""}
+{"id":1061,"name":"Gamtec","description":""}
+{"id":1062,"name":"Gaps","description":""}
+{"id":1063,"name":"Gargoyle Games","description":""}
+{"id":1064,"name":"Gathering","description":""}
+{"id":1065,"name":"Gathering (Take2)","description":""}
+{"id":1066,"name":"Ge De Industry Co.","description":""}
+{"id":1067,"name":"Gen-X","description":""}
+{"id":1068,"name":"GeneX","description":""}
+{"id":1069,"name":"GeneX / Cyberfront","description":""}
+{"id":1070,"name":"General","description":""}
+{"id":1071,"name":"General Computer Corporation (Atari license)","description":""}
+{"id":1072,"name":"Genki","description":""}
+{"id":1073,"name":"Genki Co","description":""}
+{"id":1074,"name":"Genki Co., Ltd","description":""}
+{"id":1075,"name":"Gernot Fritsche","description":""}
+{"id":1076,"name":"Gerritsen, Tom","description":""}
+{"id":1077,"name":"Gevin","description":""}
+{"id":1078,"name":"Ghostfire Games","description":""}
+{"id":1079,"name":"Ghostlight","description":""}
+{"id":1080,"name":"Ghostlight LTD.","description":""}
+{"id":1081,"name":"Giantpune","description":""}
+{"id":1082,"name":"Global A","description":""}
+{"id":1083,"name":"Global A Entertainment","description":""}
+{"id":1084,"name":"Global Corporation","description":""}
+{"id":1085,"name":"Global Star","description":""}
+{"id":1086,"name":"Global Star Software","description":""}
+{"id":1087,"name":"Global Star Software Inc","description":""}
+{"id":1088,"name":"Global Star Software Ltd","description":""}
+{"id":1089,"name":"Gluk","description":""}
+{"id":1090,"name":"Gluk Video","description":""}
+{"id":1091,"name":"Go!","description":""}
+{"id":1092,"name":"Gobolos, Laszlo","description":""}
+{"id":1093,"name":"Goldenluigi Napier","description":""}
+{"id":1094,"name":"GolemLabs & Zoozen","description":""}
+{"id":1095,"name":"Goliath","description":""}
+{"id":1096,"name":"Goliath Games","description":""}
+{"id":1097,"name":"Good House","description":""}
+{"id":1098,"name":"Goose2k","description":""}
+{"id":1099,"name":"Gotham Games","description":""}
+{"id":1100,"name":"Gotham Games (Take-Two Interactive)","description":""}
+{"id":1101,"name":"Gotham Games / Disney Interactive","description":""}
+{"id":1102,"name":"Gottlieb","description":""}
+{"id":1103,"name":"Gottlieb (Konami license)","description":""}
+{"id":1104,"name":"Gottlieb (Taitel license)","description":""}
+{"id":1105,"name":"Gottlieb / Premier Technology","description":""}
+{"id":1106,"name":"Gouky y MagicTeam","description":""}
+{"id":1107,"name":"Gradual Games","description":""}
+{"id":1108,"name":"Graffiti Entertainment","description":""}
+{"id":1109,"name":"Grand Prix Games","description":""}
+{"id":1110,"name":"Grandslam","description":""}
+{"id":1111,"name":"Grandslam Entertainment","description":""}
+{"id":1112,"name":"Grandslam Entertainments","description":""}
+{"id":1113,"name":"Grandstand","description":""}
+{"id":1114,"name":"Gray Matter","description":""}
+{"id":1115,"name":"Great","description":""}
+{"id":1116,"name":"Greenwood","description":""}
+{"id":1117,"name":"Gremlin","description":""}
+{"id":1118,"name":"Gremlin Graphics","description":""}
+{"id":1119,"name":"Gremlin Graphics Software","description":""}
+{"id":1120,"name":"Gremlin Interactive","description":""}
+{"id":1121,"name":"Grolier Interactive","description":""}
+{"id":1122,"name":"Guildhall Leisure Services","description":""}
+{"id":1123,"name":"Gulyas Antal Denes","description":""}
+{"id":1124,"name":"GungHo","description":""}
+{"id":1125,"name":"GungHo Works / NEC Interchannel","description":""}
+{"id":1126,"name":"Gust","description":""}
+{"id":1127,"name":"Gust Co. Ltd","description":""}
+{"id":1128,"name":"H.A.R. Management","description":""}
+{"id":1129,"name":"HAL Laboratory","description":""}
+{"id":1130,"name":"HARD","description":""}
+{"id":1131,"name":"HB Studios","description":""}
+{"id":1132,"name":"HES","description":""}
+{"id":1133,"name":"HES Interactive","description":""}
+{"id":1134,"name":"HIP Interactive","description":""}
+{"id":1135,"name":"HMH interactive","description":""}
+{"id":1136,"name":"HSoft","description":""}
+{"id":1137,"name":"HUDSON SOFT","description":""}
+{"id":1138,"name":"HaJot","description":""}
+{"id":1139,"name":"Hack","description":""}
+{"id":1140,"name":"Hack (Don Hodges)","description":""}
+{"id":1141,"name":"Hack (Paul Goes)","description":""}
+{"id":1142,"name":"Hack (Penta Penguin)","description":""}
+{"id":1143,"name":"Hack (Sock Master)","description":""}
+{"id":1144,"name":"Hack (Sockmaster)","description":""}
+{"id":1145,"name":"Hack (Tim Appleton)","description":""}
+{"id":1146,"name":"HackGames","description":""}
+{"id":1147,"name":"Hacker International","description":""}
+{"id":1148,"name":"Halifax","description":""}
+{"id":1149,"name":"Hamster","description":""}
+{"id":1150,"name":"Hands-On Entertainment","description":""}
+{"id":1151,"name":"HappySoft","description":""}
+{"id":1152,"name":"Hara Industries","description":""}
+{"id":1153,"name":"Hara Industries (Cinematronics license)","description":""}
+{"id":1154,"name":"Hasbro Interactive","description":""}
+{"id":1155,"name":"Hasbro Interactive / Atari","description":""}
+{"id":1156,"name":"Hasbro Interactive / Microprose","description":""}
+{"id":1157,"name":"Havas Interactive","description":""}
+{"id":1158,"name":"Haven","description":""}
+{"id":1159,"name":"Heart Soft","description":""}
+{"id":1160,"name":"HeartBeat Corporation","description":""}
+{"id":1161,"name":"Hearty Robin","description":""}
+{"id":1162,"name":"Hect","description":""}
+{"id":1163,"name":"HectorSoft","description":""}
+{"id":1164,"name":"Henggedianzi","description":""}
+{"id":1165,"name":"Hermes","description":""}
+{"id":1166,"name":"Hewson","description":""}
+{"id":1167,"name":"Hewson Consultants","description":""}
+{"id":1168,"name":"Hi Tech","description":""}
+{"id":1169,"name":"Hi Tech Expressions","description":""}
+{"id":1170,"name":"Hi-Score Media Work","description":""}
+{"id":1171,"name":"Hi-Score Media Work Corp.","description":""}
+{"id":1172,"name":"Hi-Soft","description":""}
+{"id":1173,"name":"Hi-Tec Software","description":""}
+{"id":1174,"name":"Hi-max Technology Inc.","description":""}
+{"id":1175,"name":"HiCom","description":""}
+{"id":1176,"name":"HiTech Software","description":""}
+{"id":1177,"name":"High Level Challenge","description":""}
+{"id":1178,"name":"High Tech","description":""}
+{"id":1179,"name":"High Voltage Software, Inc.","description":""}
+{"id":1180,"name":"Hip Games","description":""}
+{"id":1181,"name":"Hiro","description":""}
+{"id":1182,"name":"Hiro Co., Ltd.","description":""}
+{"id":1183,"name":"Hit-Pak","description":""}
+{"id":1184,"name":"Hitek","description":""}
+{"id":1185,"name":"Hobbitron T.K.Trading Co. Ltd.","description":""}
+{"id":1186,"name":"Hocotate Hacker","description":""}
+{"id":1187,"name":"Hoei","description":""}
+{"id":1188,"name":"Home Data","description":""}
+{"id":1189,"name":"Home Entertainment Suppliers","description":""}
+{"id":1190,"name":"Home Entertainment Suppliers Pty Ltd (HES)","description":""}
+{"id":1191,"name":"Home Vision","description":""}
+{"id":1192,"name":"HomeComputer Software","description":""}
+{"id":1193,"name":"Homebrew","description":""}
+{"id":1194,"name":"Honeybee Soft","description":""}
+{"id":1195,"name":"Hoopa N13","description":""}
+{"id":1196,"name":"Hori","description":""}
+{"id":1197,"name":"Horvath, Tamas","description":""}
+{"id":1198,"name":"Hosenkan Electronics","description":""}
+{"id":1199,"name":"Hot B Co.","description":""}
+{"id":1200,"name":"Hot-B","description":""}
+{"id":1201,"name":"Hot-B Co., Ltd.","description":""}
+{"id":1202,"name":"Hot-B Co., Ltd. (Taito license)","description":""}
+{"id":1203,"name":"Hot-B USA","description":""}
+{"id":1204,"name":"Hozer Video Games","description":""}
+{"id":1205,"name":"Hpman","description":""}
+{"id":1206,"name":"Hudson","description":""}
+{"id":1207,"name":"Hudson Entertainment","description":""}
+{"id":1208,"name":"Hudson Entertainment, Inc.","description":""}
+{"id":1209,"name":"Hudson Soft","description":""}
+{"id":1210,"name":"Hudson Soft ","description":""}
+{"id":1211,"name":"Hudson Soft / Hudson Entertainment","description":""}
+{"id":1212,"name":"Huili, Pro CT Pack Team","description":""}
+{"id":1213,"name":"Human","description":""}
+{"id":1214,"name":"Human / Field","description":""}
+{"id":1215,"name":"Human Amusement","description":""}
+{"id":1216,"name":"Human Entertainment","description":""}
+{"id":1217,"name":"Hummingbird Soft","description":""}
+{"id":1218,"name":"Hypershell","description":""}
+{"id":1219,"name":"I'Max","description":""}
+{"id":1220,"name":"I.G.R.","description":""}
+{"id":1221,"name":"I2 (Aitsu)","description":""}
+{"id":1222,"name":"IBM","description":""}
+{"id":1223,"name":"ICD","description":""}
+{"id":1224,"name":"ICE","description":""}
+{"id":1225,"name":"IDSA","description":""}
+{"id":1226,"name":"IE Institute","description":""}
+{"id":1227,"name":"IGS","description":""}
+{"id":1228,"name":"IGS (Alta Co., LTD License)","description":""}
+{"id":1229,"name":"IGS (Metro license)","description":""}
+{"id":1230,"name":"IGS Alta Co., Ltd.","description":""}
+{"id":1231,"name":"IMax","description":""}
+{"id":1232,"name":"IREM","description":""}
+{"id":1233,"name":"ISG","description":""}
+{"id":1234,"name":"IT41","description":""}
+{"id":1235,"name":"ITE Media","description":""}
+{"id":1236,"name":"ITG.Soft","description":""}
+{"id":1237,"name":"IV Ramses","description":""}
+{"id":1238,"name":"Ian Wall","description":""}
+{"id":1239,"name":"Iber Soft","description":""}
+{"id":1240,"name":"Iber Software","description":""}
+{"id":1241,"name":"Ichibi No Kitsune","description":""}
+{"id":1242,"name":"Icon Games ","description":""}
+{"id":1243,"name":"Icon Games / Super Icon","description":""}
+{"id":1244,"name":"Icon Games Entertainment","description":""}
+{"id":1245,"name":"Icon Games Entertainment Ltd ","description":""}
+{"id":1246,"name":"Idea Factory","description":""}
+{"id":1247,"name":"Idea Factory Co., Ltd","description":""}
+{"id":1248,"name":"Idea-Tek","description":""}
+{"id":1249,"name":"Idealogic","description":""}
+{"id":1250,"name":"Idol Minds","description":""}
+{"id":1251,"name":"Ignition","description":""}
+{"id":1252,"name":"Ignition Entertaiment","description":""}
+{"id":1253,"name":"Ignition Entertainment","description":""}
+{"id":1254,"name":"Ignition Entertainment  / SNK Playmore ","description":""}
+{"id":1255,"name":"Iguana Entertainment","description":""}
+{"id":1256,"name":"Image Works","description":""}
+{"id":1257,"name":"Imagic","description":""}
+{"id":1258,"name":"Imagine","description":""}
+{"id":1259,"name":"Imagine Software","description":""}
+{"id":1260,"name":"Imagineer","description":""}
+{"id":1261,"name":"Imagineer-Zoom","description":""}
+{"id":1262,"name":"Impressions Software","description":""}
+{"id":1263,"name":"In Chang Electronic Co","description":""}
+{"id":1264,"name":"InXile Entertainment","description":""}
+{"id":1265,"name":"Incentive Software","description":""}
+{"id":1266,"name":"Incredible Technologies","description":""}
+{"id":1267,"name":"Incredible Technologies (Tuning license)","description":""}
+{"id":1268,"name":"Incredible Technologies / Capcom","description":""}
+{"id":1269,"name":"Incube8 Games","description":""}
+{"id":1270,"name":"Indescomp","description":""}
+{"id":1271,"name":"Indie Games Production","description":""}
+{"id":1272,"name":"Indie Games Productions / Nobilis","description":""}
+{"id":1273,"name":"Induction Produce","description":""}
+{"id":1274,"name":"Infocom","description":""}
+{"id":1275,"name":"Infogrames","description":""}
+{"id":1276,"name":"Infogrames (Atari)","description":""}
+{"id":1277,"name":"Infogrames / Accolade","description":""}
+{"id":1278,"name":"Infogrames / Humongous Entertainment","description":""}
+{"id":1279,"name":"Infogrames / Squaresoft","description":""}
+{"id":1280,"name":"Infogrames Interactive, Inc","description":""}
+{"id":1281,"name":"Inforgrames","description":""}
+{"id":1282,"name":"Information Global Service","description":""}
+{"id":1283,"name":"Inner Workings","description":""}
+{"id":1284,"name":"Innovation","description":""}
+{"id":1285,"name":"Insight Software","description":""}
+{"id":1286,"name":"Intec Inc.","description":""}
+{"id":1287,"name":"Intenium Console","description":""}
+{"id":1288,"name":"Interactive Imagination","description":""}
+{"id":1289,"name":"Interactivision","description":""}
+{"id":1290,"name":"Interchannel","description":""}
+{"id":1291,"name":"Interchannel-Holon","description":""}
+{"id":1292,"name":"Internal Engine","description":""}
+{"id":1293,"name":"International Games","description":""}
+{"id":1294,"name":"Interphase Technologies Inc.","description":""}
+{"id":1295,"name":"Interplay","description":""}
+{"id":1296,"name":"Interplay - Vivendi Universal Games","description":""}
+{"id":1297,"name":"Interplay Entertainment Corp","description":""}
+{"id":1298,"name":"Interplay Productions","description":""}
+{"id":1299,"name":"Intv Corp","description":""}
+{"id":1300,"name":"Investronica","description":""}
+{"id":1301,"name":"Invi Image","description":""}
+{"id":1302,"name":"Irem","description":""}
+{"id":1303,"name":"Irem (Data East Corporation license)","description":""}
+{"id":1304,"name":"Irem (Data East License)","description":""}
+{"id":1305,"name":"Irem (Data East USA License)","description":""}
+{"id":1306,"name":"Irem (Data East USA license)","description":""}
+{"id":1307,"name":"Irem (Memetron license)","description":""}
+{"id":1308,"name":"Irem (Nintendo of America license)","description":""}
+{"id":1309,"name":"Irem (Taito license)","description":""}
+{"id":1310,"name":"Irem (Tecfri license / Assa)","description":""}
+{"id":1311,"name":"Irem (Tecfri license)","description":""}
+{"id":1312,"name":"Irem (Williams license)","description":""}
+{"id":1313,"name":"Irem (licensed from Broderbund)","description":""}
+{"id":1314,"name":"Irem (licensed from Hudson Soft)","description":""}
+{"id":1315,"name":"Irem (licensed from Tokuma Shoten)","description":""}
+{"id":1316,"name":"Irem / GDI","description":""}
+{"id":1317,"name":"Irem America","description":""}
+{"id":1318,"name":"Irem America (licensed from Hudson Soft)","description":""}
+{"id":1319,"name":"Irem Software","description":""}
+{"id":1320,"name":"Itisa","description":""}
+{"id":1321,"name":"Itisa (Valadon Automation license)","description":""}
+{"id":1322,"name":"J-Wing","description":""}
+{"id":1323,"name":"J. Y. Company","description":""}
+{"id":1324,"name":"J.K. Greye Enterprises","description":""}
+{"id":1325,"name":"J.Y. Company","description":""}
+{"id":1326,"name":"JAGUAR","description":""}
+{"id":1327,"name":"JAP!","description":""}
+{"id":1328,"name":"JV Games Inc","description":""}
+{"id":1329,"name":"JVC","description":""}
+{"id":1330,"name":"JVC  / Victor Interactive","description":""}
+{"id":1331,"name":"JVC Digital Studios","description":""}
+{"id":1332,"name":"JVC Musical Industries, Inc","description":""}
+{"id":1333,"name":"JVC Sports","description":""}
+{"id":1334,"name":"JVC/Avalon Interactive","description":""}
+{"id":1335,"name":"JY Company","description":""}
+{"id":1336,"name":"Jackson Co., Ltd.","description":""}
+{"id":1337,"name":"Jaleco","description":""}
+{"id":1338,"name":"Jaleco (Cinematronics license)","description":""}
+{"id":1339,"name":"Jaleco (Kitkorp license)","description":""}
+{"id":1340,"name":"Jaleco (Nichibutsu USA license)","description":""}
+{"id":1341,"name":"Jaleco (Taito America license)","description":""}
+{"id":1342,"name":"Jaleco (Williams license)","description":""}
+{"id":1343,"name":"Jaleco / BPS","description":""}
+{"id":1344,"name":"Jaleco / Casio","description":""}
+{"id":1345,"name":"Jaleco / PCCWJ","description":""}
+{"id":1346,"name":"Jaleco / The Tetris Company","description":""}
+{"id":1347,"name":"Jaleco Entertainment","description":""}
+{"id":1348,"name":"Jamie Woodhouse","description":""}
+{"id":1349,"name":"Japan Art Media","description":""}
+{"id":1350,"name":"Japan System Supply","description":""}
+{"id":1351,"name":"JasperAU, RainbowKappa, Gavin Krolczyk, Toxic Prime, Benjamin Halko, LibraWarrior2004, Paniaal","description":""}
+{"id":1352,"name":"Jast","description":""}
+{"id":1353,"name":"JaySalty/Captain Salty","description":""}
+{"id":1354,"name":"Jazz Dark","description":""}
+{"id":1355,"name":"Jeff Kurtz","description":""}
+{"id":1356,"name":"Jeil Computer System","description":""}
+{"id":1357,"name":"Jester Interactive","description":""}
+{"id":1358,"name":"Jetsoft","description":""}
+{"id":1359,"name":"Jim Bagley","description":""}
+{"id":1360,"name":"Jimmy Kaz","description":""}
+{"id":1361,"name":"JoWooD Entertainment","description":""}
+{"id":1362,"name":"JoWooD Productions","description":""}
+{"id":1363,"name":"JoWooD Productions / Virgin","description":""}
+{"id":1364,"name":"JoWooD Productions Software AG","description":""}
+{"id":1365,"name":"JoWood","description":""}
+{"id":1366,"name":"JoWood Productions","description":""}
+{"id":1367,"name":"JoWood Produtions","description":""}
+{"id":1368,"name":"Joey Echeverria, ","description":""}
+{"id":1369,"name":"Johnson & Johnson","description":""}
+{"id":1370,"name":"Joju Games","description":""}
+{"id":1371,"name":"Jorudan","description":""}
+{"id":1372,"name":"JowooD Productions","description":""}
+{"id":1373,"name":"Joyon","description":""}
+{"id":1374,"name":"Juetel","description":""}
+{"id":1375,"name":"Julian Mathonet, Des Walker, benanderson89, Kenney.nl","description":""}
+{"id":1376,"name":"Jumbo Team","description":""}
+{"id":1377,"name":"K. Amusement Leasing","description":""}
+{"id":1378,"name":"K. Amusement Leasing Co.","description":""}
+{"id":1379,"name":"K.K. Tokki","description":""}
+{"id":1380,"name":"K.K. Tokki (Namco license)","description":""}
+{"id":1381,"name":"K1 Soft","description":""}
+{"id":1382,"name":"K3VBOT","description":""}
+{"id":1383,"name":"KAZe","description":""}
+{"id":1384,"name":"KH Video","description":""}
+{"id":1385,"name":"KKI","description":""}
+{"id":1386,"name":"KKK","description":""}
+{"id":1387,"name":"KOCH Media","description":""}
+{"id":1388,"name":"KOEI","description":""}
+{"id":1389,"name":"KSS","description":""}
+{"id":1390,"name":"Kaasa Solution","description":""}
+{"id":1391,"name":"Kadokawa","description":""}
+{"id":1392,"name":"Kadokawa Shoten","description":""}
+{"id":1393,"name":"Kaga Tech","description":""}
+{"id":1394,"name":"Kalisto, Mindscape","description":""}
+{"id":1395,"name":"Kalypso","description":""}
+{"id":1396,"name":"Kalypso Media","description":""}
+{"id":1397,"name":"Kama Digital","description":""}
+{"id":1398,"name":"Kamui","description":""}
+{"id":1399,"name":"Kando Games","description":""}
+{"id":1400,"name":"Kaneko","description":""}
+{"id":1401,"name":"Kaneko (American Sammy license)","description":""}
+{"id":1402,"name":"Kaneko (Atari license)","description":""}
+{"id":1403,"name":"Kaneko (Atlus license)","description":""}
+{"id":1404,"name":"Kaneko (Inter license)","description":""}
+{"id":1405,"name":"Kaneko (Namco license)","description":""}
+{"id":1406,"name":"Kaneko (Sega license)","description":""}
+{"id":1407,"name":"Kaneko (Suntronics license)","description":""}
+{"id":1408,"name":"Kaneko (Taito license)","description":""}
+{"id":1409,"name":"Kaneko (Tehkan license)","description":""}
+{"id":1410,"name":"Kaneko (Williams license)","description":""}
+{"id":1411,"name":"Kaneko / Kouyousha","description":""}
+{"id":1412,"name":"Kaneko / Mediaworks","description":""}
+{"id":1413,"name":"Kaneko / Taito","description":""}
+{"id":1414,"name":"Kaneko / Warashi","description":""}
+{"id":1415,"name":"Kaneko Elc. Co","description":""}
+{"id":1416,"name":"Karateco","description":""}
+{"id":1417,"name":"Karateko (bootleg)","description":""}
+{"id":1418,"name":"Karin Entertainment","description":""}
+{"id":1419,"name":"Kawada Co., Ltd.","description":""}
+{"id":1420,"name":"Kawada, Co. Ltd","description":""}
+{"id":1421,"name":"Kemco","description":""}
+{"id":1422,"name":"Kemco Japan","description":""}
+{"id":1423,"name":"Keryo Team","description":""}
+{"id":1424,"name":"Keynet","description":""}
+{"id":1425,"name":"Keystone Game Studio","description":""}
+{"id":1426,"name":"KiKi","description":""}
+{"id":1427,"name":"Kid","description":""}
+{"id":1428,"name":"Kiddinx","description":""}
+{"id":1429,"name":"Kids Station","description":""}
+{"id":1430,"name":"Kindle Imagine Develop","description":""}
+{"id":1431,"name":"King Record Co. Ltd.","description":""}
+{"id":1432,"name":"King Records","description":""}
+{"id":1433,"name":"King Tec Information Co., Ltd.","description":""}
+{"id":1434,"name":"Kirat","description":""}
+{"id":1435,"name":"Kiss, Endre - Gorbe, Istvan","description":""}
+{"id":1436,"name":"Kiss, Laszlo","description":""}
+{"id":1437,"name":"Kitmaker Entertainment","description":""}
+{"id":1438,"name":"Kiwako","description":""}
+{"id":1439,"name":"Kiwako (ECI license)","description":""}
+{"id":1440,"name":"KiwiPowerGreen, Potatoman44, Cats4Life, Fynn93","description":""}
+{"id":1441,"name":"Kixx","description":""}
+{"id":1442,"name":"KnapNok Games","description":""}
+{"id":1443,"name":"Knowledge Adventure Inc.","description":""}
+{"id":1444,"name":"KnucklesFan","description":""}
+{"id":1445,"name":"KoKoCapcom","description":""}
+{"id":1446,"name":"Kobunsha","description":""}
+{"id":1447,"name":"Koch Media","description":""}
+{"id":1448,"name":"Kodansha","description":""}
+{"id":1449,"name":"Koei","description":""}
+{"id":1450,"name":"Koei / Electronic Arts","description":""}
+{"id":1451,"name":"Koei / THQ","description":""}
+{"id":1452,"name":"Koei Corporation","description":""}
+{"id":1453,"name":"Koei Tecmo","description":""}
+{"id":1454,"name":"Koei Tecmo Games","description":""}
+{"id":1455,"name":"Kogado Software Products","description":""}
+{"id":1456,"name":"KokoCapcom","description":""}
+{"id":1457,"name":"Kokopeli / THQ","description":""}
+{"id":1458,"name":"Kokopeli Digital Studios / THQ","description":""}
+{"id":1459,"name":"Kokuzeichou","description":""}
+{"id":1460,"name":"Kolkom","description":""}
+{"id":1461,"name":"Kompart","description":""}
+{"id":1462,"name":"Konami","description":""}
+{"id":1463,"name":"Konami (Atari license)","description":""}
+{"id":1464,"name":"Konami (Centuri license)","description":""}
+{"id":1465,"name":"Konami (Gottlieb license)","description":""}
+{"id":1466,"name":"Konami (Interlogic / Kosuka license)","description":""}
+{"id":1467,"name":"Konami (Kawakusu license)","description":""}
+{"id":1468,"name":"Konami (Kosuka license)","description":""}
+{"id":1469,"name":"Konami (Olympia license)","description":""}
+{"id":1470,"name":"Konami (Sega license)","description":""}
+{"id":1471,"name":"Konami (Stern Electronics license)","description":""}
+{"id":1472,"name":"Konami (Stern License)","description":""}
+{"id":1473,"name":"Konami (Stern license)","description":""}
+{"id":1474,"name":"Konami / Atlus","description":""}
+{"id":1475,"name":"Konami / Interlogic","description":""}
+{"id":1476,"name":"Konami / Kosuka","description":""}
+{"id":1477,"name":"Konami / Sierra Entertainment","description":""}
+{"id":1478,"name":"Konami Computer Entertaiment America","description":""}
+{"id":1479,"name":"Konami Computer Entertainment Osaka","description":""}
+{"id":1480,"name":"Konami Computer Entertainment Tokyo","description":""}
+{"id":1481,"name":"Konami Corporation","description":""}
+{"id":1482,"name":"Konami Digital Entertainment","description":""}
+{"id":1483,"name":"Konami Digital Entertainment, Inc","description":""}
+{"id":1484,"name":"Konami Digital Entertainment, Inc.","description":""}
+{"id":1485,"name":"Konami Digital Entertainment, Inc. (KDEI)","description":""}
+{"id":1486,"name":"Konzcol, Laszlo","description":""}
+{"id":1487,"name":"Korner Entertainment","description":""}
+{"id":1488,"name":"Krazy Ivan","description":""}
+{"id":1489,"name":"Krea Medie","description":""}
+{"id":1490,"name":"Krisalis","description":""}
+{"id":1491,"name":"Krisalis Software","description":""}
+{"id":1492,"name":"Kuma Computers","description":""}
+{"id":1493,"name":"Kyle Hodgetts","description":""}
+{"id":1494,"name":"Kyoei / Falcon","description":""}
+{"id":1495,"name":"Kyu Rain","description":""}
+{"id":1496,"name":"Kyugo","description":""}
+{"id":1497,"name":"Kyugo (United Amusements license)","description":""}
+{"id":1498,"name":"Kyugo / Sega","description":""}
+{"id":1499,"name":"Kyugo / Taito Corporation","description":""}
+{"id":1500,"name":"Kyugo Boueki","description":""}
+{"id":1501,"name":"LAX","description":""}
+{"id":1502,"name":"LEGO Media International Inc","description":""}
+{"id":1503,"name":"LJN","description":""}
+{"id":1504,"name":"LJN LTD.","description":""}
+{"id":1505,"name":"LOZC G. Amusements","description":""}
+{"id":1506,"name":"LSP","description":""}
+{"id":1507,"name":"Lago","description":""}
+{"id":1508,"name":"Lago S.r.l.","description":""}
+{"id":1509,"name":"Laguna","description":""}
+{"id":1510,"name":"Laguna Gmbh","description":""}
+{"id":1511,"name":"Laguna Videospiele Vertriebs & Marketing GmbH","description":""}
+{"id":1512,"name":"Lankhor","description":""}
+{"id":1513,"name":"Laser Beam Entertainment","description":""}
+{"id":1514,"name":"Laser Soft","description":""}
+{"id":1515,"name":"Lay-Up","description":""}
+{"id":1516,"name":"Layup - Upstar","description":""}
+{"id":1517,"name":"Le Baron","description":""}
+{"id":1518,"name":"Le Cortex","description":""}
+{"id":1519,"name":"Leben Pro","description":""}
+{"id":1520,"name":"Left Field Productions","description":""}
+{"id":1521,"name":"Legacy Interactive","description":""}
+{"id":1522,"name":"Legendo Entertainment","description":""}
+{"id":1523,"name":"Legendo Entertainment ","description":""}
+{"id":1524,"name":"Lego Interactive","description":""}
+{"id":1525,"name":"Lego Media","description":""}
+{"id":1526,"name":"Leisure Genius","description":""}
+{"id":1527,"name":"Leisure and Allied","description":""}
+{"id":1528,"name":"Leland Interactive Media","description":""}
+{"id":1529,"name":"Leprechaun","description":""}
+{"id":1530,"name":"Level 5","description":""}
+{"id":1531,"name":"Level 9 Computing","description":""}
+{"id":1532,"name":"Lexis Numerique","description":""}
+{"id":1533,"name":"Lexis Numérique","description":""}
+{"id":1534,"name":"Life Fitness","description":""}
+{"id":1535,"name":"Light & Shadow Productions (LSP)","description":""}
+{"id":1536,"name":"Limenko","description":""}
+{"id":1537,"name":"Lionsfilm","description":""}
+{"id":1538,"name":"Liquid Games","description":""}
+{"id":1539,"name":"Liquid Games","description":""}
+{"id":1540,"name":"Little Dr.","description":""}
+{"id":1541,"name":"Little Orbit","description":""}
+{"id":1542,"name":"Little Orbit (International) Bergsala Lightweight (Japan)","description":""}
+{"id":1543,"name":"Locomalito","description":""}
+{"id":1544,"name":"Logic / F2 System","description":""}
+{"id":1545,"name":"Login Soft","description":""}
+{"id":1546,"name":"Logitec Corp.","description":""}
+{"id":1547,"name":"Looking Glass Studios","description":""}
+{"id":1548,"name":"Loriciel","description":""}
+{"id":1549,"name":"Loriciels","description":""}
+{"id":1550,"name":"Lost Levels","description":""}
+{"id":1551,"name":"LucasArts","description":""}
+{"id":1552,"name":"LucasArts Entertainment","description":""}
+{"id":1553,"name":"LucasArts Entertainment Company","description":""}
+{"id":1554,"name":"Lucasarts","description":""}
+{"id":1555,"name":"Lucasarts / Erbe Software","description":""}
+{"id":1556,"name":"Lucasfilm Entertainment","description":""}
+{"id":1557,"name":"Ludia","description":""}
+{"id":1558,"name":"Ludic Studios","description":""}
+{"id":1559,"name":"LunaValoäa and Deoku64","description":""}
+{"id":1560,"name":"M Dream","description":""}
+{"id":1561,"name":"M Network","description":""}
+{"id":1562,"name":"M&M","description":""}
+{"id":1563,"name":"M2","description":""}
+{"id":1564,"name":"M2 Co., Ltd.","description":""}
+{"id":1565,"name":"M2TO","description":""}
+{"id":1566,"name":"MAD Multimedia","description":""}
+{"id":1567,"name":"MASTERLINKX","description":""}
+{"id":1568,"name":"MC Lothlorien","description":""}
+{"id":1569,"name":"MCM Software","description":""}
+{"id":1570,"name":"MCS Team","description":""}
+{"id":1571,"name":"MGM Interactive","description":""}
+{"id":1572,"name":"MIA","description":""}
+{"id":1573,"name":"MOSS / Banpresto","description":""}
+{"id":1574,"name":"MTM Games","description":""}
+{"id":1575,"name":"MTO","description":""}
+{"id":1576,"name":"MTO Co","description":""}
+{"id":1577,"name":"MTO Inc.","description":""}
+{"id":1578,"name":"MTV Games","description":""}
+{"id":1579,"name":"Ma-Ba","description":""}
+{"id":1580,"name":"Maboroshi Ware","description":""}
+{"id":1581,"name":"Maczko, Istvan","description":""}
+{"id":1582,"name":"Mad Cats","description":""}
+{"id":1583,"name":"Mad Catz","description":""}
+{"id":1584,"name":"Mad Catz Interactive","description":""}
+{"id":1585,"name":"Magellan Interactive","description":""}
+{"id":1586,"name":"Magic Software","description":""}
+{"id":1587,"name":"Magic Team","description":""}
+{"id":1588,"name":"Magical Company","description":""}
+{"id":1589,"name":"Magical Company (Mahou)","description":""}
+{"id":1590,"name":"Magical Company LTD","description":""}
+{"id":1591,"name":"Magical Zoo","description":""}
+{"id":1592,"name":"Magifact","description":""}
+{"id":1593,"name":"Magnavox","description":""}
+{"id":1594,"name":"Magnetic Fields","description":""}
+{"id":1595,"name":"Magnovox","description":""}
+{"id":1596,"name":"Magnum","description":""}
+{"id":1597,"name":"Mahou","description":""}
+{"id":1598,"name":"Maid meets Cat","description":""}
+{"id":1599,"name":"Majesco","description":""}
+{"id":1600,"name":"Majesco Entertainment","description":""}
+{"id":1601,"name":"Majesco Games","description":""}
+{"id":1602,"name":"Majesco Sales Inc","description":""}
+{"id":1603,"name":"Majesco Sales Inc ","description":""}
+{"id":1604,"name":"Malibu Games","description":""}
+{"id":1605,"name":"Mama Top","description":""}
+{"id":1606,"name":"Marc Max","description":""}
+{"id":1607,"name":"Marik, Peter","description":""}
+{"id":1608,"name":"MarkZ","description":""}
+{"id":1609,"name":"Martech","description":""}
+{"id":1610,"name":"Martech Games","description":""}
+{"id":1611,"name":"Marvellous","description":""}
+{"id":1612,"name":"Marvellous Interactive","description":""}
+{"id":1613,"name":"Marvelous","description":""}
+{"id":1614,"name":"Marvelous Entertainment","description":""}
+{"id":1615,"name":"Marvelous Entertainment Inc.","description":""}
+{"id":1616,"name":"Marvelous Interactive","description":""}
+{"id":1617,"name":"Masaya Games","description":""}
+{"id":1618,"name":"Mass Tael","description":""}
+{"id":1619,"name":"Master4Robin","description":""}
+{"id":1620,"name":"Mastertronic","description":""}
+{"id":1621,"name":"Mastertronic Added Dimension","description":""}
+{"id":1622,"name":"Mastertronic Group Limited / Blast! Ent.","description":""}
+{"id":1623,"name":"Mastertronic Plus","description":""}
+{"id":1624,"name":"Mastiff","description":""}
+{"id":1625,"name":"Mastiff / N3V Games","description":""}
+{"id":1626,"name":"Mastiff Games","description":""}
+{"id":1627,"name":"Mastiff, LLC","description":""}
+{"id":1628,"name":"Matchbox International Ltd","description":""}
+{"id":1629,"name":"Mateus Vianna","description":""}
+{"id":1630,"name":"Matrixz","description":""}
+{"id":1631,"name":"Matt Hughson","description":""}
+{"id":1632,"name":"Matt Makes Games","description":""}
+{"id":1633,"name":"Mattel","description":""}
+{"id":1634,"name":"Mattel Electronics","description":""}
+{"id":1635,"name":"Mattel Interactive","description":""}
+{"id":1636,"name":"Maximum Family Games","description":""}
+{"id":1637,"name":"Maximum Family Games ","description":""}
+{"id":1638,"name":"Maxis","description":""}
+{"id":1639,"name":"Maxis Software","description":""}
+{"id":1640,"name":"MeTheMarioFan","description":""}
+{"id":1641,"name":"MeTheMarioMan","description":""}
+{"id":1642,"name":"Mebius","description":""}
+{"id":1643,"name":"Mechanic Arms","description":""}
+{"id":1644,"name":"Media Enterprise","description":""}
+{"id":1645,"name":"Media Entertainment","description":""}
+{"id":1646,"name":"Media Factory","description":""}
+{"id":1647,"name":"Media Group","description":""}
+{"id":1648,"name":"Media Kite","description":""}
+{"id":1649,"name":"Media Rings","description":""}
+{"id":1650,"name":"Media Trading Corp","description":""}
+{"id":1651,"name":"Media Works","description":""}
+{"id":1652,"name":"MediaKite","description":""}
+{"id":1653,"name":"Mediakite","description":""}
+{"id":1654,"name":"Medic Corporation","description":""}
+{"id":1655,"name":"Mega","description":""}
+{"id":1656,"name":"Mega / Noise Factory / Playmore","description":""}
+{"id":1657,"name":"Mega / SNK Playmore","description":""}
+{"id":1658,"name":"Mega Cat Studios","description":""}
+{"id":1659,"name":"Mega Co","description":""}
+{"id":1660,"name":"Mega Enterprise","description":""}
+{"id":1661,"name":"Mega House","description":""}
+{"id":1662,"name":"Mega Soft","description":""}
+{"id":1663,"name":"Melbourne House","description":""}
+{"id":1664,"name":"Meldac","description":""}
+{"id":1665,"name":"Men-A-Vision","description":""}
+{"id":1666,"name":"Metro","description":""}
+{"id":1667,"name":"Metro (Mitchell license)","description":""}
+{"id":1668,"name":"Metro / Able Corp.","description":""}
+{"id":1669,"name":"Metro / Banpresto","description":""}
+{"id":1670,"name":"Metro 3D","description":""}
+{"id":1671,"name":"Metro 3D / Data Design","description":""}
+{"id":1672,"name":"Metro3D","description":""}
+{"id":1673,"name":"Metro3D, Inc","description":""}
+{"id":1674,"name":"Micott & Basara","description":""}
+{"id":1675,"name":"Micro Cabin","description":""}
+{"id":1676,"name":"Micro Fun","description":""}
+{"id":1677,"name":"Micro Genius","description":""}
+{"id":1678,"name":"Micro Style","description":""}
+{"id":1679,"name":"Micro World ","description":""}
+{"id":1680,"name":"MicroProse","description":""}
+{"id":1681,"name":"MicroProse Software, Inc","description":""}
+{"id":1682,"name":"Microbyte","description":""}
+{"id":1683,"name":"Microcabin","description":""}
+{"id":1684,"name":"Microdeal","description":""}
+{"id":1685,"name":"Microids","description":""}
+{"id":1686,"name":"Microids Canal + Multimedia / France Multimedia","description":""}
+{"id":1687,"name":"Micromania","description":""}
+{"id":1688,"name":"Micromega","description":""}
+{"id":1689,"name":"Micronet","description":""}
+{"id":1690,"name":"Microprose","description":""}
+{"id":1691,"name":"Microprose Software","description":""}
+{"id":1692,"name":"Microsmiths","description":""}
+{"id":1693,"name":"Microvalue","description":""}
+{"id":1694,"name":"Microïds","description":""}
+{"id":1695,"name":"Midas Games","description":""}
+{"id":1696,"name":"Midas Interactive","description":""}
+{"id":1697,"name":"Midas Interactive / Swing!","description":""}
+{"id":1698,"name":"Midas Interactive Entertaiment","description":""}
+{"id":1699,"name":"Midas Interactive Entertainment","description":""}
+{"id":1700,"name":"Midcoin","description":""}
+{"id":1701,"name":"Midway","description":""}
+{"id":1702,"name":"Midway / Incredible Technologies","description":""}
+{"id":1703,"name":"Midway / Tradewest","description":""}
+{"id":1704,"name":"Midway / Warner Bros. Interactive Entertainment","description":""}
+{"id":1705,"name":"Midway Games","description":""}
+{"id":1706,"name":"Midway Home Entertaiment","description":""}
+{"id":1707,"name":"Midway Home Entertainment","description":""}
+{"id":1708,"name":"Midway Home Entertainment Inc","description":""}
+{"id":1709,"name":"Midway Home Entertainment, Inc","description":""}
+{"id":1710,"name":"Midway Home Entertainment, Inc. / Warner Bros. Interactive Entertainment","description":""}
+{"id":1711,"name":"Mig Entertainment","description":""}
+{"id":1712,"name":"Mijin","description":""}
+{"id":1713,"name":"Miklan, Attila","description":""}
+{"id":1714,"name":"Mikro-Gen","description":""}
+{"id":1715,"name":"Miky","description":""}
+{"id":1716,"name":"Miky SRL","description":""}
+{"id":1717,"name":"MileStone Inc","description":""}
+{"id":1718,"name":"Milestone","description":""}
+{"id":1719,"name":"Milestone / UFO Interactive","description":""}
+{"id":1720,"name":"Millenium Interactive","description":""}
+{"id":1721,"name":"Millennium","description":""}
+{"id":1722,"name":"Milmar Indústria e Comércio Ltda.","description":""}
+{"id":1723,"name":"Milton Bradley Co.","description":""}
+{"id":1724,"name":"Mimi-Pro","description":""}
+{"id":1725,"name":"Min Corp.","description":""}
+{"id":1726,"name":"Minato Soft","description":""}
+{"id":1727,"name":"Mind Games Espana","description":""}
+{"id":1728,"name":"Mindscape","description":""}
+{"id":1729,"name":"Mindscape Inc","description":""}
+{"id":1730,"name":"Mindscape International","description":""}
+{"id":1731,"name":"Mindscape,","description":""}
+{"id":1732,"name":"Mindscape, Inc","description":""}
+{"id":1733,"name":"Ming Super Chip Electronic","description":""}
+{"id":1734,"name":"Mirrorsoft","description":""}
+{"id":1735,"name":"Misawa","description":""}
+{"id":1736,"name":"Mitchell","description":""}
+{"id":1737,"name":"Mitchell (Atlus license)","description":""}
+{"id":1738,"name":"Mitchell (Capcom license)","description":""}
+{"id":1739,"name":"Mitchell (Data East Corporation license)","description":""}
+{"id":1740,"name":"Mitchell Corporation","description":""}
+{"id":1741,"name":"Mitchell, distritued by Capcom","description":""}
+{"id":1742,"name":"Mitsui Fudosan","description":""}
+{"id":1743,"name":"Mobius Entertainment","description":""}
+{"id":1744,"name":"Model Racing","description":""}
+{"id":1745,"name":"Model Racing (Olympia license)","description":""}
+{"id":1746,"name":"Mogon Twins","description":""}
+{"id":1747,"name":"Mojon Twins","description":""}
+{"id":1748,"name":"Mojontwins","description":""}
+{"id":1749,"name":"Monolith Corp.","description":""}
+{"id":1750,"name":"MonstersGoBoom","description":""}
+{"id":1751,"name":"Moonlight","description":""}
+{"id":1752,"name":"Moonstone","description":""}
+{"id":1753,"name":"Moov Generation / Eolith","description":""}
+{"id":1754,"name":"Morphcat Games","description":""}
+{"id":1755,"name":"Morukutsu","description":""}
+{"id":1756,"name":"Motown Software","description":""}
+{"id":1757,"name":"Mr. Luigi","description":""}
+{"id":1758,"name":"Mr. X","description":""}
+{"id":1759,"name":"MuMuS Soft","description":""}
+{"id":1760,"name":"Mubik","description":""}
+{"id":1761,"name":"Mud Duck Productions","description":""}
+{"id":1762,"name":"Multivision","description":""}
+{"id":1763,"name":"Mutation","description":""}
+{"id":1764,"name":"Mylstar","description":""}
+{"id":1765,"name":"Mystique","description":""}
+{"id":1766,"name":"Mythicon, Inc.","description":""}
+{"id":1767,"name":"N M K Corporation","description":""}
+{"id":1768,"name":"N3V Games","description":""}
+{"id":1769,"name":"NAMCO BANDAI Games ","description":""}
+{"id":1770,"name":"NAMCO BANDAI Games America Inc.","description":""}
+{"id":1771,"name":"NAP Consumer Electronics Corp.","description":""}
+{"id":1772,"name":"NBGI","description":""}
+{"id":1773,"name":"NCS","description":""}
+{"id":1774,"name":"NCS Corporation","description":""}
+{"id":1775,"name":"NDA Productions","description":""}
+{"id":1776,"name":"NDK / Data East","description":""}
+{"id":1777,"name":"NEC","description":""}
+{"id":1778,"name":"NEC InterChannel","description":""}
+{"id":1779,"name":"NEC Interchannel","description":""}
+{"id":1780,"name":"NEON Software","description":""}
+{"id":1781,"name":"NEXOFT Corporation","description":""}
+{"id":1782,"name":"NG:DEV.TEAM","description":""}
+{"id":1783,"name":"NG:Dev.Team","description":""}
+{"id":1784,"name":"NGF Dev. Inc.","description":""}
+{"id":1785,"name":"NHK","description":""}
+{"id":1786,"name":"NIHON FALCOM","description":""}
+{"id":1787,"name":"NIS","description":""}
+{"id":1788,"name":"NIS America","description":""}
+{"id":1789,"name":"NIS America Inc.","description":""}
+{"id":1790,"name":"NISSO Corporation","description":""}
+{"id":1791,"name":"NIX","description":""}
+{"id":1792,"name":"NIne'sFox","description":""}
+{"id":1793,"name":"NMK","description":""}
+{"id":1794,"name":"NMK (Jaleco license)","description":""}
+{"id":1795,"name":"NMK (Tecmo license)","description":""}
+{"id":1796,"name":"NMK / Tecmo","description":""}
+{"id":1797,"name":"NTDEC","description":""}
+{"id":1798,"name":"NTT","description":""}
+{"id":1799,"name":"NTV International Corporation","description":""}
+{"id":1800,"name":"NTVIC","description":""}
+{"id":1801,"name":"NTV International Corporation","description":""}
+{"id":1802,"name":"Nabi Studios","description":""}
+{"id":1803,"name":"Nagi-P Soft","description":""}
+{"id":1804,"name":"Namco","description":""}
+{"id":1805,"name":"Namco (Alca license)","description":""}
+{"id":1806,"name":"Namco (Atari license)","description":""}
+{"id":1807,"name":"Namco (Atari license?)","description":""}
+{"id":1808,"name":"Namco (Bally Midway license)","description":""}
+{"id":1809,"name":"Namco (F.lli Bertolino license)","description":""}
+{"id":1810,"name":"Namco (Gremlin license)","description":""}
+{"id":1811,"name":"Namco (Midway License)","description":""}
+{"id":1812,"name":"Namco (Midway license)","description":""}
+{"id":1813,"name":"Namco (Rock-Ola license)","description":""}
+{"id":1814,"name":"Namco (Sidam license)","description":""}
+{"id":1815,"name":"Namco (Sonic license)","description":""}
+{"id":1816,"name":"Namco (Taito license)","description":""}
+{"id":1817,"name":"Namco / Cosmodog","description":""}
+{"id":1818,"name":"Namco Bandai","description":""}
+{"id":1819,"name":"Namco Bandai Entertainment","description":""}
+{"id":1820,"name":"Namco Bandai Games","description":""}
+{"id":1821,"name":"Namco Bandai Games America","description":""}
+{"id":1822,"name":"Namco Bandai Games America, Inc","description":""}
+{"id":1823,"name":"Namco Bandai Games Europe SAS","description":""}
+{"id":1824,"name":"Namco Bandai Games Inc,","description":""}
+{"id":1825,"name":"Namco Bandaï","description":""}
+{"id":1826,"name":"Namco Ltd","description":""}
+{"id":1827,"name":"Namco Ltd.","description":""}
+{"id":1828,"name":"Namco [Sipem license]","description":""}
+{"id":1829,"name":"Namcot","description":""}
+{"id":1830,"name":"Nasco","description":""}
+{"id":1831,"name":"Nathan Tolbert","description":""}
+{"id":1832,"name":"Natsume","description":""}
+{"id":1833,"name":"Natsume ","description":""}
+{"id":1834,"name":"Natsume / Sega","description":""}
+{"id":1835,"name":"Natsume Inc","description":""}
+{"id":1836,"name":"Natsume Inc.","description":""}
+{"id":1837,"name":"Natsume Inc. ","description":""}
+{"id":1838,"name":"Naxat Soft","description":""}
+{"id":1839,"name":"Naxat soft","description":""}
+{"id":1840,"name":"Nayuta","description":""}
+{"id":1841,"name":"Nazca","description":""}
+{"id":1842,"name":"Neko Entertainment","description":""}
+{"id":1843,"name":"Neko Entertainment / Bigben Interactive","description":""}
+{"id":1844,"name":"Neko Entertainment / Diffusion / Naps team","description":""}
+{"id":1845,"name":"Nemezes","description":""}
+{"id":1846,"name":"Neo","description":""}
+{"id":1847,"name":"Neo Dev Corporation","description":""}
+{"id":1848,"name":"NeoHomeBrew","description":""}
+{"id":1849,"name":"Neofid Studios","description":""}
+{"id":1850,"name":"Neptune777","description":""}
+{"id":1851,"name":"Netflix","description":""}
+{"id":1852,"name":"Never released","description":""}
+{"id":1853,"name":"New Luigi Team","description":""}
+{"id":1854,"name":"New Mario Team","description":""}
+{"id":1855,"name":"New System House Oh!","description":""}
+{"id":1856,"name":"New World Computing's","description":""}
+{"id":1857,"name":"NewKidCo","description":""}
+{"id":1858,"name":"NewKidCo LLC / Disney Interactive","description":""}
+{"id":1859,"name":"NewKidCo, Inc","description":""}
+{"id":1860,"name":"Newer Team","description":""}
+{"id":1861,"name":"Nexus Productions","description":""}
+{"id":1862,"name":"Nichibutsu","description":""}
+{"id":1863,"name":"Nichibutsu (Centuri license)","description":""}
+{"id":1864,"name":"Nichibutsu (Fillmore license)","description":""}
+{"id":1865,"name":"Nichibutsu (Karateco license)","description":""}
+{"id":1866,"name":"Nichibutsu (Sonic license)","description":""}
+{"id":1867,"name":"Nichibutsu (Taito do Brasil license)","description":""}
+{"id":1868,"name":"Nichibutsu (Tecfri license)","description":""}
+{"id":1869,"name":"Nichibutsu / Alice","description":""}
+{"id":1870,"name":"Nichibutsu / Fujitek","description":""}
+{"id":1871,"name":"Nichibutsu Japan","description":""}
+{"id":1872,"name":"Nichibutsu UK","description":""}
+{"id":1873,"name":"Nichibutsu USA","description":""}
+{"id":1874,"name":"Nics","description":""}
+{"id":1875,"name":"Nidecom","description":""}
+{"id":1876,"name":"Nielsen, A.","description":""}
+{"id":1877,"name":"Niemer","description":""}
+{"id":1878,"name":"Nihon Application","description":""}
+{"id":1879,"name":"Nihon Bussan","description":""}
+{"id":1880,"name":"Nihon Falcom","description":""}
+{"id":1881,"name":"Nihon System","description":""}
+{"id":1882,"name":"Nihon System (Merit license)","description":""}
+{"id":1883,"name":"Nihon System (Sega license)","description":""}
+{"id":1884,"name":"Nihon System / Moss","description":""}
+{"id":1885,"name":"Nine's Fox","description":""}
+{"id":1886,"name":"NinjaBee","description":""}
+{"id":1887,"name":"Ninrendo","description":""}
+{"id":1888,"name":"Nintendo","description":""}
+{"id":1889,"name":"Nintendo ","description":""}
+{"id":1890,"name":"Nintendo (Fortrek license)","description":""}
+{"id":1891,"name":"Nintendo (Gremlin license)","description":""}
+{"id":1892,"name":"Nintendo of America","description":""}
+{"id":1893,"name":"Nintendo/DarkUmbra","description":""}
+{"id":1894,"name":"Nippon Amuse","description":""}
+{"id":1895,"name":"Nippon Amuse Co-Ltd","description":""}
+{"id":1896,"name":"Nippon Clary Business","description":""}
+{"id":1897,"name":"Nippon Columbia ","description":""}
+{"id":1898,"name":"Nippon Dexter","description":""}
+{"id":1899,"name":"Nippon Ichi","description":""}
+{"id":1900,"name":"Nippon Ichi Software","description":""}
+{"id":1901,"name":"Nis America","description":""}
+{"id":1902,"name":"Nnooo","description":""}
+{"id":1903,"name":"Nobilis","description":""}
+{"id":1904,"name":"Nobilis Group","description":""}
+{"id":1905,"name":"Noise Factory","description":""}
+{"id":1906,"name":"Noise Factory / Atlus","description":""}
+{"id":1907,"name":"Noise Factory / SNK","description":""}
+{"id":1908,"name":"Noma (Casino Tech license)","description":""}
+{"id":1909,"name":"Noma (Costal Games license)","description":""}
+{"id":1910,"name":"Nordcurrent","description":""}
+{"id":1911,"name":"Nordic Games","description":""}
+{"id":1912,"name":"Nordic Games Publishing","description":""}
+{"id":1913,"name":"Nordic Softsales","description":""}
+{"id":1914,"name":"Nova","description":""}
+{"id":1915,"name":"Nova Games Ltd","description":""}
+{"id":1916,"name":"Nova Games Ltd.","description":""}
+{"id":1917,"name":"NovaLogic, Inc","description":""}
+{"id":1918,"name":"NovaSquirrel","description":""}
+{"id":1919,"name":"Novagen Software","description":""}
+{"id":1920,"name":"Novalogic","description":""}
+{"id":1921,"name":"Nova Co","description":""}
+{"id":1922,"name":"Novomatic","description":""}
+{"id":1923,"name":"Novosoft","description":""}
+{"id":1924,"name":"Novotrade","description":""}
+{"id":1925,"name":"Now Production","description":""}
+{"id":1926,"name":"Ntreev Soft","description":""}
+{"id":1927,"name":"NuFX","description":""}
+{"id":1928,"name":"Nuova Videotron","description":""}
+{"id":1929,"name":"Nuvision Entertainment","description":""}
+{"id":1930,"name":"O-Games","description":""}
+{"id":1931,"name":"O3 Entertainment","description":""}
+{"id":1932,"name":"OG International","description":""}
+{"id":1933,"name":"OMK / Gaelco","description":""}
+{"id":1934,"name":"OMK / Gaelco (Promat license)","description":""}
+{"id":1935,"name":"Ocean","description":""}
+{"id":1936,"name":"Ocean Software","description":""}
+{"id":1937,"name":"Ocean, Team 17","description":""}
+{"id":1938,"name":"Octasoft","description":""}
+{"id":1939,"name":"Odin Computer Graphics","description":""}
+{"id":1940,"name":"Oibaf","description":""}
+{"id":1941,"name":"Oksan","description":""}
+{"id":1942,"name":"Oksan / F2 System","description":""}
+{"id":1943,"name":"Ol' Brofist","description":""}
+{"id":1944,"name":"Oldergames","description":""}
+{"id":1945,"name":"Olympia","description":""}
+{"id":1946,"name":"Olympia (Centuri license)","description":""}
+{"id":1947,"name":"Omega Micott","description":""}
+{"id":1948,"name":"Omega Micott Inc.","description":""}
+{"id":1949,"name":"Omega System","description":""}
+{"id":1950,"name":"Omega System (Adko license)","description":""}
+{"id":1951,"name":"Omori","description":""}
+{"id":1952,"name":"Omori Electric Co. Ltd","description":""}
+{"id":1953,"name":"Omori Electric Co., Ltd.","description":""}
+{"id":1954,"name":"Ongakukan","description":""}
+{"id":1955,"name":"Open Corp","description":""}
+{"id":1956,"name":"Opera Soft","description":""}
+{"id":1957,"name":"Optlmystery Software","description":""}
+{"id":1958,"name":"Orange-Yoshi3.3","description":""}
+{"id":1959,"name":"Orangy57","description":""}
+{"id":1960,"name":"Orca","description":""}
+{"id":1961,"name":"Orca (Eastern Commerce Inc. license)","description":""}
+{"id":1962,"name":"Orca (Eastern Micro Electronics, Inc. license)","description":""}
+{"id":1963,"name":"Orca (Esco Trading Co license)","description":""}
+{"id":1964,"name":"Orca (Esco Trading Co., Inc. license)","description":""}
+{"id":1965,"name":"Orca / Thunderbolt","description":""}
+{"id":1966,"name":"Oriental Soft","description":""}
+{"id":1967,"name":"Oriental Soft / Promat","description":""}
+{"id":1968,"name":"Oriental Soft Japan","description":""}
+{"id":1969,"name":"Origin","description":""}
+{"id":1970,"name":"Origin Systems","description":""}
+{"id":1971,"name":"Orksoft","description":""}
+{"id":1972,"name":"Orpheus Ltd","description":""}
+{"id":1973,"name":"Outrigger Koubou","description":""}
+{"id":1974,"name":"Over The Top Games","description":""}
+{"id":1975,"name":"Over the Top Games","description":""}
+{"id":1976,"name":"Oxford Computer Publishing","description":""}
+{"id":1977,"name":"Oxygen Games","description":""}
+{"id":1978,"name":"Oxygen Interactive","description":""}
+{"id":1979,"name":"Oxygen Interactive Ltd","description":""}
+{"id":1980,"name":"Oxygen Interactive Software Ltd","description":""}
+{"id":1981,"name":"Oxygene","description":""}
+{"id":1982,"name":"OzzyOuzo","description":""}
+{"id":1983,"name":"P&P Marketing","description":""}
+{"id":1984,"name":"P2 Games","description":""}
+{"id":1985,"name":"PALSOFT","description":""}
+{"id":1986,"name":"PAN Vision AB","description":""}
+{"id":1987,"name":"PCCW","description":""}
+{"id":1988,"name":"PCCW Japan","description":""}
+{"id":1989,"name":"PFX Interactive","description":""}
+{"id":1990,"name":"PG Software","description":""}
+{"id":1991,"name":"PIN Change","description":""}
+{"id":1992,"name":"POW (Planning Office Wada) / VR1 Japan","description":""}
+{"id":1993,"name":"PQube","description":""}
+{"id":1994,"name":"PSS","description":""}
+{"id":1995,"name":"PXL computers","description":""}
+{"id":1996,"name":"Pacific Century Cyber Works","description":""}
+{"id":1997,"name":"Pacific Novelty","description":""}
+{"id":1998,"name":"Pack In Video","description":""}
+{"id":1999,"name":"Pack-In-Video","description":""}
+{"id":2000,"name":"Palace Software","description":""}
+{"id":2001,"name":"Palco","description":""}
+{"id":2002,"name":"Palcom","description":""}
+{"id":2003,"name":"Pan Vision","description":""}
+{"id":2004,"name":"Panasoft","description":""}
+{"id":2005,"name":"Panasonic","description":""}
+{"id":2006,"name":"Panda","description":""}
+{"id":2007,"name":"Panda Software","description":""}
+{"id":2008,"name":"Pandora","description":""}
+{"id":2009,"name":"Panesian","description":""}
+{"id":2010,"name":"Paniaal","description":""}
+{"id":2011,"name":"Panther Software","description":""}
+{"id":2012,"name":"Para","description":""}
+{"id":2013,"name":"Paradise Co. Ltd.","description":""}
+{"id":2014,"name":"Paragon Publishing","description":""}
+{"id":2015,"name":"Paramount Digital Entertainment, Electronic Arts ","description":""}
+{"id":2016,"name":"Paramount Digital Entertainment, Namco Bandai","description":""}
+{"id":2017,"name":"Parker Brothers","description":""}
+{"id":2018,"name":"Passe Gaming","description":""}
+{"id":2019,"name":"Patt Anderson","description":""}
+{"id":2020,"name":"Paul Goes","description":""}
+{"id":2021,"name":"Pax Softonica","description":""}
+{"id":2022,"name":"Paxon","description":""}
+{"id":2023,"name":"Pembo","description":""}
+{"id":2024,"name":"Peni Soft","description":""}
+{"id":2025,"name":"Phenixsoft","description":""}
+{"id":2026,"name":"Phenomedia","description":""}
+{"id":2027,"name":"Philco","description":""}
+{"id":2028,"name":"Philips","description":""}
+{"id":2029,"name":"Philips Export B.V.","description":""}
+{"id":2030,"name":"Philips Interactive Media","description":""}
+{"id":2031,"name":"Philko","description":""}
+{"id":2032,"name":"Philko (Pacific Games license)","description":""}
+{"id":2033,"name":"Philko (Poara Enterprises license)","description":""}
+{"id":2034,"name":"Philko (Sharp Image license)","description":""}
+{"id":2035,"name":"Phoenix Games","description":""}
+{"id":2036,"name":"Piacci","description":""}
+{"id":2037,"name":"PikHacker","description":""}
+{"id":2038,"name":"Piko Interactive","description":""}
+{"id":2039,"name":"Pinecone","description":""}
+{"id":2040,"name":"Pione Soft","description":""}
+{"id":2041,"name":"Pioneer LDC","description":""}
+{"id":2042,"name":"Pioneer Productions","description":""}
+{"id":2043,"name":"Pionesoft","description":""}
+{"id":2044,"name":"Piranha","description":""}
+{"id":2045,"name":"Piranha Games","description":""}
+{"id":2046,"name":"Pirate","description":""}
+{"id":2047,"name":"Pirate Software","description":""}
+{"id":2048,"name":"Piskoty, Gabor","description":""}
+{"id":2049,"name":"Pixel","description":""}
+{"id":2050,"name":"Pixel Blue","description":""}
+{"id":2051,"name":"Pixonauts","description":""}
+{"id":2052,"name":"Planeta DeAgostini Interactive","description":""}
+{"id":2053,"name":"Play It","description":""}
+{"id":2054,"name":"Play It!","description":""}
+{"id":2055,"name":"Play it","description":""}
+{"id":2056,"name":"Play it!","description":""}
+{"id":2057,"name":"PlayIt","description":""}
+{"id":2058,"name":"PlayOnRetro","description":""}
+{"id":2059,"name":"Players Premier Software","description":""}
+{"id":2060,"name":"Players Software","description":""}
+{"id":2061,"name":"Players Software - Sinclair User","description":""}
+{"id":2062,"name":"Playlogic","description":""}
+{"id":2063,"name":"Playlogic International","description":""}
+{"id":2064,"name":"Playlogic International N.V","description":""}
+{"id":2065,"name":"Playmark","description":""}
+{"id":2066,"name":"Playmark bootleg","description":""}
+{"id":2067,"name":"Playmates Interactive","description":""}
+{"id":2068,"name":"Playmore / Capcom","description":""}
+{"id":2069,"name":"Playstos","description":""}
+{"id":2070,"name":"Playstos Entertainment","description":""}
+{"id":2071,"name":"Playtainment","description":""}
+{"id":2072,"name":"Playtainment ","description":""}
+{"id":2073,"name":"Playtronic Industrial Ltda.","description":""}
+{"id":2074,"name":"Poby / Jeansole","description":""}
+{"id":2075,"name":"Poby / Virus","description":""}
+{"id":2076,"name":"Pocket Direct","description":""}
+{"id":2077,"name":"Pocket Money Software","description":""}
+{"id":2078,"name":"Poisoft","description":""}
+{"id":2079,"name":"Poisoft Inc.","description":""}
+{"id":2080,"name":"Policy","description":""}
+{"id":2081,"name":"Pony Canyon","description":""}
+{"id":2082,"name":"Popcorn Arcade","description":""}
+{"id":2083,"name":"Positive","description":""}
+{"id":2084,"name":"Potatoman44","description":""}
+{"id":2085,"name":"PoviSoft","description":""}
+{"id":2086,"name":"PovySoft","description":""}
+{"id":2087,"name":"Pow","description":""}
+{"id":2088,"name":"PowWow","description":""}
+{"id":2089,"name":"Press Play","description":""}
+{"id":2090,"name":"PressPlay","description":""}
+{"id":2091,"name":"Primavera","description":""}
+{"id":2092,"name":"Prime System","description":""}
+{"id":2093,"name":"Primetec Investments","description":""}
+{"id":2094,"name":"Prince Co.","description":""}
+{"id":2095,"name":"Princess Soft","description":""}
+{"id":2096,"name":"Prism Leisure","description":""}
+{"id":2097,"name":"Probe 2000","description":""}
+{"id":2098,"name":"Probe Entertainment","description":""}
+{"id":2099,"name":"Probe Software","description":""}
+{"id":2100,"name":"Proein","description":""}
+{"id":2101,"name":"Proein / Eidos Interactive","description":""}
+{"id":2102,"name":"Proein / THQ","description":""}
+{"id":2103,"name":"Proein Soft Line","description":""}
+{"id":2104,"name":"Proein Software / Activision","description":""}
+{"id":2105,"name":"Proein Software / Eidos Interactive","description":""}
+{"id":2106,"name":"Project M Backroom","description":""}
+{"id":2107,"name":"Project Plus","description":""}
+{"id":2108,"name":"Project Sing It Star","description":""}
+{"id":2109,"name":"Project SingItStar","description":""}
+{"id":2110,"name":"Project Two Interactive","description":""}
+{"id":2111,"name":"Project Two Interactive BV","description":""}
+{"id":2112,"name":"Projekt Sing It Star","description":""}
+{"id":2113,"name":"Projekt Sing It Star ","description":""}
+{"id":2114,"name":"Projekt SingIt Star","description":""}
+{"id":2115,"name":"Projekt SingItStar","description":""}
+{"id":2116,"name":"Proma","description":""}
+{"id":2117,"name":"Promat","description":""}
+{"id":2118,"name":"Prosoft","description":""}
+{"id":2119,"name":"Prototype","description":""}
+{"id":2120,"name":"Psikyo","description":""}
+{"id":2121,"name":"Psikyo (Banpresto license)","description":""}
+{"id":2122,"name":"Psikyo / Moss","description":""}
+{"id":2123,"name":"PsyKos","description":""}
+{"id":2124,"name":"PsyKos ","description":""}
+{"id":2125,"name":"Psycho Ghost","description":""}
+{"id":2126,"name":"Psygnosis","description":""}
+{"id":2127,"name":"Psytronik","description":""}
+{"id":2128,"name":"Puffin Books","description":""}
+{"id":2129,"name":"Pumblo","description":""}
+{"id":2130,"name":"Purple Hills","description":""}
+{"id":2131,"name":"Quantic Dream","description":""}
+{"id":2132,"name":"Quantized Bit","description":""}
+{"id":2133,"name":"Quelle","description":""}
+{"id":2134,"name":"QuelleSoft","description":""}
+{"id":2135,"name":"Quenry17","description":""}
+{"id":2136,"name":"Quest","description":""}
+{"id":2137,"name":"Quicksilva","description":""}
+{"id":2138,"name":"Quinrose","description":""}
+{"id":2139,"name":"Qute","description":""}
+{"id":2140,"name":"RCM","description":""}
+{"id":2141,"name":"RECOM","description":""}
+{"id":2142,"name":"RED Entertaiment","description":""}
+{"id":2143,"name":"RED Entertainment","description":""}
+{"id":2144,"name":"REMIX Team","description":""}
+{"id":2145,"name":"RLS","description":""}
+{"id":2146,"name":"ROMhacking.net","description":""}
+{"id":2147,"name":"RTL Games","description":""}
+{"id":2148,"name":"RTL Sports","description":""}
+{"id":2149,"name":"RTL interactive","description":""}
+{"id":2150,"name":"RacerMate","description":""}
+{"id":2151,"name":"Rack-It","description":""}
+{"id":2152,"name":"Radiance Software","description":""}
+{"id":2153,"name":"RadiationBurn","description":""}
+{"id":2154,"name":"RadiationBurn Ltd.","description":""}
+{"id":2155,"name":"Radio Wave Newspaper Publisher","description":""}
+{"id":2156,"name":"Rage Software","description":""}
+{"id":2157,"name":"Rainbird Software","description":""}
+{"id":2158,"name":"Rainbow Arts","description":""}
+{"id":2159,"name":"Rainbow Vision","description":""}
+{"id":2160,"name":"Rait Electronics Ltd","description":""}
+{"id":2161,"name":"Raizing","description":""}
+{"id":2162,"name":"Raizing (Unite Trading license)","description":""}
+{"id":2163,"name":"Raizing / 8ing","description":""}
+{"id":2164,"name":"Rare / Electronic Arts","description":""}
+{"id":2165,"name":"Rareware","description":""}
+{"id":2166,"name":"Rasputin","description":""}
+{"id":2167,"name":"Raster","description":""}
+{"id":2168,"name":"RasterSoft","description":""}
+{"id":2169,"name":"Rastersoft","description":""}
+{"id":2170,"name":"Rastersoft (Homebrew)","description":""}
+{"id":2171,"name":"Ravensburger","description":""}
+{"id":2172,"name":"Ravensburger Interactive Media","description":""}
+{"id":2173,"name":"Ravensburger Interactive Media GmbH","description":""}
+{"id":2174,"name":"Raya Systems","description":""}
+{"id":2175,"name":"Raynex Heross","description":""}
+{"id":2176,"name":"Razorsoft","description":""}
+{"id":2177,"name":"Reaktor","description":""}
+{"id":2178,"name":"RealArcade","description":""}
+{"id":2179,"name":"Realta Entertainment Group","description":""}
+{"id":2180,"name":"Realtec","description":""}
+{"id":2181,"name":"Realtime Associates","description":""}
+{"id":2182,"name":"Realtime Software","description":""}
+{"id":2183,"name":"Rebellion","description":""}
+{"id":2184,"name":"Red Orb Entertainment","description":""}
+{"id":2185,"name":"Red Storm Entertainment, Inc.","description":""}
+{"id":2186,"name":"Red Wagon Games","description":""}
+{"id":2187,"name":"RedLynx","description":""}
+{"id":2188,"name":"RedOctane","description":""}
+{"id":2189,"name":"Redspotgames","description":""}
+{"id":2190,"name":"Reef Entertainment","description":""}
+{"id":2191,"name":"Reindeer","description":""}
+{"id":2192,"name":"Renegade","description":""}
+{"id":2193,"name":"Renegade Software","description":""}
+{"id":2194,"name":"Renovation Game","description":""}
+{"id":2195,"name":"Renovation Products","description":""}
+{"id":2196,"name":"Requiem307","description":""}
+{"id":2197,"name":"RetroSouls","description":""}
+{"id":2198,"name":"RetroWorks","description":""}
+{"id":2199,"name":"Retroism","description":""}
+{"id":2200,"name":"Retrotopia","description":""}
+{"id":2201,"name":"Retrozone","description":""}
+{"id":2202,"name":"Revolution","description":""}
+{"id":2203,"name":"Richard Shepherd Software","description":""}
+{"id":2204,"name":"Richter, Tamas - Heder, Jozsef","description":""}
+{"id":2205,"name":"Richter,Tamas - Richter, Istvan - Barath, Endre","description":""}
+{"id":2206,"name":"Riders Workshop","description":""}
+{"id":2207,"name":"Rieth Soft","description":""}
+{"id":2208,"name":"Right Stuff","description":""}
+{"id":2209,"name":"Rino Software","description":""}
+{"id":2210,"name":"Rising Star","description":""}
+{"id":2211,"name":"Rising Star Games","description":""}
+{"id":2212,"name":"Rising Star Games / Marvelous Entertainment","description":""}
+{"id":2213,"name":"Rising Star Games Limited","description":""}
+{"id":2214,"name":"Riverhillsoft","description":""}
+{"id":2215,"name":"Ro","description":""}
+{"id":2216,"name":"Rock-Ola","description":""}
+{"id":2217,"name":"Rock-Ola (Olympia license)","description":""}
+{"id":2218,"name":"Rock-ola","description":""}
+{"id":2219,"name":"Rocket","description":""}
+{"id":2220,"name":"Rocket Company","description":""}
+{"id":2221,"name":"Rocket Games","description":""}
+{"id":2222,"name":"Rocket Games / Ajinomoto","description":""}
+{"id":2223,"name":"Rocket Games / Ajinomoto / Nintendo","description":""}
+{"id":2224,"name":"Rockstar","description":""}
+{"id":2225,"name":"Rockstar Games","description":""}
+{"id":2226,"name":"Rockstar Games / Take 2","description":""}
+{"id":2227,"name":"Rockstar North","description":""}
+{"id":2228,"name":"Romantic Robot","description":""}
+{"id":2229,"name":"Romantic Robot UK","description":""}
+{"id":2230,"name":"Rombax Games","description":""}
+{"id":2231,"name":"Romik Software","description":""}
+{"id":2232,"name":"Romstar","description":""}
+{"id":2233,"name":"Romstar Incorporated","description":""}
+{"id":2234,"name":"Rondomedia","description":""}
+{"id":2235,"name":"Ronimo Games","description":""}
+{"id":2236,"name":"Rumic Soft","description":""}
+{"id":2237,"name":"Russel","description":""}
+{"id":2238,"name":"Russell","description":""}
+{"id":2239,"name":"SABA","description":""}
+{"id":2240,"name":"SCE Korea","description":""}
+{"id":2241,"name":"SCEA","description":""}
+{"id":2242,"name":"SCEE","description":""}
+{"id":2243,"name":"SCEI","description":""}
+{"id":2244,"name":"SCI","description":""}
+{"id":2245,"name":"SCI Games","description":""}
+{"id":2246,"name":"SCi","description":""}
+{"id":2247,"name":"SCi Games","description":""}
+{"id":2248,"name":"SDP Games","description":""}
+{"id":2249,"name":"SEED9","description":""}
+{"id":2250,"name":"SEGA","description":""}
+{"id":2251,"name":"SEGA Corporation","description":""}
+{"id":2252,"name":"SEGA Europe Ltd","description":""}
+{"id":2253,"name":"SEGA of America","description":""}
+{"id":2254,"name":"SETA Corporation","description":""}
+{"id":2255,"name":"SG Diffusion","description":""}
+{"id":2256,"name":"SHANBLUE INTERACTIVE","description":""}
+{"id":2257,"name":"SKOB","description":""}
+{"id":2258,"name":"SMB TEAM","description":""}
+{"id":2259,"name":"SMB Team","description":""}
+{"id":2260,"name":"SNK","description":""}
+{"id":2261,"name":"SNK (Centuri license)","description":""}
+{"id":2262,"name":"SNK (Pasadena International Corp. license)","description":""}
+{"id":2263,"name":"SNK (Rock-Ola license)","description":""}
+{"id":2264,"name":"SNK (Taito America license)","description":""}
+{"id":2265,"name":"SNK (Taito license)","description":""}
+{"id":2266,"name":"SNK (Victor license)","description":""}
+{"id":2267,"name":"SNK / Eolith","description":""}
+{"id":2268,"name":"SNK / Noise Factory","description":""}
+{"id":2269,"name":"SNK / Pallas","description":""}
+{"id":2270,"name":"SNK / Saurus","description":""}
+{"id":2271,"name":"SNK / Viccom","description":""}
+{"id":2272,"name":"SNK / WAVE","description":""}
+{"id":2273,"name":"SNK / Wave","description":""}
+{"id":2274,"name":"SNK Electronics corp.","description":""}
+{"id":2275,"name":"SNK Playmore","description":""}
+{"id":2276,"name":"SNK Playmore USA","description":""}
+{"id":2277,"name":"SNK of America","description":""}
+{"id":2278,"name":"SOFEL Co., Ltd.","description":""}
+{"id":2279,"name":"SONY Computer Entertainment Europe, Ltd.","description":""}
+{"id":2280,"name":"SPE","description":""}
+{"id":2281,"name":"SQUARE ENIX","description":""}
+{"id":2282,"name":"SUSILU","description":""}
+{"id":2283,"name":"Sabarasa","description":""}
+{"id":2284,"name":"Sachen","description":""}
+{"id":2285,"name":"Saffire","description":""}
+{"id":2286,"name":"Sage's Creation","description":""}
+{"id":2287,"name":"Sales Curve","description":""}
+{"id":2288,"name":"Salio","description":""}
+{"id":2289,"name":"Salu Ltd.","description":""}
+{"id":2290,"name":"Sammy","description":""}
+{"id":2291,"name":"Sammy / Aicom","description":""}
+{"id":2292,"name":"Sammy Entertaiment","description":""}
+{"id":2293,"name":"Sammy Industries","description":""}
+{"id":2294,"name":"Sammy Industries Co.,Ltd.","description":""}
+{"id":2295,"name":"Sammy Industries Japan","description":""}
+{"id":2296,"name":"Sammy Studios","description":""}
+{"id":2297,"name":"Sammy Studios / Virgin Interactive","description":""}
+{"id":2298,"name":"Sammy Studios, Inc","description":""}
+{"id":2299,"name":"Sammy USA Corporation","description":""}
+{"id":2300,"name":"Samsung","description":""}
+{"id":2301,"name":"San-X","description":""}
+{"id":2302,"name":"Sancho","description":""}
+{"id":2303,"name":"Sandlot Games","description":""}
+{"id":2304,"name":"Sanritsu","description":""}
+{"id":2305,"name":"Sanritsu / Sega","description":""}
+{"id":2306,"name":"Sanritsu Denki","description":""}
+{"id":2307,"name":"Sansan","description":""}
+{"id":2308,"name":"Sanuk Games","description":""}
+{"id":2309,"name":"Sanuk Games SARL","description":""}
+{"id":2310,"name":"Sasukedice","description":""}
+{"id":2311,"name":"Saurus","description":""}
+{"id":2312,"name":"Saurus (SNK license)","description":""}
+{"id":2313,"name":"Saurus / Viccom (SNK license)","description":""}
+{"id":2314,"name":"Scaptrust","description":""}
+{"id":2315,"name":"Scavenger","description":""}
+{"id":2316,"name":"Scholastic","description":""}
+{"id":2317,"name":"Scholastic, Inc","description":""}
+{"id":2318,"name":"Scorpion Soft","description":""}
+{"id":2319,"name":"Scott Lawrence","description":""}
+{"id":2320,"name":"Screen 7","description":""}
+{"id":2321,"name":"Screen Software","description":""}
+{"id":2322,"name":"Sculptured Software","description":""}
+{"id":2323,"name":"Sears","description":""}
+{"id":2324,"name":"Seatongrove Ltd","description":""}
+{"id":2325,"name":"Seatongrove Ltd (Crown license)","description":""}
+{"id":2326,"name":"Seatongrove Ltd (Magic Eletronics USA licence)","description":""}
+{"id":2327,"name":"Seatongrove Ltd (Magic Eletronics USA license)","description":""}
+{"id":2328,"name":"Sebastian Mihai","description":""}
+{"id":2329,"name":"Sebelectro","description":""}
+{"id":2330,"name":"Second Dimension","description":""}
+{"id":2331,"name":"Sega","description":""}
+{"id":2332,"name":"Sega ","description":""}
+{"id":2333,"name":"Sega (Escape License)","description":""}
+{"id":2334,"name":"Sega / Acclaim","description":""}
+{"id":2335,"name":"Sega / Banpresto","description":""}
+{"id":2336,"name":"Sega / Elorg","description":""}
+{"id":2337,"name":"Sega / Empire Interactive","description":""}
+{"id":2338,"name":"Sega / M2","description":""}
+{"id":2339,"name":"Sega / Nasco","description":""}
+{"id":2340,"name":"Sega / Nasco?","description":""}
+{"id":2341,"name":"Sega / Sanritsu","description":""}
+{"id":2342,"name":"Sega / Santos","description":""}
+{"id":2343,"name":"Sega / Sunsoft","description":""}
+{"id":2344,"name":"Sega / Vic Tokai","description":""}
+{"id":2345,"name":"Sega / Westone","description":""}
+{"id":2346,"name":"Sega Corporation","description":""}
+{"id":2347,"name":"Sega Europe","description":""}
+{"id":2348,"name":"Sega Japan","description":""}
+{"id":2349,"name":"Sega of America","description":""}
+{"id":2350,"name":"Seibu","description":""}
+{"id":2351,"name":"Seibu Denshi","description":""}
+{"id":2352,"name":"Seibu Denshi (Cinematronics license)","description":""}
+{"id":2353,"name":"Seibu Kaihatsu","description":""}
+{"id":2354,"name":"Seibu Kaihatsu (Dream Island license)","description":""}
+{"id":2355,"name":"Seibu Kaihatsu (Eurobed license)","description":""}
+{"id":2356,"name":"Seibu Kaihatsu (Explorer System Corp. license)","description":""}
+{"id":2357,"name":"Seibu Kaihatsu (Fabtek license)","description":""}
+{"id":2358,"name":"Seibu Kaihatsu (Haoyunlai Trading Company license)","description":""}
+{"id":2359,"name":"Seibu Kaihatsu (IBL Corporation license)","description":""}
+{"id":2360,"name":"Seibu Kaihatsu (IG SPA licence)","description":""}
+{"id":2361,"name":"Seibu Kaihatsu (Ideal International Development Corp license)","description":""}
+{"id":2362,"name":"Seibu Kaihatsu (Liang HWA Electronics license)","description":""}
+{"id":2363,"name":"Seibu Kaihatsu (March license)","description":""}
+{"id":2364,"name":"Seibu Kaihatsu (Metrotainment license)","description":""}
+{"id":2365,"name":"Seibu Kaihatsu (SegaSA / Sonic license)","description":""}
+{"id":2366,"name":"Seibu Kaihatsu (Sigma license)","description":""}
+{"id":2367,"name":"Seibu Kaihatsu (Taito / Romstar license)","description":""}
+{"id":2368,"name":"Seibu Kaihatsu (Taito license)","description":""}
+{"id":2369,"name":"Seibu Kaihatsu (Tuning license)","description":""}
+{"id":2370,"name":"Seibu Kaihatsu Inc.","description":""}
+{"id":2371,"name":"Seibu Kikaku","description":""}
+{"id":2372,"name":"Seika Corporation","description":""}
+{"id":2373,"name":"Sein Soft","description":""}
+{"id":2374,"name":"Seismic","description":""}
+{"id":2375,"name":"Sekaibunka Publishing, Inc.","description":""}
+{"id":2376,"name":"Sekaibunka-Sha / Sumire Kobo / Marigul Management Inc.","description":""}
+{"id":2377,"name":"Selchow & Righter Company","description":""}
+{"id":2378,"name":"Self Published","description":""}
+{"id":2379,"name":"Self-published","description":""}
+{"id":2380,"name":"SemiCom","description":""}
+{"id":2381,"name":"SemiCom (Game Vision license)","description":""}
+{"id":2382,"name":"SemiCom / Exit","description":""}
+{"id":2383,"name":"SemiCom / Exit (Trust license)","description":""}
+{"id":2384,"name":"SemiCom / Tirano","description":""}
+{"id":2385,"name":"SemiCom / XESS","description":""}
+{"id":2386,"name":"Sempai","description":""}
+{"id":2387,"name":"Senchi Technology","description":""}
+{"id":2388,"name":"Senko","description":""}
+{"id":2389,"name":"Sensible Software","description":""}
+{"id":2390,"name":"Seoul Coin Corp.","description":""}
+{"id":2391,"name":"Sergi","description":""}
+{"id":2392,"name":"Sesame Japan","description":""}
+{"id":2393,"name":"SesameWorkshop","description":""}
+{"id":2394,"name":"Seta","description":""}
+{"id":2395,"name":"Seta (Taito license)","description":""}
+{"id":2396,"name":"SevenGames","description":""}
+{"id":2397,"name":"Shadowsoft","description":""}
+{"id":2398,"name":"Shall Luck","description":""}
+{"id":2399,"name":"Shanblue Interactive","description":""}
+{"id":2400,"name":"Sharp","description":""}
+{"id":2401,"name":"Shibuya Interactive","description":""}
+{"id":2402,"name":"Shingakusha","description":""}
+{"id":2403,"name":"Shinkai","description":""}
+{"id":2404,"name":"Shinkai Inc. (Magic Eletronics Inc. license)","description":""}
+{"id":2405,"name":"Shinkai Inc. (Magic Eletronics USA licence)","description":""}
+{"id":2406,"name":"Shinsei","description":""}
+{"id":2407,"name":"Shiny Entertainment","description":""}
+{"id":2408,"name":"Shiru","description":""}
+{"id":2409,"name":"Shoei","description":""}
+{"id":2410,"name":"Shogakukan","description":""}
+{"id":2411,"name":"Shogi Master","description":""}
+{"id":2412,"name":"Shouei","description":""}
+{"id":2413,"name":"SibGame","description":""}
+{"id":2414,"name":"Sieco","description":""}
+{"id":2415,"name":"Sierra","description":""}
+{"id":2416,"name":"Sierra / Universal Interactive","description":""}
+{"id":2417,"name":"Sierra / Vivendi Universal Games","description":""}
+{"id":2418,"name":"Sierra Entertainment","description":""}
+{"id":2419,"name":"Sierra Entertainment, Inc","description":""}
+{"id":2420,"name":"Sierra Entertainment, Inc.","description":""}
+{"id":2421,"name":"Sierra On-Line","description":""}
+{"id":2422,"name":"Sierra On-Line, Inc","description":""}
+{"id":2423,"name":"Sierra, Vivendi Universal Games","description":""}
+{"id":2424,"name":"Sierra, Vivendi Universal Interactive","description":""}
+{"id":2425,"name":"Sigma","description":""}
+{"id":2426,"name":"Sigma Enterprises","description":""}
+{"id":2427,"name":"Sigma Enterprises Inc.","description":""}
+{"id":2428,"name":"Sigma Enterprises Inc. (Venture Line license)","description":""}
+{"id":2429,"name":"Sigma Shougi","description":""}
+{"id":2430,"name":"Signaton USA","description":""}
+{"id":2431,"name":"Signatron USA","description":""}
+{"id":2432,"name":"Sik","description":""}
+{"id":2433,"name":"SilverStar","description":""}
+{"id":2434,"name":"Silverbird Software","description":""}
+{"id":2435,"name":"Silversoft","description":""}
+{"id":2436,"name":"Simage","description":""}
+{"id":2437,"name":"Simon & Schuster Interactive","description":""}
+{"id":2438,"name":"Sims","description":""}
+{"id":2439,"name":"Sinclair Research","description":""}
+{"id":2440,"name":"Sing It Star","description":""}
+{"id":2441,"name":"Sir-tech","description":""}
+{"id":2442,"name":"Sirius","description":""}
+{"id":2443,"name":"Sis Co","description":""}
+{"id":2444,"name":"Sivak Games","description":""}
+{"id":2445,"name":"Siversoft","description":""}
+{"id":2446,"name":"Skawo, Newer Team","description":""}
+{"id":2447,"name":"Skelux, Nintendo","description":""}
+{"id":2448,"name":"Skill Screen Games","description":""}
+{"id":2449,"name":"Skills","description":""}
+{"id":2450,"name":"Slitherine","description":""}
+{"id":2451,"name":"Smash Bros. Legacy","description":""}
+{"id":2452,"name":"Smash Bros. Legacy ","description":""}
+{"id":2453,"name":"Smilesoft","description":""}
+{"id":2454,"name":"Smith, Bob","description":""}
+{"id":2455,"name":"Sock Master","description":""}
+{"id":2456,"name":"Sofel","description":""}
+{"id":2457,"name":"Soft Art Co.","description":""}
+{"id":2458,"name":"Soft Dorothy Software","description":""}
+{"id":2459,"name":"Soft Hits","description":""}
+{"id":2460,"name":"Soft Pro International","description":""}
+{"id":2461,"name":"Soft Vision","description":""}
+{"id":2462,"name":"SoftClub","description":""}
+{"id":2463,"name":"SoftLab","description":""}
+{"id":2464,"name":"Softek Software International","description":""}
+{"id":2465,"name":"Softgold","description":""}
+{"id":2466,"name":"Software 2000","description":""}
+{"id":2467,"name":"Software Creations","description":""}
+{"id":2468,"name":"Software Projects","description":""}
+{"id":2469,"name":"Sokurah","description":""}
+{"id":2470,"name":"Sonalysts, Inc.","description":""}
+{"id":2471,"name":"Songbird Productions","description":""}
+{"id":2472,"name":"Sony","description":""}
+{"id":2473,"name":"Sony / 989 Studios","description":""}
+{"id":2474,"name":"Sony / Crave Entertainment","description":""}
+{"id":2475,"name":"Sony / Disney Interactive","description":""}
+{"id":2476,"name":"Sony / Namco","description":""}
+{"id":2477,"name":"Sony / Sega","description":""}
+{"id":2478,"name":"Sony / Squaresoft","description":""}
+{"id":2479,"name":"Sony Computer Entertaiment","description":""}
+{"id":2480,"name":"Sony Computer Entertaiment America","description":""}
+{"id":2481,"name":"Sony Computer Entertaiment America (SCEA)","description":""}
+{"id":2482,"name":"Sony Computer Entertaiment Europe","description":""}
+{"id":2483,"name":"Sony Computer Entertaiment Europe / Psygnosis","description":""}
+{"id":2484,"name":"Sony Computer Entertaiment Europe / Square Enix","description":""}
+{"id":2485,"name":"Sony Computer Entertaiment Japan","description":""}
+{"id":2486,"name":"Sony Computer Entertaiment Korea","description":""}
+{"id":2487,"name":"Sony Computer Entertainment","description":""}
+{"id":2488,"name":"Sony Computer Entertainment ","description":""}
+{"id":2489,"name":"Sony Computer Entertainment America, Inc","description":""}
+{"id":2490,"name":"Sony Computer Entertainment Australia","description":""}
+{"id":2491,"name":"Sony Computer Entertainment Europe","description":""}
+{"id":2492,"name":"Sony Computer Entertainment Europe / Namco","description":""}
+{"id":2493,"name":"Sony Computer Entertainment Europe Ltd","description":""}
+{"id":2494,"name":"Sony Computer Entertainment Inc.","description":""}
+{"id":2495,"name":"Sony Computer Entertainment Incorporated","description":""}
+{"id":2496,"name":"Sony Computer Entertainment Japan","description":""}
+{"id":2497,"name":"Sony Computer Entertainmet Europa","description":""}
+{"id":2498,"name":"Sony Electronic Publishing","description":""}
+{"id":2499,"name":"Sony Imagesoft","description":""}
+{"id":2500,"name":"Sony Interactive Entertainment","description":""}
+{"id":2501,"name":"Sony Music Entertainment Incorporated","description":""}
+{"id":2502,"name":"Sound Source","description":""}
+{"id":2503,"name":"South Peak Interactive","description":""}
+{"id":2504,"name":"South West Research","description":""}
+{"id":2505,"name":"SouthPeak Games","description":""}
+{"id":2506,"name":"SouthPeak Interactive","description":""}
+{"id":2507,"name":"Southpeak Interactive","description":""}
+{"id":2508,"name":"Space","description":""}
+{"id":2509,"name":"Space (Fuuki license)","description":""}
+{"id":2510,"name":"Spacebot Interactive","description":""}
+{"id":2511,"name":"Spacy Industrial, Ltd.","description":""}
+{"id":2512,"name":"Spectravideo","description":""}
+{"id":2513,"name":"Spectravision","description":""}
+{"id":2514,"name":"Spectrum Holobyte","description":""}
+{"id":2515,"name":"Sphere, Inc.","description":""}
+{"id":2516,"name":"Spike","description":""}
+{"id":2517,"name":"Spike / THQ","description":""}
+{"id":2518,"name":"Spike Co","description":""}
+{"id":2519,"name":"Spinnaker Software Corporation","description":""}
+{"id":2520,"name":"Spoony Bard Productions","description":""}
+{"id":2521,"name":"Springboy64","description":""}
+{"id":2522,"name":"Square","description":""}
+{"id":2523,"name":"Square Co. Ltd","description":""}
+{"id":2524,"name":"Square Enix","description":""}
+{"id":2525,"name":"Square Enix USA","description":""}
+{"id":2526,"name":"Square-Enix","description":""}
+{"id":2527,"name":"Squaresoft","description":""}
+{"id":2528,"name":"St. GIGA","description":""}
+{"id":2529,"name":"St.GIGA","description":""}
+{"id":2530,"name":"Stadlbauer","description":""}
+{"id":2531,"name":"Star-Fish","description":""}
+{"id":2532,"name":"StarSoft Development Laboratories","description":""}
+{"id":2533,"name":"Starbyte Software","description":""}
+{"id":2534,"name":"Starfish","description":""}
+{"id":2535,"name":"Starfish-SD","description":""}
+{"id":2536,"name":"Starlight Software","description":""}
+{"id":2537,"name":"Starpath","description":""}
+{"id":2538,"name":"Starpath Corporation","description":""}
+{"id":2539,"name":"Status (Shinkai License)","description":""}
+{"id":2540,"name":"Stefan Adolfsson","description":""}
+{"id":2541,"name":"Stern","description":""}
+{"id":2542,"name":"Stern (Tago license)","description":""}
+{"id":2543,"name":"Stern Electronics","description":""}
+{"id":2544,"name":"Stern Electronics (Sonic License)","description":""}
+{"id":2545,"name":"Steve Stack, Inc.","description":""}
+{"id":2546,"name":"Stickmen Studios","description":""}
+{"id":2547,"name":"Sting Entertainment","description":""}
+{"id":2548,"name":"Storm","description":""}
+{"id":2549,"name":"Storm City Games","description":""}
+{"id":2550,"name":"Storm Software","description":""}
+{"id":2551,"name":"Stormfront Studios","description":""}
+{"id":2552,"name":"Strata/Incredible Technologies","description":""}
+{"id":2553,"name":"Strategic Simulations","description":""}
+{"id":2554,"name":"Strategic Simulations Inc","description":""}
+{"id":2555,"name":"Stratford CCC","description":""}
+{"id":2556,"name":"Streetwise","description":""}
+{"id":2557,"name":"Strictly Limited Games","description":""}
+{"id":2558,"name":"Studio 3","description":""}
+{"id":2559,"name":"Studio 3 / Bandai","description":""}
+{"id":2560,"name":"Studio 9","description":""}
+{"id":2561,"name":"Studio Dustmop","description":""}
+{"id":2562,"name":"Studio Fazzy","description":""}
+{"id":2563,"name":"Studio Vetea","description":""}
+{"id":2564,"name":"Studio Zan Co.,LTD.","description":""}
+{"id":2565,"name":"StupidMarioBros1Fan","description":""}
+{"id":2566,"name":"SubLogic","description":""}
+{"id":2567,"name":"Subelectro","description":""}
+{"id":2568,"name":"Subsino","description":""}
+{"id":2569,"name":"Success","description":""}
+{"id":2570,"name":"Success / Sega","description":""}
+{"id":2571,"name":"Summitsoft Entertainment","description":""}
+{"id":2572,"name":"Sun","description":""}
+{"id":2573,"name":"Sun Amusement / BrezzaSoft","description":""}
+{"id":2574,"name":"Sun Electronics","description":""}
+{"id":2575,"name":"Sun Electronics (Atari license)","description":""}
+{"id":2576,"name":"Sun Electronics (Loewen-Automaten license)","description":""}
+{"id":2577,"name":"Sun Green","description":""}
+{"id":2578,"name":"Sun Mixing","description":""}
+{"id":2579,"name":"SunA","description":""}
+{"id":2580,"name":"SunA?","description":""}
+{"id":2581,"name":"SunSoft","description":""}
+{"id":2582,"name":"Sunflowers","description":""}
+{"id":2583,"name":"Sunrise Interactive","description":""}
+{"id":2584,"name":"Sunrise Software","description":""}
+{"id":2585,"name":"Sunshine Books","description":""}
+{"id":2586,"name":"Sunsoft","description":""}
+{"id":2587,"name":"Sunsoft / Acclaim Entertainment, Inc","description":""}
+{"id":2588,"name":"Sunsoft / Atlus","description":""}
+{"id":2589,"name":"Sunsoft / Sega","description":""}
+{"id":2590,"name":"Sunsoft / Sunset Entertainment","description":""}
+{"id":2591,"name":"Sunsoft / Tecmo","description":""}
+{"id":2592,"name":"Sunsoft / Tokai Engineering","description":""}
+{"id":2593,"name":"Suntek","description":""}
+{"id":2594,"name":"Super Fighter Team","description":""}
+{"id":2595,"name":"Super Game","description":""}
+{"id":2596,"name":"Super Mario Math","description":""}
+{"id":2597,"name":"Super Mega","description":""}
+{"id":2598,"name":"Super Monkey Ball Discord","description":""}
+{"id":2599,"name":"Super Pig","description":""}
+{"id":2600,"name":"Super Sparklers","description":""}
+{"id":2601,"name":"SuperYoshiStar","description":""}
+{"id":2602,"name":"Supersonic Software","description":""}
+{"id":2603,"name":"Supervision","description":""}
+{"id":2604,"name":"Supervision Entertainment","description":""}
+{"id":2605,"name":"Sur de Wave","description":""}
+{"id":2606,"name":"Sweets","description":""}
+{"id":2607,"name":"Swing Entertaiment Media","description":""}
+{"id":2608,"name":"Swing! Deutschland","description":""}
+{"id":2609,"name":"Swing! Entertaiment / Midas Interactive","description":""}
+{"id":2610,"name":"Swing! Entertaiment Media","description":""}
+{"id":2611,"name":"Swing! Entertainment","description":""}
+{"id":2612,"name":"Swing! Entertainment Media AG","description":""}
+{"id":2613,"name":"Swivel Fish","description":""}
+{"id":2614,"name":"Sydney Development Corp.","description":""}
+{"id":2615,"name":"Symmetry Entertainment","description":""}
+{"id":2616,"name":"Syncro","description":""}
+{"id":2617,"name":"Syscom","description":""}
+{"id":2618,"name":"Syscom Entertainment Inc","description":""}
+{"id":2619,"name":"System 3","description":""}
+{"id":2620,"name":"System 3 Software","description":""}
+{"id":2621,"name":"System 4","description":""}
+{"id":2622,"name":"System Sacom","description":""}
+{"id":2623,"name":"System Soft","description":""}
+{"id":2624,"name":"SystemSoft","description":""}
+{"id":2625,"name":"SystemSoft Alpha","description":""}
+{"id":2626,"name":"Systemsoft","description":""}
+{"id":2627,"name":"Szabo, Tibor","description":""}
+{"id":2628,"name":"Szentesi, Zoltan","description":""}
+{"id":2629,"name":"T&E Sof","description":""}
+{"id":2630,"name":"T&E Soft","description":""}
+{"id":2631,"name":"T&E Soft, Inc","description":""}
+{"id":2632,"name":"T&ESOFT","description":""}
+{"id":2633,"name":"T&S Ltd.","description":""}
+{"id":2634,"name":"TAD Corporation","description":""}
+{"id":2635,"name":"TAD Corporation (Alpha Trading license)","description":""}
+{"id":2636,"name":"TAD Corporation (Electrocoin license)","description":""}
+{"id":2637,"name":"TAD Corporation (Electronic Devices license)","description":""}
+{"id":2638,"name":"TAD Corporation (Fabtek license)","description":""}
+{"id":2639,"name":"TAKERU","description":""}
+{"id":2640,"name":"TCH","description":""}
+{"id":2641,"name":"TDK","description":""}
+{"id":2642,"name":"TDK / Universal / Sound Source Interactive","description":""}
+{"id":2643,"name":"TDK Core","description":""}
+{"id":2644,"name":"TDK Impulse","description":""}
+{"id":2645,"name":"TDK Mediactive","description":""}
+{"id":2646,"name":"TDK Mediactive, Inc","description":""}
+{"id":2647,"name":"TDK Recording Media Europe S.A.","description":""}
+{"id":2648,"name":"TDS","description":""}
+{"id":2649,"name":"TGL","description":""}
+{"id":2650,"name":"THQ","description":""}
+{"id":2651,"name":"THQ / Disney Interactive Studios","description":""}
+{"id":2652,"name":"THQ / Majesco","description":""}
+{"id":2653,"name":"THQ Inc","description":""}
+{"id":2654,"name":"THQ Japan","description":""}
+{"id":2655,"name":"THQ Korea","description":""}
+{"id":2656,"name":"THQ, Inc","description":""}
+{"id":2657,"name":"THQ, Inc. / Proein Soft","description":""}
+{"id":2658,"name":"TNN","description":""}
+{"id":2659,"name":"TNT Games","description":""}
+{"id":2660,"name":"TOSE","description":""}
+{"id":2661,"name":"TSS","description":""}
+{"id":2662,"name":"TV-Tuning (F.E.G. license)","description":""}
+{"id":2663,"name":"TXC Corp","description":""}
+{"id":2664,"name":"TYO","description":""}
+{"id":2665,"name":"Taff System","description":""}
+{"id":2666,"name":"Taiko, SatoshiKura, Mewtwo2000, Pik, Nanobuds, Thany, Starwaffle, Eternal_Yoshi","description":""}
+{"id":2667,"name":"Taito","description":""}
+{"id":2668,"name":"Taito (SNK license)","description":""}
+{"id":2669,"name":"Taito (World Games license)","description":""}
+{"id":2670,"name":"Taito / GAGA Communications","description":""}
+{"id":2671,"name":"Taito / Midway","description":""}
+{"id":2672,"name":"Taito America Corp","description":""}
+{"id":2673,"name":"Taito America Corporation","description":""}
+{"id":2674,"name":"Taito America Corporation (Romstar license)","description":""}
+{"id":2675,"name":"Taito America Japan","description":""}
+{"id":2676,"name":"Taito Corporation","description":""}
+{"id":2677,"name":"Taito Corporation (Amenip/Centuri license)","description":""}
+{"id":2678,"name":"Taito Corporation (Chuo Co. Ltd license)","description":""}
+{"id":2679,"name":"Taito Corporation (Fox Video Games license)","description":""}
+{"id":2680,"name":"Taito Corporation (Nova Games Ltd. license)","description":""}
+{"id":2681,"name":"Taito Corporation (TAD license)","description":""}
+{"id":2682,"name":"Taito Corporation (Tecfri license)","description":""}
+{"id":2683,"name":"Taito Corporation (Venture Line license)","description":""}
+{"id":2684,"name":"Taito Corporation (Williams licence)","description":""}
+{"id":2685,"name":"Taito Corporation (World Games, Inc. license)","description":""}
+{"id":2686,"name":"Taito Corporation (licensed from Midway)","description":""}
+{"id":2687,"name":"Taito Corporation / JVC","description":""}
+{"id":2688,"name":"Taito Corporation / Wave","description":""}
+{"id":2689,"name":"Taito Corporation America (licensed to Romstar)","description":""}
+{"id":2690,"name":"Taito Corporation Japan","description":""}
+{"id":2691,"name":"Taito Europe Corporation","description":""}
+{"id":2692,"name":"Taito do Brasil","description":""}
+{"id":2693,"name":"Taiyo","description":""}
+{"id":2694,"name":"Taiyo (Data East license)","description":""}
+{"id":2695,"name":"Taiyo (Taito license)","description":""}
+{"id":2696,"name":"Taiyo System (Nichibutsu license)","description":""}
+{"id":2697,"name":"Takara","description":""}
+{"id":2698,"name":"Takara Tomy","description":""}
+{"id":2699,"name":"Take 2","description":""}
+{"id":2700,"name":"Take 2 Interactive","description":""}
+{"id":2701,"name":"Take 2 Interactive / 2K Sports","description":""}
+{"id":2702,"name":"Take 2 Interactive / GameTek","description":""}
+{"id":2703,"name":"Take 2 Interactive / Global Star Software Inc","description":""}
+{"id":2704,"name":"Take 2 Interactive / Talonsoft","description":""}
+{"id":2705,"name":"Take 2 Interactive Software","description":""}
+{"id":2706,"name":"Take 2 Interactive, Inc","description":""}
+{"id":2707,"name":"Take Two","description":""}
+{"id":2708,"name":"Take-Two Interactive","description":""}
+{"id":2709,"name":"Take-Two Interactive / GameTek / Rockstar Games / Global Star Software","description":""}
+{"id":2710,"name":"Take-Two Interactive Software","description":""}
+{"id":2711,"name":"Take-Two Interactive Software, Inc","description":""}
+{"id":2712,"name":"Take2 / Den'Z / Global Star","description":""}
+{"id":2713,"name":"Takumi","description":""}
+{"id":2714,"name":"Takumi (Capcom license)","description":""}
+{"id":2715,"name":"Takuyo","description":""}
+{"id":2716,"name":"Takuyo Co., Ltd","description":""}
+{"id":2717,"name":"Tam","description":""}
+{"id":2718,"name":"Tamsoft","description":""}
+{"id":2719,"name":"Tamtex","description":""}
+{"id":2720,"name":"Target Games","description":""}
+{"id":2721,"name":"Taskset","description":""}
+{"id":2722,"name":"Tassu","description":""}
+{"id":2723,"name":"Tasuke","description":""}
+{"id":2724,"name":"Taxan USA Corp.","description":""}
+{"id":2725,"name":"Team 17","description":""}
+{"id":2726,"name":"Team Pixelboy","description":""}
+{"id":2727,"name":"Team Wii64","description":""}
+{"id":2728,"name":"Tec Toy","description":""}
+{"id":2729,"name":"Tecfri","description":""}
+{"id":2730,"name":"Tecfri (Gecas license)","description":""}
+{"id":2731,"name":"Tecfri (Philko license)","description":""}
+{"id":2732,"name":"Tecfri (Recreativos Real S.A. license)","description":""}
+{"id":2733,"name":"Tecfri / Desystem S.A.","description":""}
+{"id":2734,"name":"TechnoVision","description":""}
+{"id":2735,"name":"Technopolis Soft","description":""}
+{"id":2736,"name":"Technopop","description":""}
+{"id":2737,"name":"Technos","description":""}
+{"id":2738,"name":"Technos (Taito America license)","description":""}
+{"id":2739,"name":"Technos Japan","description":""}
+{"id":2740,"name":"Technos Japan (Data East USA, Inc. license)","description":""}
+{"id":2741,"name":"Technos Japan (Data East license)","description":""}
+{"id":2742,"name":"Technos Japan (Taito / Memetron license)","description":""}
+{"id":2743,"name":"Technos Japan (Taito America license)","description":""}
+{"id":2744,"name":"Technos Japan (Taito Romstar license)","description":""}
+{"id":2745,"name":"Technos Japan (Taito license)","description":""}
+{"id":2746,"name":"Technos Japan (Tecmo License)","description":""}
+{"id":2747,"name":"Technos Japan (Tecmo license)","description":""}
+{"id":2748,"name":"Technos Japan / California Dreams","description":""}
+{"id":2749,"name":"Technos Japan / Roller Tron","description":""}
+{"id":2750,"name":"Technos Japan Corp.","description":""}
+{"id":2751,"name":"Technosoft","description":""}
+{"id":2752,"name":"Technosoft / Jaleco","description":""}
+{"id":2753,"name":"Technosoft / Sega","description":""}
+{"id":2754,"name":"Techstar","description":""}
+{"id":2755,"name":"Techstar (Rock-ola license)","description":""}
+{"id":2756,"name":"Techstar (Sunn license)","description":""}
+{"id":2757,"name":"Tecmagik","description":""}
+{"id":2758,"name":"Tecmo","description":""}
+{"id":2759,"name":"Tecmo Koei","description":""}
+{"id":2760,"name":"Tecmo Koei Europe","description":""}
+{"id":2761,"name":"Tecmo Koei Games","description":""}
+{"id":2762,"name":"Tecmo LTD","description":""}
+{"id":2763,"name":"Tecno Soft","description":""}
+{"id":2764,"name":"Tecnopolis Soft","description":""}
+{"id":2765,"name":"Tectoy","description":""}
+{"id":2766,"name":"Teddiursayoshi/Stariele","description":""}
+{"id":2767,"name":"Tehkan","description":""}
+{"id":2768,"name":"Tehkan (Centuri license)","description":""}
+{"id":2769,"name":"Tehkan (Tecfri licence)","description":""}
+{"id":2770,"name":"Tehkan (Video Ware license)","description":""}
+{"id":2771,"name":"Tehkan / Sun Electronics (Centuri license)","description":""}
+{"id":2772,"name":"Teichiku","description":""}
+{"id":2773,"name":"Tejerillo","description":""}
+{"id":2774,"name":"Telegames","description":""}
+{"id":2775,"name":"Telenet","description":""}
+{"id":2776,"name":"Telenet Japan","description":""}
+{"id":2777,"name":"Telenet Japan (Nippon Telenet)","description":""}
+{"id":2778,"name":"Telesys","description":""}
+{"id":2779,"name":"Telko","description":""}
+{"id":2780,"name":"TellTale Games","description":""}
+{"id":2781,"name":"Telltale Games","description":""}
+{"id":2782,"name":"Telstar","description":""}
+{"id":2783,"name":"Telstar Electronic Studios","description":""}
+{"id":2784,"name":"Tengen","description":""}
+{"id":2785,"name":"Test ROM","description":""}
+{"id":2786,"name":"Tetris Online, Inc.","description":""}
+{"id":2787,"name":"Tetris Online, Inc. ","description":""}
+{"id":2788,"name":"Thalamus","description":""}
+{"id":2789,"name":"That1loser4","description":""}
+{"id":2790,"name":"ThatOtherPerson","description":""}
+{"id":2791,"name":"The 3DO Company","description":""}
+{"id":2792,"name":"The Adventure Company","description":""}
+{"id":2793,"name":"The Adventure Company / Canal + Multimedia / France Multimedia","description":""}
+{"id":2794,"name":"The Adventure Workshop","description":""}
+{"id":2795,"name":"The Bitmap Brothers","description":""}
+{"id":2796,"name":"The Bytebusters","description":""}
+{"id":2797,"name":"The Code Monkeys Ltd.","description":""}
+{"id":2798,"name":"The Codemasters Software Co. Ltd","description":""}
+{"id":2799,"name":"The Edge Software","description":""}
+{"id":2800,"name":"The Game Factory","description":""}
+{"id":2801,"name":"The Halfway House","description":""}
+{"id":2802,"name":"The Learning Company","description":""}
+{"id":2803,"name":"The Mojon Twins","description":""}
+{"id":2804,"name":"The NMeade","description":""}
+{"id":2805,"name":"The Oliver Twins","description":""}
+{"id":2806,"name":"The Pokémon Company","description":""}
+{"id":2807,"name":"The Power House","description":""}
+{"id":2808,"name":"The Red Eagle","description":""}
+{"id":2809,"name":"The Software Toolworks","description":""}
+{"id":2810,"name":"ThePoisonMirage","description":""}
+{"id":2811,"name":"Theytah","description":""}
+{"id":2812,"name":"Thin Chen Enterprises","description":""}
+{"id":2813,"name":"Think Soft","description":""}
+{"id":2814,"name":"Thor Computer Software","description":""}
+{"id":2815,"name":"Thorn Emi Video","description":""}
+{"id":2816,"name":"ThunderStruck","description":""}
+{"id":2817,"name":"Tiertex","description":""}
+{"id":2818,"name":"Tiger","description":""}
+{"id":2819,"name":"Tigervision","description":""}
+{"id":2820,"name":"Time Warner Interactive","description":""}
+{"id":2821,"name":"Timur Lyazgiev","description":""}
+{"id":2822,"name":"Titovision","description":""}
+{"id":2823,"name":"Titus","description":""}
+{"id":2824,"name":"Titus Software","description":""}
+{"id":2825,"name":"Titus Software Corp","description":""}
+{"id":2826,"name":"Tivola","description":""}
+{"id":2827,"name":"Toaplan","description":""}
+{"id":2828,"name":"Toaplan (Dooyong license)","description":""}
+{"id":2829,"name":"Toaplan (Hong Kong Honest Trading license)","description":""}
+{"id":2830,"name":"Toaplan (Taito license)","description":""}
+{"id":2831,"name":"Toaplan (Williams license)","description":""}
+{"id":2832,"name":"Toaplan / Atari","description":""}
+{"id":2833,"name":"Toaplan / Data East Corporation","description":""}
+{"id":2834,"name":"Toaplan / Data East USA","description":""}
+{"id":2835,"name":"Toaplan / Taito","description":""}
+{"id":2836,"name":"Toaplan / Taito America Corp.","description":""}
+{"id":2837,"name":"Toaplan / Taito America Corporation","description":""}
+{"id":2838,"name":"Toaplan / Taito America Corporation (Kitkorp license)","description":""}
+{"id":2839,"name":"Toaplan / Taito America Corporation (Romstar license)","description":""}
+{"id":2840,"name":"Toaplan / Taito Corporation","description":""}
+{"id":2841,"name":"Toaplan / Taito Corporation Japan","description":""}
+{"id":2842,"name":"Toaplan GP9001 based","description":""}
+{"id":2843,"name":"Toei Animation","description":""}
+{"id":2844,"name":"Toemiland","description":""}
+{"id":2845,"name":"Toho","description":""}
+{"id":2846,"name":"Toho Company","description":""}
+{"id":2847,"name":"Tokai Engineering","description":""}
+{"id":2848,"name":"Tokuma Shoten","description":""}
+{"id":2849,"name":"Tokyo Electron","description":""}
+{"id":2850,"name":"Tokyo Shoseki","description":""}
+{"id":2851,"name":"Tom Create","description":""}
+{"id":2852,"name":"Tombwarrior, Brawlboxgaming, Bladestorm227, Skipper93653, Bear, MrFib, AlphaFlame","description":""}
+{"id":2853,"name":"Tomcreate","description":""}
+{"id":2854,"name":"Tomy","description":""}
+{"id":2855,"name":"Tomy / Takara Tomy","description":""}
+{"id":2856,"name":"Tomy Corporation","description":""}
+{"id":2857,"name":"Tomy UK Ltd.","description":""}
+{"id":2858,"name":"Tonkin House","description":""}
+{"id":2859,"name":"Top Ltd.","description":""}
+{"id":2860,"name":"TopWare Interactive","description":""}
+{"id":2861,"name":"Topia","description":""}
+{"id":2862,"name":"Topis Corp","description":""}
+{"id":2863,"name":"Topo Soft","description":""}
+{"id":2864,"name":"Topo Soft - Ocean Software","description":""}
+{"id":2865,"name":"Toshiba","description":""}
+{"id":2866,"name":"Toshiba EMI","description":""}
+{"id":2867,"name":"Towa Chiki","description":""}
+{"id":2868,"name":"Tozai Games","description":""}
+{"id":2869,"name":"Tqwn Amusement","description":""}
+{"id":2870,"name":"Tradewest","description":""}
+{"id":2871,"name":"Travellers Tales","description":""}
+{"id":2872,"name":"Treco","description":""}
+{"id":2873,"name":"Triffix","description":""}
+{"id":2874,"name":"Trion Worlds, Namco Bandai","description":""}
+{"id":2875,"name":"Triumph Game Labs","description":""}
+{"id":2876,"name":"Triumph Software Inc.","description":""}
+{"id":2877,"name":"Tru Blu Entertainment","description":""}
+{"id":2878,"name":"Tru Blu Games","description":""}
+{"id":2879,"name":"Tru Blue Games","description":""}
+{"id":2880,"name":"TrueGemDownloads & Darkumbra","description":""}
+{"id":2881,"name":"Tryfirst","description":""}
+{"id":2882,"name":"Tsukuda Original","description":""}
+{"id":2883,"name":"Tubby Games","description":""}
+{"id":2884,"name":"Tuning","description":""}
+{"id":2885,"name":"Turbo Technologies, Inc.","description":""}
+{"id":2886,"name":"Twilight (BitesDev)","description":""}
+{"id":2887,"name":"Twilight Games","description":""}
+{"id":2888,"name":"Twisty","description":""}
+{"id":2889,"name":"Two Tribes","description":""}
+{"id":2890,"name":"Two Tribes Publishing","description":""}
+{"id":2891,"name":"TwoFive","description":""}
+{"id":2892,"name":"Tynesoft","description":""}
+{"id":2893,"name":"Tyshy","description":""}
+{"id":2894,"name":"U.S. Games","description":""}
+{"id":2895,"name":"U.S. Games Corporation / Vidtec","description":""}
+{"id":2896,"name":"U.S. Gold","description":""}
+{"id":2897,"name":"UBI Soft","description":""}
+{"id":2898,"name":"UBI Soft Entertaiment","description":""}
+{"id":2899,"name":"UBI Soft Entertainment","description":""}
+{"id":2900,"name":"UBISoft","description":""}
+{"id":2901,"name":"UDP TEAM (Requiem307 and JavierMontenegro)","description":""}
+{"id":2902,"name":"UFO Interactive","description":""}
+{"id":2903,"name":"UFO Interactive Games","description":""}
+{"id":2904,"name":"UNIPACC","description":""}
+{"id":2905,"name":"UPL","description":""}
+{"id":2906,"name":"UPL (American Sammy license)","description":""}
+{"id":2907,"name":"UPL (Cosmos license)","description":""}
+{"id":2908,"name":"UPL (Jaleco license)","description":""}
+{"id":2909,"name":"UPL (Kawakus license)","description":""}
+{"id":2910,"name":"UPL (Seoul Trading license)","description":""}
+{"id":2911,"name":"UPL (Taito license)","description":""}
+{"id":2912,"name":"UPL (United Amusements license)","description":""}
+{"id":2913,"name":"UPL (Universal license)","description":""}
+{"id":2914,"name":"UPL (World Games license)","description":""}
+{"id":2915,"name":"US Gold","description":""}
+{"id":2916,"name":"USB Loader GX Team","description":""}
+{"id":2917,"name":"Ubhres Productions","description":""}
+{"id":2918,"name":"Ubi","description":""}
+{"id":2919,"name":"Ubi Soft","description":""}
+{"id":2920,"name":"Ubi Soft / Crave Entertaiment","description":""}
+{"id":2921,"name":"Ubi Soft / Crave Entertainment","description":""}
+{"id":2922,"name":"Ubi Soft / Mattel","description":""}
+{"id":2923,"name":"Ubi Soft / Red Storm Entertainment","description":""}
+{"id":2924,"name":"Ubi Soft Entertaiment","description":""}
+{"id":2925,"name":"Ubi Soft Entertainment","description":""}
+{"id":2926,"name":"Ubi Soft Entertainment / Disney Interactive","description":""}
+{"id":2927,"name":"Ubi Soft Entertainment Software","description":""}
+{"id":2928,"name":"UbiSoft","description":""}
+{"id":2929,"name":"UbiSoft Entertainment Software","description":""}
+{"id":2930,"name":"Ubisoft","description":""}
+{"id":2931,"name":"Ubisoft / Crave Entertainment, Inc","description":""}
+{"id":2932,"name":"Ubisoft / Disney Interactive","description":""}
+{"id":2933,"name":"Ubisoft / NewKidCo LLC","description":""}
+{"id":2934,"name":"Ubisoft Entertaiment / SouthPeak Interactive, LLC","description":""}
+{"id":2935,"name":"Ubisoft Entertainment","description":""}
+{"id":2936,"name":"Ubisoft Shanghai","description":""}
+{"id":2937,"name":"Ubisoft, Inc","description":""}
+{"id":2938,"name":"Uchudo","description":""}
+{"id":2939,"name":"Ukiyotei","description":""}
+{"id":2940,"name":"Ultimate Play The Game","description":""}
+{"id":2941,"name":"Ultra Games","description":""}
+{"id":2942,"name":"Ultravision","description":""}
+{"id":2943,"name":"Uni Post Company","description":""}
+{"id":2944,"name":"Unico","description":""}
+{"id":2945,"name":"Unique","description":""}
+{"id":2946,"name":"Universal","description":""}
+{"id":2947,"name":"Universal ","description":""}
+{"id":2948,"name":"Universal (Taito license)","description":""}
+{"id":2949,"name":"Universal Gamex Corporation","description":""}
+{"id":2950,"name":"Universal Interactive","description":""}
+{"id":2951,"name":"Universal Interactive Studios","description":""}
+{"id":2952,"name":"Universal Interactive, Inc","description":""}
+{"id":2953,"name":"Universal Video Games","description":""}
+{"id":2954,"name":"Unreleased","description":""}
+{"id":2955,"name":"Use Corporation","description":""}
+{"id":2956,"name":"V-System Co.","description":""}
+{"id":2957,"name":"V-System Co. (Bally/Midway/Sente license)","description":""}
+{"id":2958,"name":"V-System Co. (Data East license)","description":""}
+{"id":2959,"name":"VAP","description":""}
+{"id":2960,"name":"VCC Entertainment","description":""}
+{"id":2961,"name":"VIS Entertainment","description":""}
+{"id":2962,"name":"Valadon Automation","description":""}
+{"id":2963,"name":"Valadon Automation (Itisa license)","description":""}
+{"id":2964,"name":"Valadon Automation (Stern Electronics license)","description":""}
+{"id":2965,"name":"Valadon Automation (Taito license)","description":""}
+{"id":2966,"name":"Valcon Games","description":""}
+{"id":2967,"name":"Valcon Games, LLC","description":""}
+{"id":2968,"name":"ValuSoft, Inc","description":""}
+{"id":2969,"name":"Vanguard Works","description":""}
+{"id":2970,"name":"Vap Inc","description":""}
+{"id":2971,"name":"Vap Inc.","description":""}
+{"id":2972,"name":"Varie Corporation","description":""}
+{"id":2973,"name":"Vatical Entertainment","description":""}
+{"id":2974,"name":"Vblank Entertainment","description":""}
+{"id":2975,"name":"Vblank Entertainment ","description":""}
+{"id":2976,"name":"VentureVision","description":""}
+{"id":2977,"name":"Verwarnung","description":""}
+{"id":2978,"name":"Vestrel","description":""}
+{"id":2979,"name":"Viacom New Media","description":""}
+{"id":2980,"name":"Vial One","description":""}
+{"id":2981,"name":"Vic Tokai","description":""}
+{"id":2982,"name":"Vic Tokai Corporation","description":""}
+{"id":2983,"name":"Vic Twenty George","description":""}
+{"id":2984,"name":"Viccom","description":""}
+{"id":2985,"name":"Victor","description":""}
+{"id":2986,"name":"Victor Entertainment","description":""}
+{"id":2987,"name":"Victor Interactive","description":""}
+{"id":2988,"name":"Victor Interactive Software","description":""}
+{"id":2989,"name":"Victor Ongaku Sangyou","description":""}
+{"id":2990,"name":"Video Gems","description":""}
+{"id":2991,"name":"Video Optics","description":""}
+{"id":2992,"name":"Video Soft","description":""}
+{"id":2993,"name":"Video System","description":""}
+{"id":2994,"name":"Video System Co.","description":""}
+{"id":2995,"name":"Video System Co. (Tecmo license)","description":""}
+{"id":2996,"name":"Videoton","description":""}
+{"id":2997,"name":"ViktorMax3","description":""}
+{"id":2998,"name":"Vir2L","description":""}
+{"id":2999,"name":"Vir2L Studios","description":""}
+{"id":3000,"name":"Virgin","description":""}
+{"id":3001,"name":"Virgin Games","description":""}
+{"id":3002,"name":"Virgin Interactive","description":""}
+{"id":3003,"name":"Virgin Interactive (but never released the game)","description":""}
+{"id":3004,"name":"Virgin Interactive / Capcom","description":""}
+{"id":3005,"name":"Virgin Interactive / V2 Play","description":""}
+{"id":3006,"name":"Virgin Interactive Entertaiment","description":""}
+{"id":3007,"name":"Virgin Interactive Entertainment","description":""}
+{"id":3008,"name":"Virgin Mastertronic","description":""}
+{"id":3009,"name":"Virgin Play","description":""}
+{"id":3010,"name":"Virtual Play Games","description":""}
+{"id":3011,"name":"Virtual Toys","description":""}
+{"id":3012,"name":"Visco","description":""}
+{"id":3013,"name":"Visco (Europe)","description":""}
+{"id":3014,"name":"Visco (Japan)","description":""}
+{"id":3015,"name":"Visco / Datt Japan","description":""}
+{"id":3016,"name":"Visco / KID","description":""}
+{"id":3017,"name":"Vision Electronics","description":""}
+{"id":3018,"name":"Visions Software Factory","description":""}
+{"id":3019,"name":"Visit","description":""}
+{"id":3020,"name":"Visual Concepts","description":""}
+{"id":3021,"name":"Visual Impact","description":""}
+{"id":3022,"name":"Vivendi","description":""}
+{"id":3023,"name":"Vivendi Games","description":""}
+{"id":3024,"name":"Vivendi Universal","description":""}
+{"id":3025,"name":"Vivendi Universal / Fox Interactive","description":""}
+{"id":3026,"name":"Vivendi Universal / Sierra Entertainment, Inc","description":""}
+{"id":3027,"name":"Vivendi Universal Games","description":""}
+{"id":3028,"name":"Vivendi Universal Games, Inc","description":""}
+{"id":3029,"name":"Vivendi Universal Interactive","description":""}
+{"id":3030,"name":"Vogster Entertainment","description":""}
+{"id":3031,"name":"Volt Elec co-ltd","description":""}
+{"id":3032,"name":"Vortex Software","description":""}
+{"id":3033,"name":"WB Games","description":""}
+{"id":3034,"name":"WB Games Japan","description":""}
+{"id":3035,"name":"WBA Interactive","description":""}
+{"id":3036,"name":"Wanadoo","description":""}
+{"id":3037,"name":"Wanadoo / Cryo Interactive","description":""}
+{"id":3038,"name":"Wanadoo Edition","description":""}
+{"id":3039,"name":"Waninkoko","description":""}
+{"id":3040,"name":"Warashi","description":""}
+{"id":3041,"name":"WarioTails358","description":""}
+{"id":3042,"name":"Warner Bros","description":""}
+{"id":3043,"name":"Warner Bros Games","description":""}
+{"id":3044,"name":"Warner Bros Interactive","description":""}
+{"id":3045,"name":"Warner Bros Interactive Entertainment","description":""}
+{"id":3046,"name":"Warner Bros.","description":""}
+{"id":3047,"name":"Warner Bros. Entertainment","description":""}
+{"id":3048,"name":"Warner Bros. Entertainment Inc.","description":""}
+{"id":3049,"name":"Warner Bros. Interactive","description":""}
+{"id":3050,"name":"Warner Bros. Interactive Entertainment","description":""}
+{"id":3051,"name":"Warner Bros. Interactive Entertainment Inc.","description":""}
+{"id":3052,"name":"Warner Home Video Games","description":""}
+{"id":3053,"name":"Warner Interactive","description":""}
+{"id":3054,"name":"Watara","description":""}
+{"id":3055,"name":"Water Block","description":""}
+{"id":3056,"name":"Watermelon","description":""}
+{"id":3057,"name":"Wave Jack","description":""}
+{"id":3058,"name":"Wave-8","description":""}
+{"id":3059,"name":"WayForward","description":""}
+{"id":3060,"name":"Weird Science Software","description":""}
+{"id":3061,"name":"Well Made","description":""}
+{"id":3062,"name":"Western Technologies","description":""}
+{"id":3063,"name":"Westwood Studios","description":""}
+{"id":3064,"name":"White Board","description":""}
+{"id":3065,"name":"White Park Bay Software Ltd","description":""}
+{"id":3066,"name":"White Park Bay Software Ltd.","description":""}
+{"id":3067,"name":"Widgit Software","description":""}
+{"id":3068,"name":"WiiMC","description":""}
+{"id":3069,"name":"Wiimm","description":""}
+{"id":3070,"name":"Wiimm, wiimm.de/r/mkw/fun","description":""}
+{"id":3071,"name":"Wiimm, wiimm.de/wii/mkw","description":""}
+{"id":3072,"name":"Wiimm, www.wiimm.de/r/mkw/fun","description":""}
+{"id":3073,"name":"WiisleyU","description":""}
+{"id":3074,"name":"Wild","description":""}
+{"id":3075,"name":"Will Bridge","description":""}
+{"id":3076,"name":"Williams","description":""}
+{"id":3077,"name":"Williams (Taito Corporation license)","description":""}
+{"id":3078,"name":"Williams / Vid Kidz","description":""}
+{"id":3079,"name":"Williams / Vid Kidz (Unidesa license)","description":""}
+{"id":3080,"name":"Williams Entertainment","description":""}
+{"id":3081,"name":"Williams Entertainment / GT Interactive","description":""}
+{"id":3082,"name":"Windy Max","description":""}
+{"id":3083,"name":"Windysoft","description":""}
+{"id":3084,"name":"Wine, Kyt, Keiichi1996, Hiroki, and Dark.","description":""}
+{"id":3085,"name":"Winkysoft (Banpresto license)","description":""}
+{"id":3086,"name":"Wintechno","description":""}
+{"id":3087,"name":"WinterKirby","description":""}
+{"id":3088,"name":"Wired Productions / Le Cortex","description":""}
+{"id":3089,"name":"Wisdom Tree","description":""}
+{"id":3090,"name":"Wisdom Tree, Inc.","description":""}
+{"id":3091,"name":"WitherTech","description":""}
+{"id":3092,"name":"Wizard Video Games","description":""}
+{"id":3093,"name":"WizardWorks","description":""}
+{"id":3094,"name":"Wolf Team","description":""}
+{"id":3095,"name":"Wonder Amusement Studio","description":""}
+{"id":3096,"name":"Wood Place Inc.","description":""}
+{"id":3097,"name":"Wood Place Inc. (Data East USA license)","description":""}
+{"id":3098,"name":"Wood Place Inc. (Data East license)","description":""}
+{"id":3099,"name":"Wood Place Inc. (Status Game Corp. license)","description":""}
+{"id":3100,"name":"Wood Place Inc. (Taito America Corporation license)","description":""}
+{"id":3101,"name":"Wood Place Inc. (Taito Corporation license)","description":""}
+{"id":3102,"name":"Wood Place Inc. (Taito license)","description":""}
+{"id":3103,"name":"Woodplace Inc.","description":""}
+{"id":3104,"name":"Woong Bi","description":""}
+{"id":3105,"name":"Work Force","description":""}
+{"id":3106,"name":"WorkJam","description":""}
+{"id":3107,"name":"Working Designs","description":""}
+{"id":3108,"name":"Wr. Agostini","description":""}
+{"id":3109,"name":"X BOY","description":""}
+{"id":3110,"name":"X-Nauts","description":""}
+{"id":3111,"name":"XAIN Soft","description":""}
+{"id":3112,"name":"XChosen1","description":""}
+{"id":3113,"name":"XING","description":""}
+{"id":3114,"name":"XS Games","description":""}
+{"id":3115,"name":"XS Games ","description":""}
+{"id":3116,"name":"XS Games - Jack Of All Games","description":""}
+{"id":3117,"name":"XS Games LLC","description":""}
+{"id":3118,"name":"XSEED Games","description":""}
+{"id":3119,"name":"XSeed Games","description":""}
+{"id":3120,"name":"Xicat Interactive","description":""}
+{"id":3121,"name":"Xing Entertainment","description":""}
+{"id":3122,"name":"Xonox","description":""}
+{"id":3123,"name":"Xplosiv","description":""}
+{"id":3124,"name":"Xseed Games","description":""}
+{"id":3125,"name":"Xtalsoft","description":""}
+{"id":3126,"name":"YBM Sisa.com","description":""}
+{"id":3127,"name":"YBM Sisa.com / Sammy Studios","description":""}
+{"id":3128,"name":"YM Soft","description":""}
+{"id":3129,"name":"Yachiyo Electronics, Ltd.","description":""}
+{"id":3130,"name":"Yamaha","description":""}
+{"id":3131,"name":"Yamasa","description":""}
+{"id":3132,"name":"Yang Cheng","description":""}
+{"id":3133,"name":"Yanoman Games","description":""}
+{"id":3134,"name":"Yanyaka","description":""}
+{"id":3135,"name":"Yanyaka (Mitchell license)","description":""}
+{"id":3136,"name":"Yashional","description":""}
+{"id":3137,"name":"Yasuda insurance company","description":""}
+{"id":3138,"name":"Ydmis","description":""}
+{"id":3139,"name":"Ydmis & Creamymami[EGCG]","description":""}
+{"id":3140,"name":"Ydmis / Creamymami[EGCG]","description":""}
+{"id":3141,"name":"Yeti","description":""}
+{"id":3142,"name":"YoeiX","description":""}
+{"id":3143,"name":"Yojigen","description":""}
+{"id":3144,"name":"Yona Tech","description":""}
+{"id":3145,"name":"Yonezawa","description":""}
+{"id":3146,"name":"Yoostar Entertainment Group","description":""}
+{"id":3147,"name":"Yoshivert99","description":""}
+{"id":3148,"name":"You Super Mario Bros. Me Team","description":""}
+{"id":3149,"name":"Yuga","description":""}
+{"id":3150,"name":"Yuke's","description":""}
+{"id":3151,"name":"Yuke's Co. Ltd","description":""}
+{"id":3152,"name":"Yuke's Company of America","description":""}
+{"id":3153,"name":"Yuke's Media Creations","description":""}
+{"id":3154,"name":"Yuki Enterprise","description":""}
+{"id":3155,"name":"Yuki Enterprise / SNK Playmore","description":""}
+{"id":3156,"name":"Yumedia","description":""}
+{"id":3157,"name":"Yumeji","description":""}
+{"id":3158,"name":"Yumeji, Dodowang[EGCG]","description":""}
+{"id":3159,"name":"Yumekobo","description":""}
+{"id":3160,"name":"Yumekobo / Saurus","description":""}
+{"id":3161,"name":"Yun Sung","description":""}
+{"id":3162,"name":"Yun Sung / J&K Production","description":""}
+{"id":3163,"name":"Yun Sung / Soft Vision","description":""}
+{"id":3164,"name":"Yutaka","description":""}
+{"id":3165,"name":"ZAP","description":""}
+{"id":3166,"name":"ZKW","description":""}
+{"id":3167,"name":"Zaccaria","description":""}
+{"id":3168,"name":"Zafiro Software Division","description":""}
+{"id":3169,"name":"Zallag","description":""}
+{"id":3170,"name":"Zamuse","description":""}
+{"id":3171,"name":"ZeldaEnCat","description":""}
+{"id":3172,"name":"Zell Ashdoll and AZLX","description":""}
+{"id":3173,"name":"ZementBlock","description":""}
+{"id":3174,"name":"Zemina","description":""}
+{"id":3175,"name":"Zen United","description":""}
+{"id":3176,"name":"Zen united","description":""}
+{"id":3177,"name":"ZeniMax Media","description":""}
+{"id":3178,"name":"Zenobi Software","description":""}
+{"id":3179,"name":"Zentai Software","description":""}
+{"id":3180,"name":"Zeppelin Games","description":""}
+{"id":3181,"name":"Zeta Multimedia / BBC Games","description":""}
+{"id":3182,"name":"Zigurat Software","description":""}
+{"id":3183,"name":"Zilec","description":""}
+{"id":3184,"name":"Zilec Electronics","description":""}
+{"id":3185,"name":"Zilec Electronics (Centuri license)","description":""}
+{"id":3186,"name":"Zilec Electronics (Taito license)","description":""}
+{"id":3187,"name":"Zilec-Zenitone","description":""}
+{"id":3188,"name":"Zilec-Zenitone (Konami license)","description":""}
+{"id":3189,"name":"Zilex-Zenitone","description":""}
+{"id":3190,"name":"Zimag","description":""}
+{"id":3191,"name":"Zinkia","description":""}
+{"id":3192,"name":"Zircon Software","description":""}
+{"id":3193,"name":"Zoey Amethyst, RainbowKappa, Gavin Krolczyk, Toxic Prime, Benjamin Halko, LibraWarrior2004","description":""}
+{"id":3194,"name":"Zolonito","description":""}
+{"id":3195,"name":"Zoo","description":""}
+{"id":3196,"name":"Zoo / Zushi","description":""}
+{"id":3197,"name":"Zoo Digital","description":""}
+{"id":3198,"name":"Zoo Digital Publishing","description":""}
+{"id":3199,"name":"Zoo Digital Publishing / Takara","description":""}
+{"id":3200,"name":"Zoo Games","description":""}
+{"id":3201,"name":"Zoo Ganes","description":""}
+{"id":3202,"name":"Zopolis4","description":""}
+{"id":3203,"name":"ZorroFlaco","description":""}
+{"id":3204,"name":"Zozosoft","description":""}
+{"id":3205,"name":"Zozosoft - Apuci","description":""}
+{"id":3206,"name":"Zushi Games - Funbox","description":""}
+{"id":3207,"name":"[Konami] (Stern license)","description":""}
+{"id":3208,"name":"[Namco] (Midway license)","description":""}
+{"id":3209,"name":"[Sanritsu] Sega","description":""}
+{"id":3210,"name":"[Seibu Kaihatsu] (Taito license)","description":""}
+{"id":3211,"name":"[Seibu] (Taito license)","description":""}
+{"id":3212,"name":"[Sun Electronics] (Atari license)","description":""}
+{"id":3213,"name":"[Sun Electronics] (Taito license)","description":""}
+{"id":3214,"name":"[Technos] (Taito America license)","description":""}
+{"id":3215,"name":"[Technos] (Taito license)","description":""}
+{"id":3216,"name":"[Technos] Universal USA","description":""}
+{"id":3217,"name":"[Toaplan] Hanafram","description":""}
+{"id":3218,"name":"[Toaplan] Nyanko","description":""}
+{"id":3219,"name":"[Zilec Electronics] Bally Midway","description":""}
+{"id":3220,"name":"[Zilec Electronics] Jaleco","description":""}
+{"id":3221,"name":"anumizter","description":""}
+{"id":3222,"name":"atomho10 (bBoY AtOMiC)","description":""}
+{"id":3223,"name":"atomho10 (bBoY AtOMiC) ","description":""}
+{"id":3224,"name":"attic","description":""}
+{"id":3225,"name":"bankbank","description":""}
+{"id":3226,"name":"bitComposer","description":""}
+{"id":3227,"name":"bitComposer Games","description":""}
+{"id":3228,"name":"bitComposer Games - NAMCO BANDAI Partners Germany","description":""}
+{"id":3229,"name":"blastar@gmx.net","description":""}
+{"id":3230,"name":"bootleg","description":""}
+{"id":3231,"name":"bootleg (A.V.G. by Zaccaria)","description":""}
+{"id":3232,"name":"bootleg (Aladar)","description":""}
+{"id":3233,"name":"bootleg (Alca)","description":""}
+{"id":3234,"name":"bootleg (Allied Leisure)","description":""}
+{"id":3235,"name":"bootleg (Amtec)","description":""}
+{"id":3236,"name":"bootleg (Arfyc)","description":""}
+{"id":3237,"name":"bootleg (Assa)","description":""}
+{"id":3238,"name":"bootleg (Associated Overseas MFR, Inc.)","description":""}
+{"id":3239,"name":"bootleg (BGV Ltd.)","description":""}
+{"id":3240,"name":"bootleg (Beta)","description":""}
+{"id":3241,"name":"bootleg (Billport S.A.)","description":""}
+{"id":3242,"name":"bootleg (Calfesa S.L.)","description":""}
+{"id":3243,"name":"bootleg (Calfesa)","description":""}
+{"id":3244,"name":"bootleg (Centromatic S.A.)","description":""}
+{"id":3245,"name":"bootleg (Cirsa)","description":""}
+{"id":3246,"name":"bootleg (Cocamatic)","description":""}
+{"id":3247,"name":"bootleg (Cocomatic)","description":""}
+{"id":3248,"name":"bootleg (Conny Co Ltd.)","description":""}
+{"id":3249,"name":"bootleg (D&L)","description":""}
+{"id":3250,"name":"bootleg (DDT Enterprise Inc)","description":""}
+{"id":3251,"name":"bootleg (Datamat)","description":""}
+{"id":3252,"name":"bootleg (Datsu)","description":""}
+{"id":3253,"name":"bootleg (David Widel)","description":""}
+{"id":3254,"name":"bootleg (EFG Sanremo)","description":""}
+{"id":3255,"name":"bootleg (EMT Germany)","description":""}
+{"id":3256,"name":"bootleg (ESG)","description":""}
+{"id":3257,"name":"bootleg (Eddie's Games)","description":""}
+{"id":3258,"name":"bootleg (Electrogame S.A.)","description":""}
+{"id":3259,"name":"bootleg (Electrogame)","description":""}
+{"id":3260,"name":"bootleg (Electromar)","description":""}
+{"id":3261,"name":"bootleg (Elsys Software)","description":""}
+{"id":3262,"name":"bootleg (Elsys)","description":""}
+{"id":3263,"name":"bootleg (Euromatic S.A.)","description":""}
+{"id":3264,"name":"bootleg (FAMARE S.A.)","description":""}
+{"id":3265,"name":"bootleg (FAR S.A.)","description":""}
+{"id":3266,"name":"bootleg (Falcom?)","description":""}
+{"id":3267,"name":"bootleg (Famare SA)","description":""}
+{"id":3268,"name":"bootleg (Fortrek)","description":""}
+{"id":3269,"name":"bootleg (Fraber)","description":""}
+{"id":3270,"name":"bootleg (G.G.I. Corporation)","description":""}
+{"id":3271,"name":"bootleg (Gaelco / Ervisa)","description":""}
+{"id":3272,"name":"bootleg (Gayton Games)","description":""}
+{"id":3273,"name":"bootleg (Gremlin)","description":""}
+{"id":3274,"name":"bootleg (Hellomat Automaten)","description":""}
+{"id":3275,"name":"bootleg (Herle SA)","description":""}
+{"id":3276,"name":"bootleg (Hoei)","description":""}
+{"id":3277,"name":"bootleg (I.P.)","description":""}
+{"id":3278,"name":"bootleg (IDI)","description":""}
+{"id":3279,"name":"bootleg (ITISA)","description":""}
+{"id":3280,"name":"bootleg (Inder S.A.)","description":""}
+{"id":3281,"name":"bootleg (Inder SA)","description":""}
+{"id":3282,"name":"bootleg (Irecsa)","description":""}
+{"id":3283,"name":"bootleg (Jeutel)","description":""}
+{"id":3284,"name":"bootleg (KZH)","description":""}
+{"id":3285,"name":"bootleg (Kaina Games)","description":""}
+{"id":3286,"name":"bootleg (Karateco)","description":""}
+{"id":3287,"name":"bootleg (Kyon K.)","description":""}
+{"id":3288,"name":"bootleg (Laguna S.A.)","description":""}
+{"id":3289,"name":"bootleg (Leisure and Allied)","description":""}
+{"id":3290,"name":"bootleg (Loris)","description":""}
+{"id":3291,"name":"bootleg (Marti Colls)","description":""}
+{"id":3292,"name":"bootleg (Model Racing)","description":""}
+{"id":3293,"name":"bootleg (Multivideo)","description":""}
+{"id":3294,"name":"bootleg (Niemer S.A.)","description":""}
+{"id":3295,"name":"bootleg (Niemer)","description":""}
+{"id":3296,"name":"bootleg (Olympia)","description":""}
+{"id":3297,"name":"bootleg (Omni)","description":""}
+{"id":3298,"name":"bootleg (Outer Limits)","description":""}
+{"id":3299,"name":"bootleg (PSV S.A.)","description":""}
+{"id":3300,"name":"bootleg (Petaco S.A.)","description":""}
+{"id":3301,"name":"bootleg (Petaco SA)","description":""}
+{"id":3302,"name":"bootleg (Petaco)","description":""}
+{"id":3303,"name":"bootleg (Phenixsoft)","description":""}
+{"id":3304,"name":"bootleg (Playmark)","description":""}
+{"id":3305,"name":"bootleg (Playmark?)","description":""}
+{"id":3306,"name":"bootleg (Potomac Mortgage)","description":""}
+{"id":3307,"name":"bootleg (Proel)","description":""}
+{"id":3308,"name":"bootleg (Punji)","description":""}
+{"id":3309,"name":"bootleg (Razoola)","description":""}
+{"id":3310,"name":"bootleg (Reben S.A.)","description":""}
+{"id":3311,"name":"bootleg (Recreativos Covadonga)","description":""}
+{"id":3312,"name":"bootleg (Recreativos Franco S.A.)","description":""}
+{"id":3313,"name":"bootleg (Recreativos Franco)","description":""}
+{"id":3314,"name":"bootleg (Rene-Pierre)","description":""}
+{"id":3315,"name":"bootleg (Rodmar Elec.)","description":""}
+{"id":3316,"name":"bootleg (Rumiano)","description":""}
+{"id":3317,"name":"bootleg (S C Novar)","description":""}
+{"id":3318,"name":"bootleg (SG-Florence)","description":""}
+{"id":3319,"name":"bootleg (Samyra Engineering)","description":""}
+{"id":3320,"name":"bootleg (Screen) / Konami","description":""}
+{"id":3321,"name":"bootleg (SegaSA / Sonic)","description":""}
+{"id":3322,"name":"bootleg (Seyutu)","description":""}
+{"id":3323,"name":"bootleg (Sidam)","description":""}
+{"id":3324,"name":"bootleg (Sonic)","description":""}
+{"id":3325,"name":"bootleg (Subelectro)","description":""}
+{"id":3326,"name":"bootleg (T.P.N.)","description":""}
+{"id":3327,"name":"bootleg (TAB Austria)","description":""}
+{"id":3328,"name":"bootleg (TCH)","description":""}
+{"id":3329,"name":"bootleg (Taito do Brasil)","description":""}
+{"id":3330,"name":"bootleg (Tecfri)","description":""}
+{"id":3331,"name":"bootleg (Tecnausa)","description":""}
+{"id":3332,"name":"bootleg (Triunvi)","description":""}
+{"id":3333,"name":"bootleg (Tuning)","description":""}
+{"id":3334,"name":"bootleg (U.G.)","description":""}
+{"id":3335,"name":"bootleg (UPL)","description":""}
+{"id":3336,"name":"bootleg (VGG)","description":""}
+{"id":3337,"name":"bootleg (Valadon Automation / Rene Pierre)","description":""}
+{"id":3338,"name":"bootleg (Video Dens)","description":""}
+{"id":3339,"name":"bootleg (Video Game S.A.)","description":""}
+{"id":3340,"name":"bootleg (Video Game SA)","description":""}
+{"id":3341,"name":"bootleg (Video Game)","description":""}
+{"id":3342,"name":"bootleg (Videomac)","description":""}
+{"id":3343,"name":"bootleg (Videotron)","description":""}
+{"id":3344,"name":"bootleg (Vince)","description":""}
+{"id":3345,"name":"bootleg (Vision)","description":""}
+{"id":3346,"name":"bootleg (Yawdim)","description":""}
+{"id":3347,"name":"bootleg?","description":""}
+{"id":3348,"name":"bootleg? (G. Universal Video)","description":""}
+{"id":3349,"name":"bootleg? (Goldberg Enterprizes Inc.)","description":""}
+{"id":3350,"name":"bootleg? (Irecsa / G.G.I. Corporation)","description":""}
+{"id":3351,"name":"bootleg? (Irem)","description":""}
+{"id":3352,"name":"bootleg? (Petaco S.A.)","description":""}
+{"id":3353,"name":"bootleg? (Sidam)","description":""}
+{"id":3354,"name":"bootleg? (Universal Video Spiel)","description":""}
+{"id":3355,"name":"capcom","description":""}
+{"id":3356,"name":"ckGames","description":""}
+{"id":3357,"name":"cmonkey","description":""}
+{"id":3358,"name":"darkumbra","description":""}
+{"id":3359,"name":"davidbkimball","description":""}
+{"id":3360,"name":"dtp Entertainment AG","description":""}
+{"id":3361,"name":"dtp entertainment","description":""}
+{"id":3362,"name":"dtp entertainment AG","description":""}
+{"id":3363,"name":"dtp young Entertainment","description":""}
+{"id":3364,"name":"dtp young entertainment","description":""}
+{"id":3365,"name":"dtp young entertainment GmbH & Co. KG","description":""}
+{"id":3366,"name":"electronic art","description":""}
+{"id":3367,"name":"fm_reyes","description":""}
+{"id":3368,"name":"gave92","description":""}
+{"id":3369,"name":"hack","description":""}
+{"id":3370,"name":"hack (Bisboch and Aladar)","description":""}
+{"id":3371,"name":"hack (Braze Technologies)","description":""}
+{"id":3372,"name":"hack (Chris Covell)","description":""}
+{"id":3373,"name":"hack (Chris White)","description":""}
+{"id":3374,"name":"hack (Clay Cowgill)","description":""}
+{"id":3375,"name":"hack (Duncan Brown)","description":""}
+{"id":3376,"name":"hack (JMA)","description":""}
+{"id":3377,"name":"hack (Jeff Kulczycki)","description":""}
+{"id":3378,"name":"hack (Monshine Ent. Co.)","description":""}
+{"id":3379,"name":"hack (Negro Torino)","description":""}
+{"id":3380,"name":"hack (Two Bit Score)","description":""}
+{"id":3381,"name":"hack (Two-Bit Score)","description":""}
+{"id":3382,"name":"hack (Video Research)","description":""}
+{"id":3383,"name":"hack (john Kowalski)","description":""}
+{"id":3384,"name":"hack (trap15)","description":""}
+{"id":3385,"name":"hack / Trap15","description":""}
+{"id":3386,"name":"hack / bootleg","description":""}
+{"id":3387,"name":"hack by Minwah","description":""}
+{"id":3388,"name":"hack, C.B","description":""}
+{"id":3389,"name":"homebrew","description":""}
+{"id":3390,"name":"iFun4all","description":""}
+{"id":3391,"name":"id Software","description":""}
+{"id":3392,"name":"iocerom.com","description":""}
+{"id":3393,"name":"itch.io","description":""}
+{"id":3394,"name":"jornmann, Andy Sloane","description":""}
+{"id":3395,"name":"lbarasc","description":""}
+{"id":3396,"name":"libretro","description":""}
+{"id":3397,"name":"mastaklo","description":""}
+{"id":3398,"name":"natsume","description":""}
+{"id":3399,"name":"ollychannel78","description":""}
+{"id":3400,"name":"projekt Sing It Star","description":""}
+{"id":3401,"name":"projekt SingItStar","description":""}
+{"id":3402,"name":"projekt sing it star","description":""}
+{"id":3403,"name":"redxslash","description":""}
+{"id":3404,"name":"retroUSB","description":""}
+{"id":3405,"name":"scannff","description":""}
+{"id":3406,"name":"sebskater29","description":""}
+{"id":3407,"name":"shock44","description":""}
+{"id":3408,"name":"sony","description":""}
+{"id":3409,"name":"swing interactive","description":""}
+{"id":3410,"name":"tejerillo","description":""}
+{"id":3411,"name":"tsone","description":""}
+{"id":3412,"name":"unknown","description":""}
+{"id":3413,"name":"virtual-boy.com","description":""}
+{"id":3414,"name":"wiicat","description":""}
+{"id":3415,"name":"xxRedxx","description":""}
+{"id":3416,"name":"まらとなのい!","description":""}
